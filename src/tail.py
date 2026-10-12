@@ -60,6 +60,8 @@ def render_frame(i):
             ball(img, codes[j], sx, sy, 190, sit['lines'][codes[j]][1], T, look=(0.6 if sx < STAGE[0] else -0.6, -0.5))
         code = codes[k]; line, mood = sit['lines'][code]
         x, y, d, sq = turn_pose(k, lt, code, mood)
+        lv = speech_levels(str(PLAN.get('seed')) + PLAN['situation'] + ','.join(codes))
+        sq += 0.07 * float(lv[min(len(lv) - 1, i)])   # konuşurken sese göre esner
         ball(img, code, x, y, d, mood if lt >= 0.45 else 'normal', T, sq, look=(0, 0))
         if 0.45 <= lt < TURN - 0.55:
             bubble(img, line, STAGE[0], 690, 0, seg(lt, 0.45, 0.7) * (1 - seg(lt, TURN - 0.75, TURN - 0.55)))
@@ -125,6 +127,28 @@ def exclaim(code, mood, seed):
     return x / (np.abs(x).max() + 1e-9) * 0.7
 
 
+def line_clip(sit, code):
+    """Ülkenin bu durumdaki repliği (kendi aksanıyla): voices/cw/<ÜLKE>/<durum>.wav; yoksa None → anime ünlemi."""
+    f = os.path.join(HERE, 'voices', 'cw', code, f'{sit}.wav')
+    x = load_clip(f) if os.path.exists(f) else None
+    if x is None: return None
+    x = x[:int(SR * (TURN - 1.1))]
+    return x / (np.abs(x).max() + 1e-9) * 0.85
+
+
+@lru_cache(4)
+def speech_levels(key):
+    """Konuşan topun kare başına ses seviyesi (konuşurken zıplar)."""
+    sit = PLAN['situation']; nf = int(total() * FPS) + 2; lv = np.zeros(nf); hop = SR // FPS
+    for k, code in enumerate(PLAN['countries']):
+        x = line_clip(sit, code)
+        if x is None: continue
+        m = len(x) // hop
+        rms = np.sqrt((x[:m * hop].reshape(m, hop) ** 2).mean(axis=1))
+        i0 = int((INTRO + k * TURN + 0.5) * FPS); seg_ = lv[i0:i0 + m]; seg_ += rms[:len(seg_)]
+    return lv / (lv.max() + 1e-9)
+
+
 def ambience(kind, dur):
     tt = t_arr(dur)
     if kind == 'rain': return lpf(noise(dur), 2) * 0.12
@@ -146,7 +170,8 @@ def build_audio(path):
     for k, code in enumerate(PLAN['countries']):
         base = INTRO + k * TURN; mood = sit['lines'][code][1]
         place(mix, base, sfx('whoosh_s')); place(mix, base + 0.5, sfx('boing'))
-        place(vo, base + 0.5, exclaim(code, mood, PLAN['seed'] + k))
+        ln = line_clip(PLAN['situation'], code)
+        place(vo, base + 0.5, ln if ln is not None else exclaim(code, mood, PLAN['seed'] + k))
         place(mix, base + TURN - 0.6, sfx('whoosh_s'))
     end = INTRO + TURN * len(PLAN['countries'])
     place(mix, end, sfx('ding')); place(mix, end + 0.4, sfx('clap')); place(mix, end + 0.55, sfx('clap'))
