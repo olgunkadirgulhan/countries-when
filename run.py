@@ -14,7 +14,9 @@ HISTORY = HERE / 'history.json'
 # ABD/İngilizce izleyici: büyük izleyici kitlesi olan ülkeler daha sık
 WEIGHT = {'US': 3, 'GB': 2, 'CA': 2, 'IN': 2, 'BR': 2, 'MX': 2, 'DE': 1.5, 'JP': 1.5, 'TR': 1.5, 'FR': 1.2, 'IT': 1.2,
           'ES': 1.2, 'KR': 1.2, 'NL': 1, 'AR': 1}
-TITLES = ['{t} 😂', '{t} 🌍', '{t} (Which One Are You?)', 'POV: {t} 😂', '{t} 💀', '{t}... 🤣']
+# 2026-10-12 trend ölçümü: 'countryballs' araması son 30 günde medyan 4.9M izlenme; 'countries when' ifadesi 305 → başlıkta countryballs
+TITLES = ['Countryballs: {t} 😂 #countryballs', '{t} 🌍 #countryballs', 'Countryballs When {s} 💀',
+          '{t} (Which One Are You?) #countryballs', 'POV: {t} 😂 #countryballs', 'Countryball Memes: {t} 🤣']
 
 
 def load():
@@ -43,15 +45,16 @@ def metadata(plan, hist, rnd):
     s = balls.SITUATIONS[plan['situation']]
     t = s['title'].title().replace("'S", "'s").replace('°C', '°C')
     used = {v['title'] for v in hist['videos']}
-    opts = [x.format(t=t) for x in TITLES]; rnd.shuffle(opts)
+    short_s = t.replace('Countries ', '', 1)
+    opts = [x.format(t=t, s=short_s) for x in TITLES]; rnd.shuffle(opts)
     title = next((x for x in opts if x not in used), opts[0] + f' #{len(hist["videos"]) + 1}')
     names = [balls.NAMES[c].title() if balls.NAMES[c] not in ('USA', 'UK') else balls.NAMES[c] for c in plan['countries']]
     lines = '\n'.join(f'{balls.NAMES[c].title() if balls.NAMES[c] not in ("USA", "UK") else balls.NAMES[c]}: '
                       f'"{s["lines"][c][0]}"' for c in plan['countries'])
     desc = (f'{t}! Which one is YOUR country? Comment below 👇\n\n{lines}\n\n'
             'Friendly, funny country stereotypes. New Countries When... Shorts every day 🌍\n\n'
-            '#shorts #countryballs #countries #funny #animation')
-    tags = ['countryballs', 'countries when', 'country stereotypes', 'funny countries', 'countryball animation',
+            '#shorts #countryballs #countryball #memes #animation')
+    tags = ['countryballs', 'countryball', 'countryballs animation', 'countryball memes', 'countries when', 'country stereotypes', 'funny countries', 'countryball animation',
             s['name'].lower(), 'animation', 'shorts'] + [n.lower() for n in names]
     return title, desc, tags
 
