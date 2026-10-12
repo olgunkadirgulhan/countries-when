@@ -1,0 +1,4 @@
+output/
+__pycache__/
+social/
+client_secret*.json
