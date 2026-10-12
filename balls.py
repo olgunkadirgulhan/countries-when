@@ -376,7 +376,7 @@ def effects(img, kind, t):
             y = (rnd.uniform(0, H) + t * sp) % H; x = x0 - y * 0.15
             d.line(box(x, y, x - 8, y + 46), fill=(200, 215, 240), width=L(3))
     elif kind == 'sun':
-        put_sphere(img, (255, 230, 90), 900, 230, 230 + 14 * math.sin(t * 3), 230 + 14 * math.sin(t * 3), 0.2)
+        put_sphere(img, (255, 230, 90), 880, 480, 200 + 12 * math.sin(t * 3), 200 + 12 * math.sin(t * 3), 0.2)
     elif kind == 'night':
         for j in range(3):
             t0 = (t + j * 1.1) % 3.3
