@@ -35,6 +35,8 @@ jobs:
         env:
           LOG_FILE: history.json
           SLOTS: "15:00,21:00"   # yeni kanal: 2/gün (seri üretim görünümü olmasın)
+          SLOTS_BOOST: "13:00,16:00,19:00,23:00"  # 2 hafta 4/gün, sonra otomatik normale
+          BOOST_UNTIL: "2026-10-26"
           HAS_YT: ${{ secrets.YT_REFRESH_TOKEN != '' && vars.LAUNCH == 'on' }}  # LAUNCH=on: seslendirme hazır olunca açılır
         # kanal bağlanana kadar zamanlı üretim yok (yoksa her saat boşuna render olur)
         run: |
