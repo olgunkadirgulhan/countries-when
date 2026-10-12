@@ -78,6 +78,10 @@ def main():
     privacy = os.environ.get('YT_PRIVACY') or 'private'
     vid = upload.upload(mp4, title, desc, tags, privacy, category='23')
     print(f'yüklendi: https://youtube.com/shorts/{vid} ({privacy})')
+    pl = HERE / 'playlists.json'
+    if pl.exists() and json.loads(pl.read_text()).get('all'):
+        try: upload.add_to_playlist(json.loads(pl.read_text())['all'], vid)
+        except Exception as e: print('playlist:', e)
     hist['videos'].append(dict(id=vid, date=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'), kind='short',
                                title=title, privacy=privacy, **plan))
     HISTORY.write_text(json.dumps(hist, indent=2, ensure_ascii=False) + '\n')
