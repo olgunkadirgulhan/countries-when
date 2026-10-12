@@ -34,8 +34,8 @@ jobs:
       - id: g
         env:
           LOG_FILE: history.json
-          SLOTS: "14:00,18:00,23:00"
-          HAS_YT: ${{ secrets.YT_REFRESH_TOKEN != '' }}
+          SLOTS: "15:00,21:00"   # yeni kanal: 2/gün (seri üretim görünümü olmasın)
+          HAS_YT: ${{ secrets.YT_REFRESH_TOKEN != '' && vars.LAUNCH == 'on' }}  # LAUNCH=on: seslendirme hazır olunca açılır
         # kanal bağlanana kadar zamanlı üretim yok (yoksa her saat boşuna render olur)
         run: |
           if [ "$HAS_YT" != "true" ]; then echo "YouTube secrets yok: atla"; echo "go=0" >> "$GITHUB_OUTPUT"; exit 0; fi
