@@ -59,6 +59,135 @@
         "IN"
       ],
       "seed": 81256
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 1: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "rain",
+      "countries": [
+        "ES",
+        "DE",
+        "BR",
+        "GB"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "traffic",
+      "countries": [
+        "DE",
+        "NL",
+        "TR",
+        "BR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "breakfast",
+      "countries": [
+        "IN",
+        "GB",
+        "IT",
+        "FR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "football",
+      "countries": [
+        "ES",
+        "DE",
+        "GB",
+        "BR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "battery",
+      "countries": [
+        "JP",
+        "ES",
+        "BR",
+        "TR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "spicy",
+      "countries": [
+        "IN",
+        "FR",
+        "NL",
+        "US"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "gym",
+      "countries": [
+        "MX",
+        "JP",
+        "GB",
+        "BR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "dinner",
+      "countries": [
+        "IN",
+        "BR",
+        "GB",
+        "ES"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "tea",
+      "countries": [
+        "KR",
+        "DE",
+        "GB",
+        "BR"
+      ]
+    },
+    {
+      "id": "CCuS0sDMeO0",
+      "date": "2026-10-13 23:32",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "TR",
+        "DE",
+        "GB",
+        "US"
+      ]
     }
   ]
 }
