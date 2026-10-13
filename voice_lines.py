@@ -63,6 +63,38 @@ VOICE = {
  "IE": [
   "Sulafat",
   "a cheerful Irish"
+ ],
+ "NG": [
+  "Schedar",
+  "an energetic Nigerian"
+ ],
+ "ID": [
+  "Pulcherrima",
+  "a friendly Indonesian"
+ ],
+ "PL": [
+  "Algieba",
+  "a cheerful Polish"
+ ],
+ "SE": [
+  "Despina",
+  "a calm Swedish"
+ ],
+ "NO": [
+  "Alnilam",
+  "a relaxed Norwegian"
+ ],
+ "GR": [
+  "Gacrux",
+  "a warm Greek"
+ ],
+ "CH": [
+  "Erinome",
+  "a precise Swiss"
+ ],
+ "CO": [
+  "Callirrhoe",
+  "a lively Colombian"
  ]
 }
 LINES = {
@@ -1156,6 +1188,854 @@ LINES = {
   "tea": [
    "Tea and a cookie.",
    "calm"
+  ]
+ },
+ "SE": {
+  "snow": [
+   "Lagom snow. Just right.",
+   "calm"
+  ],
+  "heat": [
+   "Everyone to the lake!",
+   "happy"
+  ],
+  "breakfast": [
+   "Crispbread and cheese.",
+   "calm"
+  ],
+  "football": [
+   "Calm... GOAL! Okay.",
+   "shock"
+  ],
+  "guests": [
+   "Fika time! Coffee and buns.",
+   "happy"
+  ],
+  "newyear": [
+   "Fireworks over the water!",
+   "love"
+  ],
+  "rain": [
+   "No bad weather, only bad clothes.",
+   "calm"
+  ],
+  "monday": [
+   "Fika at 10. Good.",
+   "calm"
+  ],
+  "internet": [
+   "We have fast fiber.",
+   "cool"
+  ],
+  "birthday": [
+   "Green princess cake!",
+   "love"
+  ],
+  "sneeze": [
+   "Prosit!",
+   "calm"
+  ],
+  "dinner": [
+   "Meatballs, of course.",
+   "happy"
+  ],
+  "traffic": [
+   "Calm and in line.",
+   "calm"
+  ],
+  "exam": [
+   "Study group fika!",
+   "happy"
+  ],
+  "vacation": [
+   "Summer house by the lake!",
+   "love"
+  ],
+  "coffee": [
+   "Fika! Coffee and a cinnamon bun.",
+   "love"
+  ],
+  "wedding": [
+   "Speeches. Many speeches.",
+   "sleepy"
+  ],
+  "battery": [
+   "Fully charged. Planned.",
+   "cool"
+  ],
+  "lost": [
+   "Ask nicely. Very nicely.",
+   "calm"
+  ],
+  "spicy": [
+   "Black pepper is spicy.",
+   "shock"
+  ],
+  "momcalls": [
+   "Hej mamma!",
+   "happy"
+  ],
+  "gym": [
+   "Gym, then sauna.",
+   "calm"
+  ],
+  "queue": [
+   "Take a number. Wait.",
+   "calm"
+  ],
+  "payday": [
+   "Save it. Lagom.",
+   "calm"
+  ],
+  "tea": [
+   "Coffee, please.",
+   "calm"
+  ],
+  "halloween": [
+   "We dress up at Easter!",
+   "cool"
+  ]
+ },
+ "NO": {
+  "snow": [
+   "Born with skis on!",
+   "cool"
+  ],
+  "heat": [
+   "Finally, 25 degrees!",
+   "love"
+  ],
+  "breakfast": [
+   "Brown cheese on bread!",
+   "love"
+  ],
+  "football": [
+   "Ski season is better.",
+   "cool"
+  ],
+  "guests": [
+   "Coffee? Always coffee.",
+   "calm"
+  ],
+  "newyear": [
+   "Fireworks in the snow!",
+   "shiver"
+  ],
+  "rain": [
+   "Rain? Just weather.",
+   "cool"
+  ],
+  "monday": [
+   "Hiking after work.",
+   "happy"
+  ],
+  "internet": [
+   "Time for a hike!",
+   "happy"
+  ],
+  "birthday": [
+   "Sing the birthday song!",
+   "happy"
+  ],
+  "sneeze": [
+   "Prosit!",
+   "calm"
+  ],
+  "dinner": [
+   "Salmon tonight.",
+   "love"
+  ],
+  "traffic": [
+   "Electric car, quiet jam.",
+   "calm"
+  ],
+  "exam": [
+   "Study, then sauna.",
+   "calm"
+  ],
+  "vacation": [
+   "Cabin in the mountains!",
+   "love"
+  ],
+  "coffee": [
+   "Black. Very black.",
+   "cool"
+  ],
+  "wedding": [
+   "A tower of ring cakes!",
+   "love"
+  ],
+  "battery": [
+   "Phone? I am hiking.",
+   "calm"
+  ],
+  "lost": [
+   "Follow the trail signs.",
+   "cool"
+  ],
+  "spicy": [
+   "Ketchup is spicy, right?",
+   "shock"
+  ],
+  "momcalls": [
+   "I am on a hike, Mom.",
+   "calm"
+  ],
+  "gym": [
+   "Mountains are my gym.",
+   "cool"
+  ],
+  "queue": [
+   "Quiet line. Very quiet.",
+   "calm"
+  ],
+  "payday": [
+   "Save it for the cabin.",
+   "calm"
+  ],
+  "tea": [
+   "Coffee, actually.",
+   "calm"
+  ],
+  "halloween": [
+   "Trick or treat in the snow!",
+   "shiver"
+  ]
+ },
+ "PL": {
+  "snow": [
+   "Soup weather!",
+   "happy"
+  ],
+  "heat": [
+   "Ice cream and lemonade!",
+   "happy"
+  ],
+  "breakfast": [
+   "Scrambled eggs, extra butter.",
+   "happy"
+  ],
+  "football": [
+   "Kick it harder!",
+   "angry"
+  ],
+  "guests": [
+   "Have some more soup!",
+   "love"
+  ],
+  "newyear": [
+   "Dance till morning!",
+   "happy"
+  ],
+  "rain": [
+   "Stay home, eat soup.",
+   "sleepy"
+  ],
+  "monday": [
+   "Coffee. Lots of coffee.",
+   "sleepy"
+  ],
+  "internet": [
+   "Board game time!",
+   "happy"
+  ],
+  "birthday": [
+   "Sto lat! Sto lat!",
+   "happy"
+  ],
+  "sneeze": [
+   "Na zdrowie!",
+   "happy"
+  ],
+  "dinner": [
+   "Pierogi!",
+   "love"
+  ],
+  "traffic": [
+   "Roadworks again!",
+   "angry"
+  ],
+  "exam": [
+   "Coffee and flashcards!",
+   "sleepy"
+  ],
+  "vacation": [
+   "Baltic Sea, here we go!",
+   "happy"
+  ],
+  "coffee": [
+   "Coffee with cake.",
+   "happy"
+  ],
+  "wedding": [
+   "A two day party!",
+   "happy"
+  ],
+  "battery": [
+   "Find a socket!",
+   "shock"
+  ],
+  "lost": [
+   "Call grandma.",
+   "happy"
+  ],
+  "spicy": [
+   "Horseradish counts!",
+   "cool"
+  ],
+  "momcalls": [
+   "Come for Sunday dinner!",
+   "love"
+  ],
+  "gym": [
+   "Leg day every day!",
+   "angry"
+  ],
+  "queue": [
+   "The line is the party.",
+   "happy"
+  ],
+  "payday": [
+   "Big grocery haul!",
+   "happy"
+  ],
+  "tea": [
+   "Tea with lemon!",
+   "happy"
+  ],
+  "halloween": [
+   "Candles for the ancestors.",
+   "calm"
+  ]
+ },
+ "CH": {
+  "snow": [
+   "Ski lift, please.",
+   "cool"
+  ],
+  "heat": [
+   "Swim in the lake!",
+   "happy"
+  ],
+  "breakfast": [
+   "Muesli, of course.",
+   "cool"
+  ],
+  "football": [
+   "Neutral. Both teams win.",
+   "calm"
+  ],
+  "guests": [
+   "Fondue for everyone!",
+   "happy"
+  ],
+  "newyear": [
+   "Midnight, exactly on time.",
+   "cool"
+  ],
+  "rain": [
+   "Even the rain is on time.",
+   "calm"
+  ],
+  "monday": [
+   "Train at 7:03. Exactly.",
+   "cool"
+  ],
+  "internet": [
+   "Read a book.",
+   "calm"
+  ],
+  "birthday": [
+   "Swiss chocolate cake!",
+   "love"
+  ],
+  "sneeze": [
+   "Gesundheit!",
+   "calm"
+  ],
+  "dinner": [
+   "Fondue again!",
+   "love"
+  ],
+  "traffic": [
+   "The train was faster.",
+   "cool"
+  ],
+  "exam": [
+   "Precise schedule. Done.",
+   "cool"
+  ],
+  "vacation": [
+   "Hiking the Alps!",
+   "happy"
+  ],
+  "coffee": [
+   "Espresso, on time.",
+   "cool"
+  ],
+  "wedding": [
+   "A very punctual party.",
+   "cool"
+  ],
+  "battery": [
+   "Still 90 percent. Swiss.",
+   "cool"
+  ],
+  "lost": [
+   "Swiss map. Never lost.",
+   "cool"
+  ],
+  "spicy": [
+   "Mustard. Enough.",
+   "calm"
+  ],
+  "momcalls": [
+   "She called at exactly six.",
+   "cool"
+  ],
+  "gym": [
+   "Hiking counts too.",
+   "calm"
+  ],
+  "queue": [
+   "Perfect order.",
+   "cool"
+  ],
+  "payday": [
+   "Straight into the bank.",
+   "cool"
+  ],
+  "tea": [
+   "Herbal tea, of course.",
+   "calm"
+  ],
+  "halloween": [
+   "Pumpkin soup!",
+   "love"
+  ]
+ },
+ "NG": {
+  "snow": [
+   "Snow?! Never seen it!",
+   "shock"
+  ],
+  "heat": [
+   "Normal Tuesday.",
+   "cool"
+  ],
+  "breakfast": [
+   "Akara and pap!",
+   "happy"
+  ],
+  "football": [
+   "Super Eagles! Fly!",
+   "happy"
+  ],
+  "guests": [
+   "Jollof for everyone!",
+   "happy"
+  ],
+  "newyear": [
+   "Party till sunrise!",
+   "happy"
+  ],
+  "rain": [
+   "Rainy season again!",
+   "calm"
+  ],
+  "monday": [
+   "Traffic first, then work.",
+   "angry"
+  ],
+  "internet": [
+   "Generator on!",
+   "cool"
+  ],
+  "birthday": [
+   "Jollof party!",
+   "happy"
+  ],
+  "sneeze": [
+   "Bless you!",
+   "happy"
+  ],
+  "dinner": [
+   "Jollof rice!",
+   "love"
+  ],
+  "traffic": [
+   "Danfo bus, let us go!",
+   "cool"
+  ],
+  "exam": [
+   "Read till sunrise!",
+   "angry"
+  ],
+  "vacation": [
+   "Visit grandma's village!",
+   "love"
+  ],
+  "coffee": [
+   "Tea, actually.",
+   "calm"
+  ],
+  "wedding": [
+   "Spray money on the dancers!",
+   "happy"
+  ],
+  "battery": [
+   "Power bank, always ready!",
+   "cool"
+  ],
+  "lost": [
+   "Ask the bus conductor!",
+   "happy"
+  ],
+  "spicy": [
+   "Pepper soup! Not hot.",
+   "cool"
+  ],
+  "momcalls": [
+   "Call your aunty!",
+   "angry"
+  ],
+  "gym": [
+   "Football is my cardio!",
+   "happy"
+  ],
+  "queue": [
+   "Who is next? Me!",
+   "cool"
+  ],
+  "payday": [
+   "Owambe party!",
+   "happy"
+  ],
+  "tea": [
+   "Tea with lots of milk!",
+   "happy"
+  ],
+  "halloween": [
+   "Costume party!",
+   "happy"
+  ]
+ },
+ "ID": {
+  "snow": [
+   "Is this ice cream?",
+   "shock"
+  ],
+  "heat": [
+   "Still humid. Always humid.",
+   "calm"
+  ],
+  "breakfast": [
+   "Nasi goreng!",
+   "love"
+  ],
+  "football": [
+   "Badminton is better!",
+   "cool"
+  ],
+  "guests": [
+   "Shoes off, please!",
+   "calm"
+  ],
+  "newyear": [
+   "Fireworks and satay!",
+   "love"
+  ],
+  "rain": [
+   "Monsoon mode on.",
+   "cool"
+  ],
+  "monday": [
+   "Motorbike to work!",
+   "cool"
+  ],
+  "internet": [
+   "Hotspot from my phone!",
+   "cool"
+  ],
+  "birthday": [
+   "Nasi tumpeng!",
+   "love"
+  ],
+  "sneeze": [
+   "Bless you, friend!",
+   "love"
+  ],
+  "dinner": [
+   "Rice with everything.",
+   "calm"
+  ],
+  "traffic": [
+   "Motorbikes everywhere!",
+   "shock"
+  ],
+  "exam": [
+   "Borrow my cousin's notes!",
+   "happy"
+  ],
+  "vacation": [
+   "Bali is home!",
+   "cool"
+  ],
+  "coffee": [
+   "Kopi tubruk!",
+   "happy"
+  ],
+  "wedding": [
+   "Two thousand guests!",
+   "shock"
+  ],
+  "battery": [
+   "Charge it at the food stall!",
+   "happy"
+  ],
+  "lost": [
+   "Ask the bike taxi driver!",
+   "happy"
+  ],
+  "spicy": [
+   "Sambal on everything!",
+   "love"
+  ],
+  "momcalls": [
+   "When are you getting married?",
+   "shock"
+  ],
+  "gym": [
+   "Badminton workout!",
+   "happy"
+  ],
+  "queue": [
+   "Polite line, big smiles.",
+   "happy"
+  ],
+  "payday": [
+   "Mall time!",
+   "love"
+  ],
+  "tea": [
+   "Sweet jasmine tea!",
+   "love"
+  ],
+  "halloween": [
+   "Spooky stories night!",
+   "shock"
+  ]
+ },
+ "GR": {
+  "snow": [
+   "Snow? In Greece?!",
+   "shiver"
+  ],
+  "heat": [
+   "Beach and souvlaki!",
+   "happy"
+  ],
+  "breakfast": [
+   "Yogurt with honey.",
+   "love"
+  ],
+  "football": [
+   "We won Euro 2004!",
+   "love"
+  ],
+  "guests": [
+   "Eat! You look thin!",
+   "love"
+  ],
+  "newyear": [
+   "Cake with a hidden coin!",
+   "happy"
+  ],
+  "rain": [
+   "Rain? So rare!",
+   "shock"
+  ],
+  "monday": [
+   "Monday? Slowly, slowly.",
+   "sleepy"
+  ],
+  "internet": [
+   "Back to the taverna!",
+   "happy"
+  ],
+  "birthday": [
+   "Name day is bigger!",
+   "cool"
+  ],
+  "sneeze": [
+   "Gia sou!",
+   "happy"
+  ],
+  "dinner": [
+   "Moussaka at 10 PM!",
+   "happy"
+  ],
+  "traffic": [
+   "Honk once, smile twice.",
+   "happy"
+  ],
+  "exam": [
+   "Study by the sea.",
+   "cool"
+  ],
+  "vacation": [
+   "We are the vacation.",
+   "cool"
+  ],
+  "coffee": [
+   "Frappe, please!",
+   "happy"
+  ],
+  "wedding": [
+   "Smash the plates!",
+   "happy"
+  ],
+  "battery": [
+   "Charge it at the cafe!",
+   "calm"
+  ],
+  "lost": [
+   "Follow the smell of souvlaki.",
+   "love"
+  ],
+  "spicy": [
+   "A little chili oil.",
+   "calm"
+  ],
+  "momcalls": [
+   "Did you eat?!",
+   "shock"
+  ],
+  "gym": [
+   "Training like the ancient Olympians!",
+   "cool"
+  ],
+  "queue": [
+   "Line? Everyone, come in!",
+   "happy"
+  ],
+  "payday": [
+   "Taverna tonight!",
+   "happy"
+  ],
+  "tea": [
+   "Mountain tea!",
+   "love"
+  ],
+  "halloween": [
+   "Halloween? Tell me more!",
+   "shock"
+  ]
+ },
+ "CO": {
+  "snow": [
+   "So cold! Hot chocolate!",
+   "shiver"
+  ],
+  "heat": [
+   "Perfect weather, as always.",
+   "cool"
+  ],
+  "breakfast": [
+   "Arepa and hot chocolate!",
+   "happy"
+  ],
+  "football": [
+   "Goal! Dance party!",
+   "happy"
+  ],
+  "guests": [
+   "My house is your house!",
+   "love"
+  ],
+  "newyear": [
+   "Run around the block with a suitcase!",
+   "happy"
+  ],
+  "rain": [
+   "Afternoon rain, every day.",
+   "calm"
+  ],
+  "monday": [
+   "Little black coffee first!",
+   "happy"
+  ],
+  "internet": [
+   "Let us dance instead!",
+   "happy"
+  ],
+  "birthday": [
+   "Dance until midnight!",
+   "happy"
+  ],
+  "sneeze": [
+   "Salud!",
+   "happy"
+  ],
+  "dinner": [
+   "Bandeja paisa!",
+   "happy"
+  ],
+  "traffic": [
+   "Not my driving day!",
+   "cool"
+  ],
+  "exam": [
+   "Study with music!",
+   "happy"
+  ],
+  "vacation": [
+   "Caribbean coast!",
+   "happy"
+  ],
+  "coffee": [
+   "Our coffee is the best!",
+   "love"
+  ],
+  "wedding": [
+   "Dance till 6 AM!",
+   "happy"
+  ],
+  "battery": [
+   "One percent, one last song!",
+   "happy"
+  ],
+  "lost": [
+   "Ask anyone, they will walk you there!",
+   "love"
+  ],
+  "spicy": [
+   "Hot sauce on the side.",
+   "cool"
+  ],
+  "momcalls": [
+   "My son, are you okay?",
+   "love"
+  ],
+  "gym": [
+   "Dance class counts!",
+   "happy"
+  ],
+  "queue": [
+   "Chat with everyone in line!",
+   "love"
+  ],
+  "payday": [
+   "Arepas for everyone!",
+   "happy"
+  ],
+  "tea": [
+   "Sugar cane drink!",
+   "happy"
+  ],
+  "halloween": [
+   "Kids go trick or treating!",
+   "happy"
   ]
  },
  "FR": {

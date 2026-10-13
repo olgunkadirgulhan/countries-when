@@ -24,7 +24,9 @@ DARK = (28, 22, 40)
 
 NAMES = {'US': 'USA', 'GB': 'UK', 'DE': 'GERMANY', 'FR': 'FRANCE', 'IT': 'ITALY', 'BR': 'BRAZIL', 'JP': 'JAPAN',
          'TR': 'TURKEY', 'CA': 'CANADA', 'MX': 'MEXICO', 'IN': 'INDIA', 'ES': 'SPAIN', 'KR': 'KOREA',
-         'NL': 'NETHERLANDS', 'AR': 'ARGENTINA', 'IE': 'IRELAND'}
+         'NL': 'NETHERLANDS', 'AR': 'ARGENTINA', 'IE': 'IRELAND',
+         'NG': 'NIGERIA', 'ID': 'INDONESIA', 'PL': 'POLAND', 'SE': 'SWEDEN', 'NO': 'NORWAY', 'GR': 'GREECE', 'CH': 'SWITZERLAND',
+         'CO': 'COLOMBIA'}
 
 PLAN = {}
 
