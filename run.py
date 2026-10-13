@@ -23,21 +23,30 @@ def load():
     return json.loads(HISTORY.read_text()) if HISTORY.exists() else {'videos': []}
 
 
+def voiced(sit):
+    """Bu durumda kendi aksanlı sesi hazır olan ülkeler (voices/cw/<ÜLKE>/<durum>.wav)."""
+    return [c for c in balls.SITUATIONS[sit]['lines'] if (HERE / 'voices' / 'cw' / c / f'{sit}.wav').exists()]
+
+
 def pick_plan(hist, rnd):
-    past = hist['videos'][-12:]
-    recent_sits = [v['situation'] for v in past[-6:]]
-    sits = [s for s in balls.SITUATIONS if s not in recent_sits] or list(balls.SITUATIONS)
-    sit = rnd.choice(sits)
-    pool = list(balls.SITUATIONS[sit]['lines'])
-    seen = {tuple(sorted(v['countries'])) for v in hist['videos'] if v['situation'] == sit}
-    for _ in range(100):
-        left, cs = list(pool), []
-        while len(cs) < 4:
-            c = rnd.choices(left, weights=[WEIGHT.get(x, 1) for x in left])[0]
-            cs.append(c); left.remove(c)
-        moods = {balls.SITUATIONS[sit]['lines'][c][1] for c in cs}
-        if tuple(sorted(cs)) not in seen and len(moods) >= 3:   # tepkiler çeşitli olsun
-            break
+    """Sadece 4 ülkenin de konuştuğu planlar (sessiz video yok); aynı durum+ülke dörtlüsü asla tekrar etmez.
+    Uygun yeni plan yoksa None → bu slot atlanır (yeni sesler eklendikçe havuz büyür)."""
+    from itertools import combinations
+    recent_sits = [v['situation'] for v in hist['videos'][-6:]]
+    cands = []
+    for sit in balls.SITUATIONS:
+        vs = voiced(sit)
+        seen = {tuple(sorted(v['countries'])) for v in hist['videos'] if v['situation'] == sit}
+        combos = [c for c in combinations(vs, 4) if tuple(sorted(c)) not in seen
+                  and len({balls.SITUATIONS[sit]['lines'][x][1] for x in c}) >= 3]   # tepkiler çeşitli olsun
+        if combos:
+            cands.append((sit in recent_sits, sit, combos))
+    if not cands:
+        return None
+    fresh = [c for c in cands if not c[0]] or cands
+    _, sit, combos = rnd.choice(fresh)
+    cs = list(rnd.choices(combos, weights=[sum(WEIGHT.get(x, 1) for x in c) for c in combos])[0])
+    rnd.shuffle(cs)
     return dict(situation=sit, countries=cs, seed=rnd.randrange(10 ** 6))
 
 
@@ -63,6 +72,8 @@ def main():
     no_upload = '--no-upload' in sys.argv
     hist = load(); rnd = random.Random()
     plan = pick_plan(hist, rnd)
+    if plan is None:
+        print('Sesli yeni plan kalmadı → bu slot atlandı (yeni ses klipleri gerekiyor)'); return
     title, desc, tags = metadata(plan, hist, rnd)
     key = datetime.now(timezone.utc).strftime('%Y%m%d-%H%M%S')
     print(f'plan: {plan}\ntitle: {title}', flush=True)
