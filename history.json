@@ -29,6 +29,21 @@
         "TR"
       ],
       "seed": 191415
+    },
+    {
+      "id": "FT02GY1aQTY",
+      "date": "2026-10-13 18:38",
+      "kind": "short",
+      "title": "Countryballs: Countries At The Gym 😂 #countryballs",
+      "privacy": "public",
+      "situation": "gym",
+      "countries": [
+        "GB",
+        "MX",
+        "BR",
+        "IN"
+      ],
+      "seed": 904822
     }
   ]
 }
