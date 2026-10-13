@@ -44,6 +44,21 @@
         "IN"
       ],
       "seed": 904822
+    },
+    {
+      "id": "XnFqaZ0aTbE",
+      "date": "2026-10-13 20:38",
+      "kind": "short",
+      "title": "Countryballs: Countries When It Snows 😂 #countryballs",
+      "privacy": "public",
+      "situation": "snow",
+      "countries": [
+        "CA",
+        "US",
+        "DE",
+        "IN"
+      ],
+      "seed": 81256
     }
   ]
 }
