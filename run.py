@@ -15,7 +15,7 @@ HISTORY = HERE / 'history.json'
 WEIGHT = {'US': 3, 'GB': 2, 'CA': 2, 'IN': 2, 'BR': 2, 'MX': 2, 'DE': 1.5, 'JP': 1.5, 'TR': 1.5, 'FR': 1.2, 'IT': 1.2,
           'ES': 1.2, 'KR': 1.2, 'NL': 1, 'AR': 1}
 # 2026-10-12 trend ölçümü: 'countryballs' araması son 30 günde medyan 4.9M izlenme; 'countries when' ifadesi 305 → başlıkta countryballs
-TITLES = ['Countryballs: {t} 😂 #countryballs', '{t} 🌍 #countryballs', 'Countryballs When {s} 💀',
+TITLES = ['Countryballs: {t} 😂 #countryballs', '{t} 🌍 #countryballs', 'Countryballs {s} 💀',
           '{t} (Which One Are You?) #countryballs', 'POV: {t} 😂 #countryballs', 'Countryball Memes: {t} 🤣']
 
 
