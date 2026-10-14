@@ -69,6 +69,20 @@ def metadata(plan, hist, rnd):
     return title, desc, tags
 
 
+def social(mp4, title, vid):
+    """Short → social/ (artifact 'social-<run>'): fenek-shorts sosyal yayıncısı Instagram/TikTok'a koyar."""
+    import re, shutil
+    soc = HERE / 'social'
+    soc.mkdir(exist_ok=True)
+    shutil.copy(mp4, soc / 'video.mp4')
+    clean = re.sub(r'\s*#\w+', '', title).strip()
+    tiktok = f"{clean}\nWhich country are you? 👇\n\n#countryballs #countries #history #animation #funny #fyp"
+    insta = f"{clean}\n\nWhich country are you? 👇 Follow for daily episodes\n\n#countryballs #countries #history #animation #funny"  # Instagram: en fazla 5 etiket
+    (soc / 'post.json').write_text(json.dumps({'channel': 'Countryball Chaos', 'title': clean, 'url': f'https://youtube.com/shorts/{vid}',
+                                               'tiktok': tiktok, 'instagram': insta}, ensure_ascii=False, indent=1),
+                                   encoding='utf-8')
+
+
 def main():
     no_upload = '--no-upload' in sys.argv
     hist = load(); rnd = random.Random()
@@ -97,6 +111,8 @@ def main():
     hist['videos'].append(dict(id=vid, date=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'), kind='short',
                                title=title, privacy=privacy, **plan))
     HISTORY.write_text(json.dumps(hist, indent=2, ensure_ascii=False) + '\n')
+    if privacy == 'public':
+        social(mp4, title, vid)
 
 
 if __name__ == '__main__':
