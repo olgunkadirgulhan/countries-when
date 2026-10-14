@@ -233,6 +233,21 @@
         "US"
       ],
       "seed": 977132
+    },
+    {
+      "id": "lLQ9NYtViOM",
+      "date": "2026-10-14 20:38",
+      "kind": "short",
+      "title": "Countryballs On A Rainy Day 💀",
+      "privacy": "public",
+      "situation": "rain",
+      "countries": [
+        "ID",
+        "SE",
+        "ES",
+        "DE"
+      ],
+      "seed": 449353
     }
   ]
 }
