@@ -203,6 +203,21 @@
         "IT"
       ],
       "seed": 447451
+    },
+    {
+      "id": "cL7Y5EMBsxI",
+      "date": "2026-10-14 17:38",
+      "kind": "short",
+      "title": "Countryballs When It Snows 💀",
+      "privacy": "public",
+      "situation": "snow",
+      "countries": [
+        "IT",
+        "IN",
+        "DE",
+        "SE"
+      ],
+      "seed": 910182
     }
   ]
 }
