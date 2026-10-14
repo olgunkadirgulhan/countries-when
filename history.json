@@ -218,6 +218,21 @@
         "SE"
       ],
       "seed": 910182
+    },
+    {
+      "id": "jHWmwkI-VYU",
+      "date": "2026-10-14 18:38",
+      "kind": "short",
+      "title": "Countryballs Eating Spicy Food 💀",
+      "privacy": "public",
+      "situation": "spicy",
+      "countries": [
+        "NL",
+        "NO",
+        "GB",
+        "US"
+      ],
+      "seed": 977132
     }
   ]
 }
