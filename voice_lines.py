@@ -95,6 +95,18 @@ VOICE = {
  "CO": [
   "Callirrhoe",
   "a lively Colombian"
+ ],
+ "PH": [
+  "Achernar",
+  "a cheerful Filipino"
+ ],
+ "VN": [
+  "Autonoe",
+  "a friendly Vietnamese"
+ ],
+ "TH": [
+  "Vindemiatrix",
+  "a gentle Thai"
  ]
 }
 LINES = {
@@ -2036,6 +2048,324 @@ LINES = {
   "halloween": [
    "Kids go trick or treating!",
    "happy"
+  ]
+ },
+ "PH": {
+  "snow": [
+   "Snow? Only in movies!",
+   "shock"
+  ],
+  "heat": [
+   "Halo-halo time!",
+   "happy"
+  ],
+  "breakfast": [
+   "Garlic rice and eggs!",
+   "love"
+  ],
+  "football": [
+   "Basketball is life!",
+   "cool"
+  ],
+  "guests": [
+   "Eat first! Come, eat!",
+   "love"
+  ],
+  "newyear": [
+   "Round fruits for good luck!",
+   "happy"
+  ],
+  "rain": [
+   "Typhoon? We are used to it.",
+   "cool"
+  ],
+  "monday": [
+   "Jeepney to work!",
+   "cool"
+  ],
+  "internet": [
+   "Karaoke instead!",
+   "happy"
+  ],
+  "birthday": [
+   "Noodles for a long life!",
+   "love"
+  ],
+  "sneeze": [
+   "Bless you!",
+   "happy"
+  ],
+  "dinner": [
+   "Rice with everything!",
+   "happy"
+  ],
+  "traffic": [
+   "Traffic again... nap time.",
+   "sleepy"
+  ],
+  "exam": [
+   "Group study with snacks!",
+   "happy"
+  ],
+  "vacation": [
+   "Island hopping!",
+   "love"
+  ],
+  "coffee": [
+   "Strong barako coffee!",
+   "cool"
+  ],
+  "wedding": [
+   "The money dance!",
+   "happy"
+  ],
+  "battery": [
+   "Power bank in the bag!",
+   "cool"
+  ],
+  "lost": [
+   "Ask the tricycle driver!",
+   "happy"
+  ],
+  "spicy": [
+   "Sweet spaghetti, please!",
+   "love"
+  ],
+  "momcalls": [
+   "Did you eat already?",
+   "love"
+  ],
+  "gym": [
+   "Basketball counts!",
+   "happy"
+  ],
+  "queue": [
+   "Polite line, with snacks.",
+   "calm"
+  ],
+  "payday": [
+   "Family dinner out!",
+   "happy"
+  ],
+  "tea": [
+   "Ginger tea!",
+   "calm"
+  ],
+  "halloween": [
+   "Visit family and light candles.",
+   "calm"
+  ]
+ },
+ "VN": {
+  "snow": [
+   "Snow in Sa Pa! Wow!",
+   "shock"
+  ],
+  "heat": [
+   "Iced coffee, please!",
+   "cool"
+  ],
+  "breakfast": [
+   "Pho for breakfast!",
+   "love"
+  ],
+  "football": [
+   "Motorbike parade after the win!",
+   "happy"
+  ],
+  "guests": [
+   "Have some tea and fruit!",
+   "love"
+  ],
+  "newyear": [
+   "Lunar New Year is the big one!",
+   "cool"
+  ],
+  "rain": [
+   "Raincoat on the motorbike!",
+   "cool"
+  ],
+  "monday": [
+   "Iced coffee and go!",
+   "cool"
+  ],
+  "internet": [
+   "Find a cafe with wifi!",
+   "happy"
+  ],
+  "birthday": [
+   "Sing and eat cake!",
+   "happy"
+  ],
+  "sneeze": [
+   "Bless you!",
+   "calm"
+  ],
+  "dinner": [
+   "Rice and fish sauce!",
+   "love"
+  ],
+  "traffic": [
+   "A sea of motorbikes!",
+   "shock"
+  ],
+  "exam": [
+   "Study all night!",
+   "sleepy"
+  ],
+  "vacation": [
+   "Ha Long Bay!",
+   "love"
+  ],
+  "coffee": [
+   "Egg coffee!",
+   "love"
+  ],
+  "wedding": [
+   "Hundreds of guests!",
+   "happy"
+  ],
+  "battery": [
+   "Charge it at the cafe!",
+   "calm"
+  ],
+  "lost": [
+   "Ask the street food lady!",
+   "happy"
+  ],
+  "spicy": [
+   "Fresh chili, please!",
+   "cool"
+  ],
+  "momcalls": [
+   "Come home for the New Year!",
+   "love"
+  ],
+  "gym": [
+   "Morning exercise in the park!",
+   "happy"
+  ],
+  "queue": [
+   "Fast! Motorbike speed!",
+   "cool"
+  ],
+  "payday": [
+   "Street food feast!",
+   "happy"
+  ],
+  "tea": [
+   "Green tea, always!",
+   "calm"
+  ],
+  "halloween": [
+   "Mid-Autumn is our festival!",
+   "cool"
+  ]
+ },
+ "TH": {
+  "snow": [
+   "Snow? Never in Bangkok!",
+   "shock"
+  ],
+  "heat": [
+   "Mango sticky rice time!",
+   "happy"
+  ],
+  "breakfast": [
+   "Rice soup, please.",
+   "calm"
+  ],
+  "football": [
+   "Muay Thai is better!",
+   "cool"
+  ],
+  "guests": [
+   "Smile and greet them!",
+   "love"
+  ],
+  "newyear": [
+   "Water fight in April!",
+   "happy"
+  ],
+  "rain": [
+   "Rainy season. Normal.",
+   "calm"
+  ],
+  "monday": [
+   "Tuk-tuk to work!",
+   "cool"
+  ],
+  "internet": [
+   "Street market time!",
+   "happy"
+  ],
+  "birthday": [
+   "Cake and karaoke!",
+   "happy"
+  ],
+  "sneeze": [
+   "Bless you!",
+   "calm"
+  ],
+  "dinner": [
+   "Pad Thai!",
+   "love"
+  ],
+  "traffic": [
+   "Bangkok traffic. Patience.",
+   "sleepy"
+  ],
+  "exam": [
+   "Study at the cafe.",
+   "calm"
+  ],
+  "vacation": [
+   "Beach in Phuket!",
+   "love"
+  ],
+  "coffee": [
+   "Thai iced tea!",
+   "love"
+  ],
+  "wedding": [
+   "Pour water on our hands!",
+   "love"
+  ],
+  "battery": [
+   "Charger at the corner shop!",
+   "calm"
+  ],
+  "lost": [
+   "Ask with a big smile!",
+   "happy"
+  ],
+  "spicy": [
+   "Thai spicy? So brave!",
+   "cool"
+  ],
+  "momcalls": [
+   "Did you eat rice?",
+   "love"
+  ],
+  "gym": [
+   "Muay Thai training!",
+   "angry"
+  ],
+  "queue": [
+   "Calm line, big smiles.",
+   "calm"
+  ],
+  "payday": [
+   "Night market shopping!",
+   "happy"
+  ],
+  "tea": [
+   "Thai milk tea!",
+   "love"
+  ],
+  "halloween": [
+   "Ghost movies all night!",
+   "shock"
   ]
  },
  "FR": {

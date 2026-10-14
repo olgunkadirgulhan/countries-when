@@ -26,7 +26,7 @@ NAMES = {'US': 'USA', 'GB': 'UK', 'DE': 'GERMANY', 'FR': 'FRANCE', 'IT': 'ITALY'
          'TR': 'TURKEY', 'CA': 'CANADA', 'MX': 'MEXICO', 'IN': 'INDIA', 'ES': 'SPAIN', 'KR': 'KOREA',
          'NL': 'NETHERLANDS', 'AR': 'ARGENTINA', 'IE': 'IRELAND',
          'NG': 'NIGERIA', 'ID': 'INDONESIA', 'PL': 'POLAND', 'SE': 'SWEDEN', 'NO': 'NORWAY', 'GR': 'GREECE', 'CH': 'SWITZERLAND',
-         'CO': 'COLOMBIA'}
+         'CO': 'COLOMBIA', 'PH': 'PHILIPPINES', 'VN': 'VIETNAM', 'TH': 'THAILAND'}
 
 PLAN = {}
 
@@ -411,6 +411,38 @@ _NEW = {
                   'CO': ('Kids go trick or treating!', 'happy'), 'CH': ('Pumpkin soup!', 'love')},
 }
 for _k, _v in _NEW.items():
+    SITUATIONS[_k]['lines'].update(_v)
+
+# 2026-10-14: Bloop izleyicisinin %53'ü GD Asya (ID/PH/VN/TH/MY) → Filipinler, Vietnam, Tayland (26 durumun hepsi).
+_NEW2 = {
+    'snow': {'PH': ('Snow? Only in movies!', 'shock'), 'VN': ('Snow in Sa Pa! Wow!', 'shock'), 'TH': ('Snow? Never in Bangkok!', 'shock')},
+    'heat': {'PH': ('Halo-halo time!', 'happy'), 'VN': ('Iced coffee, please!', 'cool'), 'TH': ('Mango sticky rice time!', 'happy')},
+    'breakfast': {'PH': ('Garlic rice and eggs!', 'love'), 'VN': ('Pho for breakfast!', 'love'), 'TH': ('Rice soup, please.', 'calm')},
+    'football': {'PH': ('Basketball is life!', 'cool'), 'VN': ('Motorbike parade after the win!', 'happy'), 'TH': ('Muay Thai is better!', 'cool')},
+    'guests': {'PH': ('Eat first! Come, eat!', 'love'), 'VN': ('Have some tea and fruit!', 'love'), 'TH': ('Smile and greet them!', 'love')},
+    'newyear': {'PH': ('Round fruits for good luck!', 'happy'), 'VN': ('Lunar New Year is the big one!', 'cool'), 'TH': ('Water fight in April!', 'happy')},
+    'rain': {'PH': ('Typhoon? We are used to it.', 'cool'), 'VN': ('Raincoat on the motorbike!', 'cool'), 'TH': ('Rainy season. Normal.', 'calm')},
+    'monday': {'PH': ('Jeepney to work!', 'cool'), 'VN': ('Iced coffee and go!', 'cool'), 'TH': ('Tuk-tuk to work!', 'cool')},
+    'internet': {'PH': ('Karaoke instead!', 'happy'), 'VN': ('Find a cafe with wifi!', 'happy'), 'TH': ('Street market time!', 'happy')},
+    'birthday': {'PH': ('Noodles for a long life!', 'love'), 'VN': ('Sing and eat cake!', 'happy'), 'TH': ('Cake and karaoke!', 'happy')},
+    'sneeze': {'PH': ('Bless you!', 'happy'), 'VN': ('Bless you!', 'calm'), 'TH': ('Bless you!', 'calm')},
+    'dinner': {'PH': ('Rice with everything!', 'happy'), 'VN': ('Rice and fish sauce!', 'love'), 'TH': ('Pad Thai!', 'love')},
+    'traffic': {'PH': ('Traffic again... nap time.', 'sleepy'), 'VN': ('A sea of motorbikes!', 'shock'), 'TH': ('Bangkok traffic. Patience.', 'sleepy')},
+    'exam': {'PH': ('Group study with snacks!', 'happy'), 'VN': ('Study all night!', 'sleepy'), 'TH': ('Study at the cafe.', 'calm')},
+    'vacation': {'PH': ('Island hopping!', 'love'), 'VN': ('Ha Long Bay!', 'love'), 'TH': ('Beach in Phuket!', 'love')},
+    'coffee': {'PH': ('Strong barako coffee!', 'cool'), 'VN': ('Egg coffee!', 'love'), 'TH': ('Thai iced tea!', 'love')},
+    'wedding': {'PH': ('The money dance!', 'happy'), 'VN': ('Hundreds of guests!', 'happy'), 'TH': ('Pour water on our hands!', 'love')},
+    'battery': {'PH': ('Power bank in the bag!', 'cool'), 'VN': ('Charge it at the cafe!', 'calm'), 'TH': ('Charger at the corner shop!', 'calm')},
+    'lost': {'PH': ('Ask the tricycle driver!', 'happy'), 'VN': ('Ask the street food lady!', 'happy'), 'TH': ('Ask with a big smile!', 'happy')},
+    'spicy': {'PH': ('Sweet spaghetti, please!', 'love'), 'VN': ('Fresh chili, please!', 'cool'), 'TH': ('Thai spicy? So brave!', 'cool')},
+    'momcalls': {'PH': ('Did you eat already?', 'love'), 'VN': ('Come home for the New Year!', 'love'), 'TH': ('Did you eat rice?', 'love')},
+    'gym': {'PH': ('Basketball counts!', 'happy'), 'VN': ('Morning exercise in the park!', 'happy'), 'TH': ('Muay Thai training!', 'angry')},
+    'queue': {'PH': ('Polite line, with snacks.', 'calm'), 'VN': ('Fast! Motorbike speed!', 'cool'), 'TH': ('Calm line, big smiles.', 'calm')},
+    'payday': {'PH': ('Family dinner out!', 'happy'), 'VN': ('Street food feast!', 'happy'), 'TH': ('Night market shopping!', 'happy')},
+    'tea': {'PH': ('Ginger tea!', 'calm'), 'VN': ('Green tea, always!', 'calm'), 'TH': ('Thai milk tea!', 'love')},
+    'halloween': {'PH': ('Visit family and light candles.', 'calm'), 'VN': ('Mid-Autumn is our festival!', 'cool'), 'TH': ('Ghost movies all night!', 'shock')},
+}
+for _k, _v in _NEW2.items():
     SITUATIONS[_k]['lines'].update(_v)
 
 
