@@ -33,11 +33,11 @@ def pick_plan(hist, rnd):
     """Sadece 4 ülkenin de konuştuğu planlar (sessiz video yok); aynı durum+ülke dörtlüsü asla tekrar etmez.
     Uygun yeni plan yoksa None → bu slot atlanır (yeni sesler eklendikçe havuz büyür)."""
     from itertools import combinations
-    recent_sits = [v['situation'] for v in hist['videos'][-6:]]
+    recent_sits = [v.get('situation') for v in hist['videos'][-6:]]
     cands = []
     for sit in balls.SITUATIONS:
         vs = voiced(sit)
-        seen = {tuple(sorted(v['countries'])) for v in hist['videos'] if v['situation'] == sit}
+        seen = {tuple(sorted(v.get('countries', []))) for v in hist['videos'] if v.get('situation') == sit}
         combos = [c for c in combinations(vs, 4) if tuple(sorted(c)) not in seen
                   and len({balls.SITUATIONS[sit]['lines'][x][1] for x in c}) >= 3]   # tepkiler çeşitli olsun
         if combos:
