@@ -263,6 +263,21 @@
         "NO"
       ],
       "seed": 13614
+    },
+    {
+      "id": "Hbb6Ic_s7T8",
+      "date": "2026-10-15 16:38",
+      "kind": "short",
+      "title": "Countries On New Year's Eve (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "newyear",
+      "countries": [
+        "SE",
+        "NO",
+        "TR",
+        "GB"
+      ],
+      "seed": 422897
     }
   ]
 }
