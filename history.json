@@ -482,6 +482,21 @@
         "IN"
       ],
       "seed": 976234
+    },
+    {
+      "id": "5WHyCWHCCDA",
+      "date": "2026-10-16 20:38",
+      "kind": "short",
+      "title": "Countryballs: Countries When The Internet Goes Down 😂 #countryballs",
+      "privacy": "public",
+      "situation": "internet",
+      "countries": [
+        "NO",
+        "IT",
+        "NL",
+        "TR"
+      ],
+      "seed": 713636
     }
   ]
 }
