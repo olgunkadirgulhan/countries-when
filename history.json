@@ -497,6 +497,21 @@
         "TR"
       ],
       "seed": 713636
+    },
+    {
+      "id": "n2qYg-cD0A0",
+      "date": "2026-10-17 14:37",
+      "kind": "short",
+      "title": "Countries On Summer Vacation (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "vacation",
+      "countries": [
+        "IT",
+        "IN",
+        "SE",
+        "FR"
+      ],
+      "seed": 440862
     }
   ]
 }
