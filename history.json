@@ -557,6 +557,21 @@
         "TR"
       ],
       "seed": 775130
+    },
+    {
+      "id": "iQrhvvCX28g",
+      "date": "2026-10-18 14:38",
+      "kind": "short",
+      "title": "Countries When The Phone Is At 1% (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "battery",
+      "countries": [
+        "DE",
+        "TR",
+        "BR",
+        "US"
+      ],
+      "seed": 711166
     }
   ]
 }
