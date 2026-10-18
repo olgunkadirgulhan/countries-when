@@ -572,6 +572,21 @@
         "US"
       ],
       "seed": 711166
+    },
+    {
+      "id": "zZpYeQk39TM",
+      "date": "2026-10-18 16:38",
+      "kind": "short",
+      "title": "Countryballs At Dinner Time 💀",
+      "privacy": "public",
+      "situation": "dinner",
+      "countries": [
+        "NG",
+        "ES",
+        "SE",
+        "US"
+      ],
+      "seed": 132571
     }
   ]
 }
