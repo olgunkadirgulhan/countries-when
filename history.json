@@ -617,6 +617,135 @@
         "TR"
       ],
       "seed": 657751
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 3: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "queue",
+      "countries": [
+        "FR",
+        "JP",
+        "IT",
+        "DE"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "gym",
+      "countries": [
+        "NG",
+        "TR",
+        "BR",
+        "FR"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "wedding",
+      "countries": [
+        "JP",
+        "SE",
+        "FR",
+        "ES"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "snow",
+      "countries": [
+        "ES",
+        "NG",
+        "CA",
+        "IT"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "birthday",
+      "countries": [
+        "DE",
+        "NO",
+        "NL",
+        "BR"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "guests",
+      "countries": [
+        "NO",
+        "IN",
+        "SE",
+        "DE"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "spicy",
+      "countries": [
+        "GB",
+        "NG",
+        "DE",
+        "IN"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "breakfast",
+      "countries": [
+        "GB",
+        "IT",
+        "BR",
+        "NL"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "newyear",
+      "countries": [
+        "KR",
+        "BR",
+        "US",
+        "SE"
+      ]
+    },
+    {
+      "id": "tsqxmo0zt50",
+      "date": "2026-10-18 21:53",
+      "kind": "episode-part",
+      "situation": "halloween",
+      "countries": [
+        "DE",
+        "BR",
+        "GB",
+        "TR"
+      ]
     }
   ]
 }
