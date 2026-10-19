@@ -761,6 +761,21 @@
         "CA"
       ],
       "seed": 437713
+    },
+    {
+      "id": "z9DYZEFbF0s",
+      "date": "2026-10-19 16:38",
+      "kind": "short",
+      "title": "Countryballs On Summer Vacation 💀",
+      "privacy": "public",
+      "situation": "vacation",
+      "countries": [
+        "DE",
+        "IT",
+        "BR",
+        "NG"
+      ],
+      "seed": 809904
     }
   ]
 }
