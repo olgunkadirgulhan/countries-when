@@ -791,6 +791,21 @@
         "JP"
       ],
       "seed": 717122
+    },
+    {
+      "id": "cK_r1uyOays",
+      "date": "2026-10-19 20:38",
+      "kind": "short",
+      "title": "Countryballs In A Traffic Jam 💀",
+      "privacy": "public",
+      "situation": "traffic",
+      "countries": [
+        "DE",
+        "BR",
+        "NO",
+        "SE"
+      ],
+      "seed": 241295
     }
   ]
 }
