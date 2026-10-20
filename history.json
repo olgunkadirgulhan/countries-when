@@ -836,6 +836,21 @@
         "IN"
       ],
       "seed": 53983
+    },
+    {
+      "id": "vCI0pVqDalE",
+      "date": "2026-10-20 18:38",
+      "kind": "short",
+      "title": "Countryballs: Countries When They Get Lost 😂 #countryballs",
+      "privacy": "public",
+      "situation": "lost",
+      "countries": [
+        "SE",
+        "NG",
+        "IT",
+        "BR"
+      ],
+      "seed": 61624
     }
   ]
 }
