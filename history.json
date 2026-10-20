@@ -866,6 +866,135 @@
         "NG"
       ],
       "seed": 925192
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 4: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "BR",
+        "SE",
+        "DE",
+        "GB"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "momcalls",
+      "countries": [
+        "NG",
+        "BR",
+        "DE",
+        "TR"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "internet",
+      "countries": [
+        "NO",
+        "TR",
+        "IT",
+        "DE"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "breakfast",
+      "countries": [
+        "SE",
+        "NL",
+        "DE",
+        "BR"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "guests",
+      "countries": [
+        "IN",
+        "ID",
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "gym",
+      "countries": [
+        "MX",
+        "DE",
+        "FR",
+        "NG"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "battery",
+      "countries": [
+        "US",
+        "JP",
+        "NG",
+        "ID"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "lost",
+      "countries": [
+        "NG",
+        "US",
+        "IN",
+        "GB"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "birthday",
+      "countries": [
+        "SE",
+        "BR",
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "id": "jOUjeqlA7yY",
+      "date": "2026-10-20 22:41",
+      "kind": "episode-part",
+      "situation": "tea",
+      "countries": [
+        "NG",
+        "FR",
+        "GB",
+        "DE"
+      ]
     }
   ]
 }
