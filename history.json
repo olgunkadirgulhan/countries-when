@@ -1025,6 +1025,21 @@
         "NG"
       ],
       "seed": 10838
+    },
+    {
+      "id": "Jbaa-njnjOY",
+      "date": "2026-10-21 18:38",
+      "kind": "short",
+      "title": "Countryball Memes: Countries In A Traffic Jam 🤣",
+      "privacy": "public",
+      "situation": "traffic",
+      "countries": [
+        "US",
+        "NL",
+        "BR",
+        "FR"
+      ],
+      "seed": 916535
     }
   ]
 }
