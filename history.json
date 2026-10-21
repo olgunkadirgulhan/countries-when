@@ -995,6 +995,21 @@
         "GB",
         "DE"
       ]
+    },
+    {
+      "id": "p2oMOfeaUSM",
+      "date": "2026-10-21 14:38",
+      "kind": "short",
+      "title": "Countryballs During A Football Final 💀",
+      "privacy": "public",
+      "situation": "football",
+      "countries": [
+        "KR",
+        "DE",
+        "JP",
+        "US"
+      ],
+      "seed": 250712
     }
   ]
 }
