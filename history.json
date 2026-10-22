@@ -1055,6 +1055,21 @@
         "DE"
       ],
       "seed": 911764
+    },
+    {
+      "id": "c2VzZqcRd2k",
+      "date": "2026-10-22 14:38",
+      "kind": "short",
+      "title": "Countryballs When They Get Lost 💀",
+      "privacy": "public",
+      "situation": "lost",
+      "countries": [
+        "IN",
+        "FR",
+        "IT",
+        "DE"
+      ],
+      "seed": 654930
     }
   ]
 }
