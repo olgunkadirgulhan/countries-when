@@ -1115,6 +1115,135 @@
         "DE"
       ],
       "seed": 359179
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 5: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "dinner",
+      "countries": [
+        "ES",
+        "NG",
+        "FR",
+        "BR"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "rain",
+      "countries": [
+        "IN",
+        "GB",
+        "ID",
+        "NG"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "spicy",
+      "countries": [
+        "IN",
+        "NG",
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "sneeze",
+      "countries": [
+        "DE",
+        "GB",
+        "NG",
+        "US"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "football",
+      "countries": [
+        "BR",
+        "KR",
+        "DE",
+        "US"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "snow",
+      "countries": [
+        "NG",
+        "PL",
+        "TR",
+        "NO"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "newyear",
+      "countries": [
+        "KR",
+        "DE",
+        "IT",
+        "ID"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "exam",
+      "countries": [
+        "TR",
+        "SE",
+        "ES",
+        "GB"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "ES",
+        "BR",
+        "IT",
+        "TR"
+      ]
+    },
+    {
+      "id": "0yWOdUq4klo",
+      "date": "2026-10-22 22:44",
+      "kind": "episode-part",
+      "situation": "heat",
+      "countries": [
+        "ID",
+        "ES",
+        "NG",
+        "US"
+      ]
     }
   ]
 }
