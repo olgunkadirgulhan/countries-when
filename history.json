@@ -1085,6 +1085,21 @@
         "US"
       ],
       "seed": 778408
+    },
+    {
+      "id": "PymmmnDOIMs",
+      "date": "2026-10-22 18:37",
+      "kind": "short",
+      "title": "Countries Waiting In Line 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "queue",
+      "countries": [
+        "NG",
+        "TR",
+        "ES",
+        "DE"
+      ],
+      "seed": 315008
     }
   ]
 }
