@@ -1070,6 +1070,21 @@
         "DE"
       ],
       "seed": 654930
+    },
+    {
+      "id": "J7uFF7ZBBOI",
+      "date": "2026-10-22 16:38",
+      "kind": "short",
+      "title": "Countryball Memes: Countries On New Year's Eve 🤣",
+      "privacy": "public",
+      "situation": "newyear",
+      "countries": [
+        "FR",
+        "NL",
+        "NO",
+        "US"
+      ],
+      "seed": 778408
     }
   ]
 }
