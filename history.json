@@ -1100,6 +1100,21 @@
         "DE"
       ],
       "seed": 315008
+    },
+    {
+      "id": "UGhAzhKIrB4",
+      "date": "2026-10-22 20:38",
+      "kind": "short",
+      "title": "Countries On Payday (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "payday",
+      "countries": [
+        "ES",
+        "JP",
+        "SE",
+        "DE"
+      ],
+      "seed": 359179
     }
   ]
 }
