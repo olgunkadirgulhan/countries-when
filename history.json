@@ -1274,6 +1274,21 @@
         "NL"
       ],
       "seed": 291880
+    },
+    {
+      "id": "_B5nsstx0T4",
+      "date": "2026-10-23 18:38",
+      "kind": "short",
+      "title": "Countryballs: Countries When Someone Sneezes 😂 #countryballs",
+      "privacy": "public",
+      "situation": "sneeze",
+      "countries": [
+        "SE",
+        "DE",
+        "BR",
+        "IT"
+      ],
+      "seed": 770693
     }
   ]
 }
