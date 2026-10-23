@@ -1259,6 +1259,21 @@
         "US"
       ],
       "seed": 99136
+    },
+    {
+      "id": "6EWMcUpkXvk",
+      "date": "2026-10-23 16:38",
+      "kind": "short",
+      "title": "Countries During A Football Final (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "football",
+      "countries": [
+        "DE",
+        "JP",
+        "NO",
+        "NL"
+      ],
+      "seed": 291880
     }
   ]
 }
