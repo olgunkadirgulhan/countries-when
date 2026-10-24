@@ -1334,6 +1334,21 @@
         "BR"
       ],
       "seed": 916888
+    },
+    {
+      "id": "qLkgqlHUURw",
+      "date": "2026-10-24 18:38",
+      "kind": "short",
+      "title": "Countries When It Snows (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "snow",
+      "countries": [
+        "PL",
+        "SE",
+        "ID",
+        "US"
+      ],
+      "seed": 81302
     }
   ]
 }
