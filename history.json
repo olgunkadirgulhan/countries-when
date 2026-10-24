@@ -1349,6 +1349,21 @@
         "US"
       ],
       "seed": 81302
+    },
+    {
+      "id": "w6tIsvqe3uk",
+      "date": "2026-10-24 20:38",
+      "kind": "short",
+      "title": "Countries When It Is 35°C (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "heat",
+      "countries": [
+        "US",
+        "NL",
+        "IT",
+        "MX"
+      ],
+      "seed": 300489
     }
   ]
 }
