@@ -1304,6 +1304,21 @@
         "NL"
       ],
       "seed": 447993
+    },
+    {
+      "id": "Wy_m-fsUwE0",
+      "date": "2026-10-24 14:38",
+      "kind": "short",
+      "title": "Countries On A Rainy Day (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "rain",
+      "countries": [
+        "BR",
+        "NG",
+        "ES",
+        "SE"
+      ],
+      "seed": 763860
     }
   ]
 }
