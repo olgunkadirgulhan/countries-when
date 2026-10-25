@@ -44,8 +44,8 @@ def render_frame(i):
     T = i / FPS
     sit = SITUATIONS[PLAN['situation']]
     codes = PLAN['countries']; n = len(codes)
-    img = scene_bg(sit['scene']).copy()
-    effects(img, sit['scene'], T)
+    img = scene_bg(PLAN.get('scene') or sit['scene']).copy()
+    effects(img, PLAN.get('scene') or sit['scene'], T)
     # koyu üst bant (başlık okunsun)
     band = Image.new('RGBA', (L(W), L(330)), (20, 18, 35, 170)); img.alpha_composite(band, (0, 0))
     title_band(img, sit['title'], T, 0.0)
@@ -165,7 +165,7 @@ def build_audio(path):
     def place(arr, t0, x):
         if x is None: return
         i0 = int(t0 * SR); arr[i0:i0 + len(x)] += x[:max(0, n - i0)]
-    place(mix, 0.0, ambience(sit['scene'], tot))
+    place(mix, 0.0, ambience(PLAN.get('scene') or sit['scene'], tot))
     for t0 in (0.0, 0.4, 0.7): place(mix, t0, sfx('pop'))
     for k, code in enumerate(PLAN['countries']):
         base = INTRO + k * TURN; mood = sit['lines'][code][1]

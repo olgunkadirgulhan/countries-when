@@ -2,7 +2,7 @@
 
   python run.py --no-upload
 """
-import json, os, random, sys
+import json, os, random, re, sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -29,35 +29,61 @@ def voiced(sit):
     return [c for c in balls.SITUATIONS[sit]['lines'] if (HERE / 'voices' / 'cw' / c / f'{sit}.wav').exists()]
 
 
-def pick_plan(hist, rnd):
-    """Sadece 4 ülkenin de konuştuğu planlar (sessiz video yok); aynı durum+ülke dörtlüsü asla tekrar etmez.
-    Uygun yeni plan yoksa None → bu slot atlanır (yeni sesler eklendikçe havuz büyür)."""
+def tkey(t):
+    """Başlık karşılaştırma anahtarı: emoji/etiket/parantez/noktalama/önekler atılır."""
+    t = re.sub(r'#\w+|\(.*?\)', ' ', t.lower())
+    t = re.sub(r'^(pov|countryballs|countryball memes)\s*:\s*', '', re.sub(r'[^a-z0-9: ]', ' ', t).strip())
+    t = ' '.join(re.sub(r'[^a-z0-9 ]', ' ', t).split())
+    return re.sub(r'^(countryballs|countries) ', '', t)
+
+
+def short_sits(hist):
+    """Shorts'ta (eski kayıtlarda kind yok) en az bir kez kullanılmış durumlar."""
+    return {v.get('situation') for v in hist['videos'] if v.get('kind', 'short') == 'short'}
+
+
+def pick_plan(hist, rnd, mode='short'):
+    """Sadece 4 ülkenin de konuştuğu planlar (sessiz video yok).
+    2026-10-25: tekrar eden Shorts YouTube'da dağıtılmıyor (tekrar medyan 50 vs yeni 1,699) →
+    mode='short': her durum Shorts'ta yalnız BİR kez; yeni durum yoksa None → slot atlanır (yeni durum + ses eklenir).
+    mode='episode': uzun bölüm = Shorts'ta işlenmiş konuların derlemesi (yeni Shorts havuzunu tüketmez); aynı dörtlü asla tekrar etmez."""
     from itertools import combinations
-    recent_sits = [v.get('situation') for v in hist['videos'][-6:]]
+    used = short_sits(hist)
     cands = []
     for sit in balls.SITUATIONS:
+        if (sit in used) == (mode == 'short'):
+            continue
         vs = voiced(sit)
         seen = {tuple(sorted(v.get('countries', []))) for v in hist['videos'] if v.get('situation') == sit}
         combos = [c for c in combinations(vs, 4) if tuple(sorted(c)) not in seen
                   and len({balls.SITUATIONS[sit]['lines'][x][1] for x in c}) >= 3]   # tepkiler çeşitli olsun
         if combos:
-            cands.append((sit in recent_sits, sit, combos))
+            cands.append((sit, combos))
     if not cands:
         return None
-    fresh = [c for c in cands if not c[0]] or cands
-    _, sit, combos = rnd.choice(fresh)
+    sit, combos = rnd.choice(cands)
     cs = list(rnd.choices(combos, weights=[sum(WEIGHT.get(x, 1) for x in c) for c in combos])[0])
     rnd.shuffle(cs)
-    return dict(situation=sit, countries=cs, seed=rnd.randrange(10 ** 6))
+    # ortam: durumun kendi sahnesi (hava/mekân esprisi ona bağlı) ağırlıklı; son 3 videonun ortamı tekrar etmez
+    recent = [v.get('scene') or balls.SITUATIONS.get(v.get('situation'), {}).get('scene') for v in hist['videos'][-3:]]
+    own = balls.SITUATIONS[sit]['scene']
+    if own in ('snow', 'rain', 'stadium', 'night', 'sun'):   # konu bu ortama bağlı (kar, yağmur, maç, yılbaşı, sıcak)
+        scene = own
+    else:
+        pool = [k for k in balls.SCENES if k not in recent and k not in ('snow', 'rain', 'stadium', 'sun')] or [own]
+        scene = rnd.choices(pool, weights=[4 if k == own else 1 for k in pool])[0]
+    return dict(situation=sit, countries=cs, scene=scene, seed=rnd.randrange(10 ** 6))
 
 
 def metadata(plan, hist, rnd):
     s = balls.SITUATIONS[plan['situation']]
     t = s['title'].title().replace("'S", "'s").replace('°C', '°C')
-    used = {v.get('title') for v in hist['videos'] if v.get('title')}
+    used = {tkey(v['title']) for v in hist['videos'] if v.get('title')}
     short_s = t.replace('Countries ', '', 1)
     opts = [x.format(t=t, s=short_s) for x in TITLES]; rnd.shuffle(opts)
-    title = next((x for x in opts if x not in used), opts[0] + f' #{len(hist["videos"]) + 1}')
+    title = next((x for x in opts if tkey(x) not in used), None)
+    if title is None:   # aynı konu başlığı zaten var → yeniden yükleme yok
+        return None, None, None
     names = [balls.NAMES[c].title() if balls.NAMES[c] not in ('USA', 'UK') else balls.NAMES[c] for c in plan['countries']]
     lines = '\n'.join(f'{balls.NAMES[c].title() if balls.NAMES[c] not in ("USA", "UK") else balls.NAMES[c]}: '
                       f'"{s["lines"][c][0]}"' for c in plan['countries'])
@@ -90,6 +116,8 @@ def main():
     if plan is None:
         print('Sesli yeni plan kalmadı → bu slot atlandı (yeni ses klipleri gerekiyor)'); return
     title, desc, tags = metadata(plan, hist, rnd)
+    if title is None:
+        print(f"'{plan['situation']}' başlığı zaten kullanılmış → slot atlandı"); return
     key = datetime.now(timezone.utc).strftime('%Y%m%d-%H%M%S')
     print(f'plan: {plan}\ntitle: {title}', flush=True)
     out = HERE / 'output' / key

@@ -115,9 +115,9 @@ def main():
     sim = {'videos': list(hist['videos'])}; plans = []
     for _ in range(PARTS * 4):
         if len(plans) == PARTS: break
-        p = run.pick_plan(sim, rnd)
+        p = run.pick_plan(sim, rnd, mode='episode')
         if p is None: break
-        sim['videos'].append(dict(situation=p['situation'], countries=p['countries']))
+        sim['videos'].append(dict(kind='episode-part', situation=p['situation'], countries=p['countries']))
         if p['situation'] in {q['situation'] for q in plans}: continue   # bölümde aynı konu iki kez olmasın
         plans.append(p)
     if len(plans) < min(6, PARTS):

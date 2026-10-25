@@ -445,6 +445,186 @@ _NEW2 = {
 for _k, _v in _NEW2.items():
     SITUATIONS[_k]['lines'].update(_v)
 
+# 2026-10-25: yeni durumlar (her durum Shorts'ta yalnız bir kez) + yeni ortamlar (park, office, airport, market)
+SITUATIONS.update({
+    'airport': dict(title='COUNTRIES AT THE AIRPORT', scene='airport', name='Airport', lines={
+        'US': ('Three hours early. Coffee in hand!', 'cool'), 'GB': ('Pint at the gate. 8 AM. Normal.', 'happy'),
+        'DE': ('Boarding pass printed. Twice.', 'cool'), 'IT': ('Running to the gate. Ciao!', 'shock'),
+        'JP': ('Perfect line. Shoes off fast.', 'calm'), 'IN': ('Whole family came to say bye!', 'love'),
+        'BR': ('Last-minute dash, still smiling!', 'happy'), 'CH': ('Arrived exactly on time.', 'cool'),
+        'NG': ('Overweight bag? Wear three jackets!', 'angry'), 'MX': ('Packed snacks for everyone!', 'love'),
+        'KR': ('Duty free! Skincare haul!', 'happy'), 'TR': ('Applause when the plane lands!', 'happy'),
+        'PH': ('Balikbayan box ready!', 'love'), 'CA': ('Sorry, is this seat taken?', 'calm')}),
+    'flightdelay': dict(title='COUNTRIES WHEN THE FLIGHT IS DELAYED', scene='airport', name='Flight Delay', lines={
+        'US': ('I want to speak to the manager!', 'angry'), 'GB': ('Typical. Queue for tea.', 'calm'),
+        'DE': ('Unacceptable. I will write a complaint.', 'angry'), 'FR': ('A strike? Of course.', 'sleepy'),
+        'IT': ('More time for espresso!', 'happy'), 'JP': ('Train would be on time...', 'cry'),
+        'BR': ('Party at gate 12!', 'happy'), 'IN': ('Unpack the snacks, family!', 'love'),
+        'ES': ('Siesta on the floor.', 'sleepy'), 'CH': ('Delayed? I am in shock.', 'shock'),
+        'IE': ('Sure, we will find a pub.', 'happy'), 'NO': ('Quietly reading a book.', 'calm'),
+        'AR': ('Mate and a long chat!', 'cool'), 'KR': ('Gaming on my phone. Fine.', 'cool')}),
+    'souvenir': dict(title='COUNTRIES BUYING SOUVENIRS', scene='airport', name='Souvenirs', lines={
+        'JP': ('Snack boxes for every coworker!', 'love'), 'US': ('I heart NY T-shirt!', 'happy'),
+        'FR': ('A tiny Eiffel Tower!', 'love'), 'CH': ('Chocolate. Lots of chocolate.', 'love'),
+        'TR': ('Turkish delight for everyone!', 'happy'), 'IT': ('Limoncello for grandma!', 'love'),
+        'NL': ('Wooden shoes. And cheese.', 'happy'), 'MX': ('A real sombrero!', 'happy'),
+        'GB': ('Tea towel with the Queen? Classic.', 'calm'), 'IN': ('Spices for the whole family!', 'love'),
+        'GR': ('Olive oil in my suitcase!', 'happy'), 'KR': ('Face masks, fifty of them!', 'happy'),
+        'TH': ('Elephant pants!', 'happy'), 'CA': ('Maple syrup bottles!', 'love')}),
+    'supermarket': dict(title='COUNTRIES AT THE SUPERMARKET', scene='market', name='Supermarket', lines={
+        'US': ('Family size. Everything family size.', 'happy'), 'DE': ('Bags? Brought my own.', 'cool'),
+        'FR': ('Fresh baguette or nothing.', 'cool'), 'IT': ('That is NOT real parmesan!', 'angry'),
+        'JP': ('Half-price sushi at 8 PM!', 'love'), 'GB': ('Meal deal. Every day.', 'happy'),
+        'MX': ('Hot sauce aisle, please!', 'love'), 'IN': ('Fifty spices, one cart!', 'happy'),
+        'NL': ('Self checkout, super fast.', 'cool'), 'SE': ('Quiet shopping. No small talk.', 'calm'),
+        'KR': ('Instant noodles. Ten packs.', 'happy'), 'BR': ('Guarana and cheese bread!', 'love'),
+        'PL': ('Pierogi for the week!', 'love'), 'NG': ('Jollof ingredients! All of them!', 'happy')}),
+    'snacks': dict(title='COUNTRIES PICKING A SNACK', scene='market', name='Snacks', lines={
+        'US': ('Chips. Big bag.', 'happy'), 'GB': ('Crisps and a biscuit.', 'calm'),
+        'JP': ('Matcha everything!', 'love'), 'MX': ('Mango with chili!', 'love'),
+        'NL': ('Licorice! Salty licorice!', 'happy'), 'BR': ('Brigadeiro!', 'love'),
+        'IN': ('Samosa, extra chutney!', 'happy'), 'KR': ('Spicy rice cakes!', 'cool'),
+        'TR': ('Simit and tea!', 'love'), 'ES': ('Churros!', 'happy'),
+        'ID': ('Krupuk crackers!', 'happy'), 'CA': ('Ketchup chips!', 'happy'),
+        'PH': ('Banana chips!', 'happy'), 'VN': ('Banh mi to go!', 'love')}),
+    'sale': dict(title="COUNTRIES WHEN THERE'S A SALE", scene='market', name='Sale', lines={
+        'US': ('Black Friday! Run!', 'shock'), 'DE': ('Reading the fine print first.', 'cool'),
+        'TR': ('I can bargain lower!', 'cool'), 'IN': ('Bargain mode activated!', 'angry'),
+        'GB': ('Boxing Day queue at 5 AM.', 'sleepy'), 'IT': ('Saldi! New shoes!', 'love'),
+        'NL': ('Free sample? I will take two.', 'happy'), 'BR': ('Twelve monthly payments!', 'happy'),
+        'MX': ('Buen Fin! Let\'s go!', 'happy'), 'KR': ('Online sale at midnight!', 'cool'),
+        'SE': ('I only buy what I need.', 'calm'), 'ID': ('Flash sale on my phone!', 'shock'),
+        'PH': ('Mall sale! Whole family!', 'happy'), 'CO': ('Two for one? Perfect!', 'love')}),
+    'office': dict(title='COUNTRIES AT THE OFFICE', scene='office', name='Office', lines={
+        'US': ('Let\'s circle back on that.', 'cool'), 'DE': ('Meeting starts at 9:00. Not 9:01.', 'cool'),
+        'JP': ('Last one to leave. Always.', 'sleepy'), 'FR': ('Two-hour lunch. Non-negotiable.', 'cool'),
+        'SE': ('Fika break at ten!', 'love'), 'ES': ('Work starts... eventually.', 'sleepy'),
+        'IT': ('Espresso before any email.', 'calm'), 'GB': ('Brew round, anyone?', 'happy'),
+        'NL': ('Very direct: your idea is bad.', 'cool'), 'KR': ('Team dinner after work!', 'happy'),
+        'IN': ('Chai break and quick call!', 'happy'), 'BR': ('Hug everyone at the door!', 'love'),
+        'CH': ('My desk is perfectly clean.', 'calm'), 'NO': ('Home at four. Family time.', 'love')}),
+    'meeting': dict(title='COUNTRIES IN A MEETING THAT COULD BE AN EMAIL', scene='office', name='Meetings', lines={
+        'US': ('Quick sync! Forty minutes.', 'happy'), 'DE': ('Agenda point seven of twelve.', 'cool'),
+        'JP': ('Nodding politely. Very tired.', 'sleepy'), 'FR': ('Let us debate this. Again.', 'cool'),
+        'GB': ('Sorry, can I just add...', 'calm'), 'NL': ('This could be an email.', 'angry'),
+        'IT': ('Talking with my hands!', 'happy'), 'IN': ('Can you hear me? Hello?', 'shock'),
+        'BR': ('Camera off, eating lunch.', 'happy'), 'SE': ('Let us all agree. Slowly.', 'calm'),
+        'KR': ('Taking notes for the boss.', 'cool'), 'ES': ('I was on mute!', 'shock'),
+        'CA': ('Sorry, you go first.', 'calm'), 'MX': ('Five more minutes. Ahorita.', 'sleepy')}),
+    'lunchbreak': dict(title='COUNTRIES ON LUNCH BREAK', scene='office', name='Lunch Break', lines={
+        'US': ('Sad salad at my desk.', 'cry'), 'FR': ('Three courses. Of course.', 'love'),
+        'ES': ('Lunch at three. Siesta after.', 'sleepy'), 'JP': ('Bento! Very pretty.', 'love'),
+        'GB': ('Sandwich and crisps.', 'calm'), 'IN': ('Tiffin box from mom!', 'love'),
+        'KR': ('Kimchi stew with the team!', 'happy'), 'MX': ('Tacos de canasta!', 'happy'),
+        'DE': ('Currywurst at 12 sharp.', 'cool'), 'TR': ('Lentil soup and bread!', 'happy'),
+        'BR': ('Rice, beans, and steak!', 'love'), 'VN': ('Pho, very quick!', 'happy'),
+        'SE': ('Leftovers from yesterday.', 'calm'), 'NG': ('Jollof rice, no debate!', 'cool')}),
+    'picnic': dict(title='COUNTRIES AT A PICNIC', scene='park', name='Picnic', lines={
+        'GB': ('Sandwiches and rain. Lovely.', 'calm'), 'FR': ('Cheese, bread, done.', 'love'),
+        'US': ('Hot dogs and a cooler!', 'happy'), 'IT': ('Grandma made four lasagnas.', 'love'),
+        'JP': ('Picnic under cherry blossoms!', 'love'), 'TR': ('Samovar in the park!', 'happy'),
+        'DE': ('Blanket perfectly flat.', 'cool'), 'KR': ('Fried chicken delivered to the park!', 'shock'),
+        'IN': ('Thirty relatives, ten pots!', 'happy'), 'SE': ('Strawberries and silence.', 'calm'),
+        'BR': ('Music and futebol!', 'happy'), 'GR': ('Olives, feta, sunshine!', 'love'),
+        'PL': ('Sausages on the fire!', 'happy'), 'AR': ('Mate under a tree.', 'calm')}),
+    'bbq': dict(title='COUNTRIES AT A BARBECUE', scene='park', name='Barbecue', lines={
+        'US': ('Burgers! Ribs! Freedom!', 'happy'), 'AR': ('Asado takes six hours. Relax.', 'cool'),
+        'BR': ('Churrasco! More picanha!', 'love'), 'KR': ('Grill at the table!', 'happy'),
+        'TR': ('Kebab on the mangal!', 'love'), 'DE': ('Bratwurst. Mustard. Beer.', 'cool'),
+        'GB': ('It is raining. We grill anyway.', 'calm'), 'MX': ('Carne asada and salsa!', 'love'),
+        'JP': ('Yakitori, tiny and perfect.', 'calm'), 'NG': ('Suya! Spicy!', 'happy'),
+        'GR': ('Souvlaki for everyone!', 'happy'), 'CA': ('Grilling in the snow. Normal.', 'shiver'),
+        'IE': ('Burnt sausages. Delicious.', 'happy'), 'PH': ('Lechon! Whole pig!', 'shock')}),
+    'pets': dict(title='COUNTRIES WITH THEIR PETS', scene='park', name='Pets', lines={
+        'GB': ('My dog has a raincoat.', 'love'), 'US': ('Dog birthday party!', 'happy'),
+        'JP': ('Cat cafe every weekend!', 'love'), 'FR': ('My dog eats at the restaurant.', 'cool'),
+        'DE': ('Dog trained better than me.', 'cool'), 'TR': ('Street cats rule the city!', 'love'),
+        'KR': ('My dog wears designer clothes!', 'happy'), 'NL': ('Dog in the bike basket!', 'happy'),
+        'IN': ('Feeding street dogs daily!', 'love'), 'BR': ('Dog on the beach!', 'happy'),
+        'SE': ('Long forest walks with my dog.', 'calm'), 'MX': ('Chihuahua with attitude!', 'angry'),
+        'IE': ('Sheepdog does all the work.', 'cool'), 'TH': ('Temple cats everywhere!', 'love')}),
+    'jog': dict(title='COUNTRIES GOING FOR A MORNING RUN', scene='park', name='Morning Run', lines={
+        'US': ('Smartwatch says 10,000 steps!', 'happy'), 'GB': ('Running. Raining. Fine.', 'calm'),
+        'NO': ('Cross-country skiing instead!', 'cool'), 'JP': ('Radio exercises at 6 AM!', 'happy'),
+        'IT': ('Jogging to the cafe.', 'love'), 'FR': ('A run? Then croissant.', 'love'),
+        'KR': ('Han River run with friends!', 'happy'), 'DE': ('Exactly five kilometers.', 'cool'),
+        'BR': ('Beach run in Copacabana!', 'love'), 'ES': ('Morning run? It is noon.', 'sleepy'),
+        'NG': ('Fast! Very fast!', 'cool'), 'SE': ('Running in the forest. Peace.', 'calm'),
+        'IN': ('Yoga first, then run!', 'calm'), 'CO': ('Ciclovia on Sunday!', 'happy')}),
+    'alarm': dict(title='COUNTRIES WHEN THE ALARM RINGS', scene='living', name='Alarm', lines={
+        'DE': ('Up at the first ring.', 'cool'), 'ES': ('Snooze. Snooze. Snooze.', 'sleepy'),
+        'US': ('Coffee before words.', 'sleepy'), 'JP': ('Already awake. On the train.', 'calm'),
+        'BR': ('Five more minutes, amor.', 'sleepy'), 'GB': ('Tea first. Then life.', 'calm'),
+        'IT': ('Espresso. Then I talk.', 'angry'), 'FR': ('Croissant is my alarm.', 'love'),
+        'KR': ('Skincare: ten steps!', 'happy'), 'IN': ('Mom is my alarm!', 'shock'),
+        'MX': ('Ahorita me levanto...', 'sleepy'), 'CH': ('Alarm clock made in Switzerland.', 'cool'),
+        'NO': ('Dark at 8 AM. Still sleeping.', 'sleepy'), 'TR': ('Breakfast smell wakes me up!', 'love')}),
+    'cold': dict(title='COUNTRIES WHEN THEY CATCH A COLD', scene='living', name='Catching a Cold', lines={
+        'TR': ('Lemon cologne and mint tea!', 'calm'), 'IN': ('Turmeric milk, now!', 'cool'),
+        'US': ('Chicken soup and Netflix.', 'sleepy'), 'GB': ('Just a sniffle. Carry on.', 'calm'),
+        'IT': ('Do not go out with wet hair!', 'angry'), 'KR': ('Hot bath and spicy soup!', 'cool'),
+        'MX': ('Grandma\'s tea with honey!', 'love'), 'PL': ('Garlic in everything!', 'cool'),
+        'JP': ('Mask on. Protect others.', 'calm'), 'DE': ('Doctor says: Kamillentee.', 'calm'),
+        'BR': ('Ginger and lemon!', 'happy'), 'SE': ('Honey and rest.', 'sleepy'),
+        'PH': ('Ginger tea, salabat!', 'love'), 'GR': ('Mountain tea, please.', 'calm')}),
+    'dessert': dict(title='COUNTRIES ORDERING DESSERT', scene='kitchen', name='Dessert', lines={
+        'FR': ('Crème brûlée, merci.', 'love'), 'IT': ('Tiramisu. Grandma\'s recipe.', 'love'),
+        'US': ('Cheesecake, extra large!', 'happy'), 'TR': ('Baklava! More baklava!', 'love'),
+        'JP': ('Mochi, very soft.', 'calm'), 'BR': ('Brigadeiro!', 'happy'),
+        'ES': ('Churros with chocolate!', 'love'), 'AR': ('Dulce de leche on everything!', 'love'),
+        'IN': ('Gulab jamun!', 'happy'), 'GB': ('Sticky toffee pudding.', 'calm'),
+        'PL': ('Paczki!', 'happy'), 'KR': ('Bingsu! Shaved ice!', 'happy'),
+        'GR': ('Loukoumades with honey!', 'love'), 'PH': ('Halo-halo!', 'happy')}),
+    'hello': dict(title='COUNTRIES SAYING HELLO', scene='city', name='Greetings', lines={
+        'FR': ('Bisou, bisou. Two kisses.', 'love'), 'JP': ('A polite bow.', 'calm'),
+        'US': ('Hey! How are you? Bye!', 'happy'), 'GB': ('Alright?', 'calm'),
+        'IT': ('Ciao! Hug and two kisses!', 'love'), 'TH': ('Sawasdee, with a wai.', 'calm'),
+        'IN': ('Namaste!', 'calm'), 'BR': ('Big hug! Beijo!', 'love'),
+        'DE': ('Firm handshake. Eye contact.', 'cool'), 'NL': ('Three kisses!', 'happy'),
+        'KR': ('Annyeong! Small bow.', 'happy'), 'IE': ('What\'s the craic?', 'happy'),
+        'TR': ('Merhaba! Tea?', 'happy'), 'SE': ('Hej. Nod. Done.', 'calm')}),
+    'bus': dict(title='COUNTRIES WAITING FOR THE BUS', scene='city', name='Bus Stop', lines={
+        'CH': ('Bus arrives in 2 minutes. Exactly.', 'cool'), 'GB': ('Perfect queue. No talking.', 'calm'),
+        'US': ('Bus? I drive everywhere.', 'cool'), 'JP': ('Bus is 30 seconds late. Shock!', 'shock'),
+        'IT': ('Bus is late. As always.', 'sleepy'), 'IN': ('Jumped on while it was moving!', 'cool'),
+        'DE': ('Checking the timetable app.', 'calm'), 'NL': ('Bus? I have a bike.', 'happy'),
+        'SE': ('Standing two meters apart.', 'calm'), 'BR': ('Samba while I wait!', 'happy'),
+        'MX': ('Combi! Wait for me!', 'shock'), 'PH': ('Jeepney, room for one more!', 'happy'),
+        'KR': ('App says 3 minutes!', 'cool'), 'TR': ('Dolmus! Stop here!', 'angry')}),
+    'late': dict(title='COUNTRIES RUNNING LATE', scene='city', name='Running Late', lines={
+        'DE': ('Late? I am never late.', 'angry'), 'BR': ('Two hours late? Right on time!', 'happy'),
+        'JP': ('One minute late. So sorry!', 'cry'), 'ES': ('Late is normal here.', 'calm'),
+        'US': ('Traffic! Be there in five!', 'shock'), 'GB': ('Terribly sorry, the train...', 'calm'),
+        'MX': ('Ya voy! Already on my way!', 'happy'), 'CH': ('Late? Impossible.', 'shock'),
+        'IT': ('Coffee first, then I run.', 'cool'), 'IN': ('Indian Standard Time!', 'happy'),
+        'NG': ('African time. Relax.', 'cool'), 'KR': ('Taxi! Fast!', 'shock'),
+        'AR': ('The party starts at midnight anyway.', 'cool'), 'NO': ('Early. Waiting in the car.', 'calm')}),
+    'moving': dict(title='COUNTRIES MOVING TO A NEW HOUSE', scene='living', name='Moving House', lines={
+        'US': ('Rent a truck, move myself!', 'cool'), 'DE': ('Every box labeled.', 'cool'),
+        'JP': ('Gifts for the new neighbors!', 'love'), 'IT': ('Mamma packed food for a year.', 'love'),
+        'TR': ('Neighbors bring dinner!', 'love'), 'NL': ('Furniture through the window!', 'shock'),
+        'GB': ('Kettle in the first box.', 'calm'), 'IN': ('Boil milk for good luck!', 'happy'),
+        'KR': ('New house party! Bring toilet paper!', 'happy'), 'SE': ('Flat-pack furniture time.', 'calm'),
+        'BR': ('Housewarming barbecue!', 'happy'), 'CA': ('Moving day is July 1st!', 'shock'),
+        'PL': ('Bread and salt at the door!', 'love'), 'MX': ('The whole family helps!', 'happy')}),
+    'compliment': dict(title='COUNTRIES GETTING A COMPLIMENT', scene='city', name='Compliments', lines={
+        'GB': ('Oh, this old thing?', 'calm'), 'US': ('Thanks! I know!', 'happy'),
+        'JP': ('No, no, not at all!', 'shock'), 'FR': ('Obviously.', 'cool'),
+        'IT': ('It is the style. Italian.', 'cool'), 'NL': ('Correct.', 'cool'),
+        'KR': ('Skincare, ten steps!', 'happy'), 'BR': ('Obrigado! Let me hug you!', 'love'),
+        'DE': ('Please explain why exactly.', 'calm'), 'IN': ('Mom says I am handsome!', 'love'),
+        'CA': ('Oh, sorry, thank you!', 'love'), 'SE': ('Quiet smile.', 'calm'),
+        'IE': ('Ah, stop it!', 'happy'), 'ES': ('Gracias, guapo!', 'love')}),
+    'bored': dict(title="COUNTRIES WHEN THEY'RE BORED", scene='living', name='Boredom', lines={
+        'US': ('Doom scrolling. Again.', 'sleepy'), 'JP': ('New hobby: bonsai!', 'calm'),
+        'IT': ('Cook pasta from scratch!', 'love'), 'BR': ('Call friends. Party!', 'happy'),
+        'GB': ('Put the kettle on.', 'calm'), 'KR': ('Watch one more drama.', 'love'),
+        'DE': ('Organize the garage.', 'cool'), 'FR': ('Philosophy and wine.', 'cool'),
+        'IN': ('Cricket in the street!', 'happy'), 'SE': ('Sauna, then lake.', 'calm'),
+        'TR': ('Backgammon with dad!', 'happy'), 'MX': ('Telenovela marathon!', 'love'),
+        'PH': ('Karaoke! All night!', 'happy'), 'NO': ('Go hiking. In the rain.', 'cool')}),
+})
+
 
 # ---------------------------------------------------------------- sahneler (arka planlar kodla çizilir)
 def vgrad(w, h, c1, c2):
@@ -525,6 +705,65 @@ def scene_bg(kind):
         d.rectangle([0, gy, w, h], fill=(110, 110, 120))
         for k in range(0, W, 160):
             d.rectangle(box(k, H * 0.83, k + 90, H * 0.83 + 16), fill=(240, 240, 240))
+    elif kind == 'park':   # 2026-10-25 yeni ortam: park (çimen, ağaçlar, bank)
+        a = vgrad(w, h, (120, 195, 245), (200, 232, 250))
+        img = Image.fromarray(a.astype(np.uint8)).convert('RGBA'); d = ImageDraw.Draw(img)
+        for cx, cy, r in ((230, 260, 90), (330, 240, 110), (800, 300, 100)):
+            d.ellipse(box(cx - r, cy - r * 0.55, cx + r, cy + r * 0.55), fill=(250, 252, 255))
+        d.ellipse(box(-300, H * 0.58, W * 0.6, H * 0.85), fill=(120, 190, 100))
+        d.ellipse(box(W * 0.4, H * 0.6, W + 300, H * 0.86), fill=(105, 178, 92))
+        for x, tw in ((120, 150), (930, 170), (520, 120)):
+            d.rectangle(box(x - 16, H * 0.70 - 230, x + 16, H * 0.70), fill=(120, 80, 50))
+            d.ellipse(box(x - tw, H * 0.70 - 230 - tw * 1.3, x + tw, H * 0.70 - 230 + tw * 0.5), fill=(70, 150, 80))
+        d.rectangle([0, gy, w, h], fill=(110, 185, 95))
+        d.rounded_rectangle(box(380, H * 0.70 - 120, 700, H * 0.70 - 90), radius=L(8), fill=(150, 100, 60))
+    elif kind == 'office':   # açık ofis: pencere şeridi, masalar, monitörler
+        a = vgrad(w, h, (215, 222, 232), (185, 194, 208))
+        img = Image.fromarray(a.astype(np.uint8)).convert('RGBA'); d = ImageDraw.Draw(img)
+        for x0 in range(40, W, 260):
+            d.rectangle(box(x0, 180, x0 + 220, 620), fill=(170, 210, 240), outline=(240, 244, 250), width=L(10))
+            d.rectangle(box(x0 + 20, 470, x0 + 70, 620), fill=(120, 140, 170))
+            d.rectangle(box(x0 + 100, 400, x0 + 160, 620), fill=(110, 128, 160))
+        d.rectangle([0, gy, w, h], fill=(120, 125, 140))
+        for x0 in (40, 600):
+            d.rectangle(box(x0, H * 0.70 - 150, x0 + 440, H * 0.70 - 125), fill=(235, 235, 240))
+            d.rounded_rectangle(box(x0 + 140, H * 0.70 - 330, x0 + 300, H * 0.70 - 200), radius=L(8), fill=(40, 44, 60))
+            d.rectangle(box(x0 + 150, H * 0.70 - 320, x0 + 290, H * 0.70 - 212), fill=(90, 160, 220))
+            d.rectangle(box(x0 + 210, H * 0.70 - 200, x0 + 230, H * 0.70 - 150), fill=(40, 44, 60))
+    elif kind == 'airport':   # terminal: dev cam, uçak, kalkış tabelası
+        a = vgrad(w, h, (100, 170, 230), (190, 220, 245))
+        img = Image.fromarray(a.astype(np.uint8)).convert('RGBA'); d = ImageDraw.Draw(img)
+        d.rectangle(box(0, H * 0.52, W, H * 0.70), fill=(150, 150, 160))
+        px, py = 560, 520
+        d.ellipse(box(px - 300, py - 45, px + 300, py + 45), fill=(245, 246, 250))
+        d.polygon([(L(px - 40), L(py)), (L(px + 120), L(py + 170)), (L(px + 190), L(py + 170)), (L(px + 90), L(py))], fill=(225, 228, 236))
+        d.polygon([(L(px + 220), L(py - 20)), (L(px + 300), L(py - 170)), (L(px + 330), L(py - 170)), (L(px + 300), L(py))], fill=(220, 70, 70))
+        for x0 in range(0, W + 1, 180):
+            d.rectangle(box(x0 - 8, 0, x0 + 8, H * 0.70), fill=(70, 80, 95))
+        d.rectangle(box(0, 0, W, 60), fill=(70, 80, 95))
+        d.rounded_rectangle(box(80, 110, 470, 300), radius=L(10), fill=(25, 28, 40))
+        for k in range(5):
+            d.rectangle(box(100, 130 + k * 34, 300, 150 + k * 34), fill=(255, 200, 60))
+            d.rectangle(box(320, 130 + k * 34, 450, 150 + k * 34), fill=(120, 230, 140) if k % 2 else (240, 90, 80))
+        d.rectangle([0, gy, w, h], fill=(200, 200, 205))
+        for y in range(int(H * 0.70) + 70, H, 110):
+            d.line(box(0, y, W, y), fill=(180, 180, 188), width=L(4))
+    elif kind == 'market':   # süpermarket rafları
+        a = vgrad(w, h, (245, 245, 240), (220, 222, 218))
+        img = Image.fromarray(a.astype(np.uint8)).convert('RGBA'); d = ImageDraw.Draw(img)
+        rnd = random.Random(21)
+        for y0 in (180, 360, 540):
+            d.rectangle(box(0, y0 + 130, W, y0 + 145), fill=(150, 150, 160))
+            x = 10
+            while x < W:
+                bw, bh = rnd.uniform(40, 80), rnd.uniform(70, 125)
+                d.rounded_rectangle(box(x, y0 + 130 - bh, x + bw, y0 + 130), radius=L(6),
+                                    fill=rnd.choice([(230, 80, 70), (250, 200, 60), (80, 160, 230), (110, 200, 120), (240, 140, 60), (180, 110, 200)]))
+                x += bw + 6
+        d.rectangle(box(0, 90, W, 150), fill=(60, 150, 90))
+        d.rectangle([0, gy, w, h], fill=(225, 225, 228))
+        for x in range(0, W, 120):
+            d.line(box(x, H * 0.70, x - 120, H), fill=(205, 205, 210), width=L(3))
     else:  # kitchen, living, party (iç mekân)
         wall = {'kitchen': (245, 230, 200), 'living': (205, 225, 240), 'party': (250, 215, 235)}.get(kind, (230, 230, 230))
         a = vgrad(w, h, wall, tuple(int(c * 0.86) for c in wall))
@@ -726,6 +965,9 @@ def bubble(img, txt, cx, cy, tail_to, k):
     lay = layer.resize((max(1, int(layer.width * s)), max(1, int(layer.height * s))), Image.BILINEAR)
     img.paste(lay, (int(L(cx) - lay.width / 2), int(L(cy) - lay.height)), lay)
 
+
+SCENES = ('snow', 'sun', 'rain', 'night', 'stadium', 'city', 'kitchen', 'living', 'party', 'park', 'office', 'airport', 'market')
+
 rng = np.random.default_rng(1)
 def t_arr(d): return np.arange(int(SR * d)) / SR
 def noise(d): return rng.uniform(-1, 1, int(SR * d))
@@ -872,8 +1114,8 @@ def render_frame(i):
     T = i / FPS
     sit = SITUATIONS[PLAN['situation']]
     codes = PLAN['countries']; n = len(codes)
-    img = scene_bg(sit['scene']).copy()
-    effects(img, sit['scene'], T)
+    img = scene_bg(PLAN.get('scene') or sit['scene']).copy()
+    effects(img, PLAN.get('scene') or sit['scene'], T)
     # koyu üst bant (başlık okunsun)
     band = Image.new('RGBA', (L(W), L(330)), (20, 18, 35, 170)); img.alpha_composite(band, (0, 0))
     title_band(img, sit['title'], T, 0.0)
@@ -993,7 +1235,7 @@ def build_audio(path):
     def place(arr, t0, x):
         if x is None: return
         i0 = int(t0 * SR); arr[i0:i0 + len(x)] += x[:max(0, n - i0)]
-    place(mix, 0.0, ambience(sit['scene'], tot))
+    place(mix, 0.0, ambience(PLAN.get('scene') or sit['scene'], tot))
     for t0 in (0.0, 0.4, 0.7): place(mix, t0, sfx('pop'))
     for k, code in enumerate(PLAN['countries']):
         base = INTRO + k * TURN; mood = sit['lines'][code][1]

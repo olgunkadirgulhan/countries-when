@@ -130,6 +130,34 @@ LINES = {
   "halloween": [
    "Trick or treat in the snow.",
    "shiver"
+  ],
+  "airport": [
+   "Sorry, is this seat taken?",
+   "calm"
+  ],
+  "souvenir": [
+   "Maple syrup bottles!",
+   "love"
+  ],
+  "snacks": [
+   "Ketchup chips!",
+   "happy"
+  ],
+  "meeting": [
+   "Sorry, you go first.",
+   "calm"
+  ],
+  "bbq": [
+   "Grilling in the snow. Normal.",
+   "shiver"
+  ],
+  "moving": [
+   "Moving day is July 1st!",
+   "shock"
+  ],
+  "compliment": [
+   "Oh, sorry, thank you!",
+   "love"
   ]
  },
  "BR": {
@@ -235,6 +263,90 @@ LINES = {
   ],
   "halloween": [
    "Party, of course!",
+   "happy"
+  ],
+  "airport": [
+   "Last-minute dash, still smiling!",
+   "happy"
+  ],
+  "flightdelay": [
+   "Party at gate 12!",
+   "happy"
+  ],
+  "supermarket": [
+   "Guarana and cheese bread!",
+   "love"
+  ],
+  "snacks": [
+   "Brigadeiro!",
+   "love"
+  ],
+  "sale": [
+   "Twelve monthly payments!",
+   "happy"
+  ],
+  "office": [
+   "Hug everyone at the door!",
+   "love"
+  ],
+  "meeting": [
+   "Camera off, eating lunch.",
+   "happy"
+  ],
+  "lunchbreak": [
+   "Rice, beans, and steak!",
+   "love"
+  ],
+  "picnic": [
+   "Music and futebol!",
+   "happy"
+  ],
+  "bbq": [
+   "Churrasco! More picanha!",
+   "love"
+  ],
+  "pets": [
+   "Dog on the beach!",
+   "happy"
+  ],
+  "jog": [
+   "Beach run in Copacabana!",
+   "love"
+  ],
+  "alarm": [
+   "Five more minutes, amor.",
+   "sleepy"
+  ],
+  "cold": [
+   "Ginger and lemon!",
+   "happy"
+  ],
+  "dessert": [
+   "Brigadeiro!",
+   "happy"
+  ],
+  "hello": [
+   "Big hug! Beijo!",
+   "love"
+  ],
+  "bus": [
+   "Samba while I wait!",
+   "happy"
+  ],
+  "late": [
+   "Two hours late? Right on time!",
+   "happy"
+  ],
+  "moving": [
+   "Housewarming barbecue!",
+   "happy"
+  ],
+  "compliment": [
+   "Obrigado! Let me hug you!",
+   "love"
+  ],
+  "bored": [
+   "Call friends. Party!",
    "happy"
   ]
  },
@@ -342,6 +454,94 @@ LINES = {
   "halloween": [
    "Candy! All the candy!",
    "happy"
+  ],
+  "airport": [
+   "Three hours early. Coffee in hand!",
+   "cool"
+  ],
+  "flightdelay": [
+   "I want to speak to the manager!",
+   "angry"
+  ],
+  "souvenir": [
+   "I heart NY T-shirt!",
+   "happy"
+  ],
+  "supermarket": [
+   "Family size. Everything family size.",
+   "happy"
+  ],
+  "snacks": [
+   "Chips. Big bag.",
+   "happy"
+  ],
+  "sale": [
+   "Black Friday! Run!",
+   "shock"
+  ],
+  "office": [
+   "Let's circle back on that.",
+   "cool"
+  ],
+  "meeting": [
+   "Quick sync! Forty minutes.",
+   "happy"
+  ],
+  "lunchbreak": [
+   "Sad salad at my desk.",
+   "cry"
+  ],
+  "picnic": [
+   "Hot dogs and a cooler!",
+   "happy"
+  ],
+  "bbq": [
+   "Burgers! Ribs! Freedom!",
+   "happy"
+  ],
+  "pets": [
+   "Dog birthday party!",
+   "happy"
+  ],
+  "jog": [
+   "Smartwatch says 10,000 steps!",
+   "happy"
+  ],
+  "alarm": [
+   "Coffee before words.",
+   "sleepy"
+  ],
+  "cold": [
+   "Chicken soup and Netflix.",
+   "sleepy"
+  ],
+  "dessert": [
+   "Cheesecake, extra large!",
+   "happy"
+  ],
+  "hello": [
+   "Hey! How are you? Bye!",
+   "happy"
+  ],
+  "bus": [
+   "Bus? I drive everywhere.",
+   "cool"
+  ],
+  "late": [
+   "Traffic! Be there in five!",
+   "shock"
+  ],
+  "moving": [
+   "Rent a truck, move myself!",
+   "cool"
+  ],
+  "compliment": [
+   "Thanks! I know!",
+   "happy"
+  ],
+  "bored": [
+   "Doom scrolling. Again.",
+   "sleepy"
   ]
  },
  "TR": {
@@ -448,6 +648,66 @@ LINES = {
   "halloween": [
    "What is this holiday?",
    "shock"
+  ],
+  "airport": [
+   "Applause when the plane lands!",
+   "happy"
+  ],
+  "souvenir": [
+   "Turkish delight for everyone!",
+   "happy"
+  ],
+  "snacks": [
+   "Simit and tea!",
+   "love"
+  ],
+  "sale": [
+   "I can bargain lower!",
+   "cool"
+  ],
+  "lunchbreak": [
+   "Lentil soup and bread!",
+   "happy"
+  ],
+  "picnic": [
+   "Samovar in the park!",
+   "happy"
+  ],
+  "bbq": [
+   "Kebab on the mangal!",
+   "love"
+  ],
+  "pets": [
+   "Street cats rule the city!",
+   "love"
+  ],
+  "alarm": [
+   "Breakfast smell wakes me up!",
+   "love"
+  ],
+  "cold": [
+   "Lemon cologne and mint tea!",
+   "calm"
+  ],
+  "dessert": [
+   "Baklava! More baklava!",
+   "love"
+  ],
+  "hello": [
+   "Merhaba! Tea?",
+   "happy"
+  ],
+  "bus": [
+   "Dolmus! Stop here!",
+   "angry"
+  ],
+  "moving": [
+   "Neighbors bring dinner!",
+   "love"
+  ],
+  "bored": [
+   "Backgammon with dad!",
+   "happy"
   ]
  },
  "JP": {
@@ -554,6 +814,90 @@ LINES = {
   "halloween": [
    "Best costume parade!",
    "happy"
+  ],
+  "airport": [
+   "Perfect line. Shoes off fast.",
+   "calm"
+  ],
+  "flightdelay": [
+   "Train would be on time...",
+   "cry"
+  ],
+  "souvenir": [
+   "Snack boxes for every coworker!",
+   "love"
+  ],
+  "supermarket": [
+   "Half-price sushi at 8 PM!",
+   "love"
+  ],
+  "snacks": [
+   "Matcha everything!",
+   "love"
+  ],
+  "office": [
+   "Last one to leave. Always.",
+   "sleepy"
+  ],
+  "meeting": [
+   "Nodding politely. Very tired.",
+   "sleepy"
+  ],
+  "lunchbreak": [
+   "Bento! Very pretty.",
+   "love"
+  ],
+  "picnic": [
+   "Picnic under cherry blossoms!",
+   "love"
+  ],
+  "bbq": [
+   "Yakitori, tiny and perfect.",
+   "calm"
+  ],
+  "pets": [
+   "Cat cafe every weekend!",
+   "love"
+  ],
+  "jog": [
+   "Radio exercises at 6 AM!",
+   "happy"
+  ],
+  "alarm": [
+   "Already awake. On the train.",
+   "calm"
+  ],
+  "cold": [
+   "Mask on. Protect others.",
+   "calm"
+  ],
+  "dessert": [
+   "Mochi, very soft.",
+   "calm"
+  ],
+  "hello": [
+   "A polite bow.",
+   "calm"
+  ],
+  "bus": [
+   "Bus is 30 seconds late. Shock!",
+   "shock"
+  ],
+  "late": [
+   "One minute late. So sorry!",
+   "cry"
+  ],
+  "moving": [
+   "Gifts for the new neighbors!",
+   "love"
+  ],
+  "compliment": [
+   "No, no, not at all!",
+   "shock"
+  ],
+  "bored": [
+   "New hobby: bonsai!",
+   "calm"
   ]
  },
  "MX": {
@@ -647,6 +991,66 @@ LINES = {
   ],
   "halloween": [
    "Day of the Dead is coming!",
+   "love"
+  ],
+  "airport": [
+   "Packed snacks for everyone!",
+   "love"
+  ],
+  "souvenir": [
+   "A real sombrero!",
+   "happy"
+  ],
+  "supermarket": [
+   "Hot sauce aisle, please!",
+   "love"
+  ],
+  "snacks": [
+   "Mango with chili!",
+   "love"
+  ],
+  "sale": [
+   "Buen Fin! Let's go!",
+   "happy"
+  ],
+  "meeting": [
+   "Five more minutes. Ahorita.",
+   "sleepy"
+  ],
+  "lunchbreak": [
+   "Tacos de canasta!",
+   "happy"
+  ],
+  "bbq": [
+   "Carne asada and salsa!",
+   "love"
+  ],
+  "pets": [
+   "Chihuahua with attitude!",
+   "angry"
+  ],
+  "alarm": [
+   "Ahorita me levanto...",
+   "sleepy"
+  ],
+  "cold": [
+   "Grandma's tea with honey!",
+   "love"
+  ],
+  "bus": [
+   "Combi! Wait for me!",
+   "shock"
+  ],
+  "late": [
+   "Ya voy! Already on my way!",
+   "happy"
+  ],
+  "moving": [
+   "The whole family helps!",
+   "happy"
+  ],
+  "bored": [
+   "Telenovela marathon!",
    "love"
   ]
  },
@@ -754,6 +1158,82 @@ LINES = {
   "halloween": [
    "Too loud.",
    "angry"
+  ],
+  "airport": [
+   "Boarding pass printed. Twice.",
+   "cool"
+  ],
+  "flightdelay": [
+   "Unacceptable. I will write a complaint.",
+   "angry"
+  ],
+  "supermarket": [
+   "Bags? Brought my own.",
+   "cool"
+  ],
+  "sale": [
+   "Reading the fine print first.",
+   "cool"
+  ],
+  "office": [
+   "Meeting starts at 9:00. Not 9:01.",
+   "cool"
+  ],
+  "meeting": [
+   "Agenda point seven of twelve.",
+   "cool"
+  ],
+  "lunchbreak": [
+   "Currywurst at 12 sharp.",
+   "cool"
+  ],
+  "picnic": [
+   "Blanket perfectly flat.",
+   "cool"
+  ],
+  "bbq": [
+   "Bratwurst. Mustard. Beer.",
+   "cool"
+  ],
+  "pets": [
+   "Dog trained better than me.",
+   "cool"
+  ],
+  "jog": [
+   "Exactly five kilometers.",
+   "cool"
+  ],
+  "alarm": [
+   "Up at the first ring.",
+   "cool"
+  ],
+  "cold": [
+   "Doctor says: Kamillentee.",
+   "calm"
+  ],
+  "hello": [
+   "Firm handshake. Eye contact.",
+   "cool"
+  ],
+  "bus": [
+   "Checking the timetable app.",
+   "calm"
+  ],
+  "late": [
+   "Late? I am never late.",
+   "angry"
+  ],
+  "moving": [
+   "Every box labeled.",
+   "cool"
+  ],
+  "compliment": [
+   "Please explain why exactly.",
+   "calm"
+  ],
+  "bored": [
+   "Organize the garage.",
+   "cool"
   ]
  },
  "IN": {
@@ -847,6 +1327,90 @@ LINES = {
   ],
   "halloween": [
    "Sweets? I have Diwali!",
+   "happy"
+  ],
+  "airport": [
+   "Whole family came to say bye!",
+   "love"
+  ],
+  "flightdelay": [
+   "Unpack the snacks, family!",
+   "love"
+  ],
+  "souvenir": [
+   "Spices for the whole family!",
+   "love"
+  ],
+  "supermarket": [
+   "Fifty spices, one cart!",
+   "happy"
+  ],
+  "snacks": [
+   "Samosa, extra chutney!",
+   "happy"
+  ],
+  "sale": [
+   "Bargain mode activated!",
+   "angry"
+  ],
+  "office": [
+   "Chai break and quick call!",
+   "happy"
+  ],
+  "meeting": [
+   "Can you hear me? Hello?",
+   "shock"
+  ],
+  "lunchbreak": [
+   "Tiffin box from mom!",
+   "love"
+  ],
+  "picnic": [
+   "Thirty relatives, ten pots!",
+   "happy"
+  ],
+  "pets": [
+   "Feeding street dogs daily!",
+   "love"
+  ],
+  "jog": [
+   "Yoga first, then run!",
+   "calm"
+  ],
+  "alarm": [
+   "Mom is my alarm!",
+   "shock"
+  ],
+  "cold": [
+   "Turmeric milk, now!",
+   "cool"
+  ],
+  "dessert": [
+   "Gulab jamun!",
+   "happy"
+  ],
+  "hello": [
+   "Namaste!",
+   "calm"
+  ],
+  "bus": [
+   "Jumped on while it was moving!",
+   "cool"
+  ],
+  "late": [
+   "Indian Standard Time!",
+   "happy"
+  ],
+  "moving": [
+   "Boil milk for good luck!",
+   "happy"
+  ],
+  "compliment": [
+   "Mom says I am handsome!",
+   "love"
+  ],
+  "bored": [
+   "Cricket in the street!",
    "happy"
   ]
  },
@@ -949,6 +1513,78 @@ LINES = {
   ],
   "halloween": [
    "Pasta in a pumpkin!",
+   "love"
+  ],
+  "airport": [
+   "Running to the gate. Ciao!",
+   "shock"
+  ],
+  "flightdelay": [
+   "More time for espresso!",
+   "happy"
+  ],
+  "souvenir": [
+   "Limoncello for grandma!",
+   "love"
+  ],
+  "supermarket": [
+   "That is NOT real parmesan!",
+   "angry"
+  ],
+  "sale": [
+   "Saldi! New shoes!",
+   "love"
+  ],
+  "office": [
+   "Espresso before any email.",
+   "calm"
+  ],
+  "meeting": [
+   "Talking with my hands!",
+   "happy"
+  ],
+  "picnic": [
+   "Grandma made four lasagnas.",
+   "love"
+  ],
+  "jog": [
+   "Jogging to the cafe.",
+   "love"
+  ],
+  "alarm": [
+   "Espresso. Then I talk.",
+   "angry"
+  ],
+  "cold": [
+   "Do not go out with wet hair!",
+   "angry"
+  ],
+  "dessert": [
+   "Tiramisu. Grandma's recipe.",
+   "love"
+  ],
+  "hello": [
+   "Ciao! Hug and two kisses!",
+   "love"
+  ],
+  "bus": [
+   "Bus is late. As always.",
+   "sleepy"
+  ],
+  "late": [
+   "Coffee first, then I run.",
+   "cool"
+  ],
+  "moving": [
+   "Mamma packed food for a year.",
+   "love"
+  ],
+  "compliment": [
+   "It is the style. Italian.",
+   "cool"
+  ],
+  "bored": [
+   "Cook pasta from scratch!",
    "love"
   ]
  },
@@ -1056,6 +1692,94 @@ LINES = {
   "halloween": [
    "Pumpkin carving!",
    "happy"
+  ],
+  "airport": [
+   "Pint at the gate. 8 AM. Normal.",
+   "happy"
+  ],
+  "flightdelay": [
+   "Typical. Queue for tea.",
+   "calm"
+  ],
+  "souvenir": [
+   "Tea towel with the Queen? Classic.",
+   "calm"
+  ],
+  "supermarket": [
+   "Meal deal. Every day.",
+   "happy"
+  ],
+  "snacks": [
+   "Crisps and a biscuit.",
+   "calm"
+  ],
+  "sale": [
+   "Boxing Day queue at 5 AM.",
+   "sleepy"
+  ],
+  "office": [
+   "Brew round, anyone?",
+   "happy"
+  ],
+  "meeting": [
+   "Sorry, can I just add...",
+   "calm"
+  ],
+  "lunchbreak": [
+   "Sandwich and crisps.",
+   "calm"
+  ],
+  "picnic": [
+   "Sandwiches and rain. Lovely.",
+   "calm"
+  ],
+  "bbq": [
+   "It is raining. We grill anyway.",
+   "calm"
+  ],
+  "pets": [
+   "My dog has a raincoat.",
+   "love"
+  ],
+  "jog": [
+   "Running. Raining. Fine.",
+   "calm"
+  ],
+  "alarm": [
+   "Tea first. Then life.",
+   "calm"
+  ],
+  "cold": [
+   "Just a sniffle. Carry on.",
+   "calm"
+  ],
+  "dessert": [
+   "Sticky toffee pudding.",
+   "calm"
+  ],
+  "hello": [
+   "Alright?",
+   "calm"
+  ],
+  "bus": [
+   "Perfect queue. No talking.",
+   "calm"
+  ],
+  "late": [
+   "Terribly sorry, the train...",
+   "calm"
+  ],
+  "moving": [
+   "Kettle in the first box.",
+   "calm"
+  ],
+  "compliment": [
+   "Oh, this old thing?",
+   "calm"
+  ],
+  "bored": [
+   "Put the kettle on.",
+   "calm"
   ]
  },
  "ES": {
@@ -1138,6 +1862,46 @@ LINES = {
   "payday": [
    "Tapas night!",
    "happy"
+  ],
+  "flightdelay": [
+   "Siesta on the floor.",
+   "sleepy"
+  ],
+  "snacks": [
+   "Churros!",
+   "happy"
+  ],
+  "office": [
+   "Work starts... eventually.",
+   "sleepy"
+  ],
+  "meeting": [
+   "I was on mute!",
+   "shock"
+  ],
+  "lunchbreak": [
+   "Lunch at three. Siesta after.",
+   "sleepy"
+  ],
+  "jog": [
+   "Morning run? It is noon.",
+   "sleepy"
+  ],
+  "alarm": [
+   "Snooze. Snooze. Snooze.",
+   "sleepy"
+  ],
+  "dessert": [
+   "Churros with chocolate!",
+   "love"
+  ],
+  "late": [
+   "Late is normal here.",
+   "calm"
+  ],
+  "compliment": [
+   "Gracias, guapo!",
+   "love"
   ]
  },
  "NL": {
@@ -1200,6 +1964,50 @@ LINES = {
   "tea": [
    "Tea and a cookie.",
    "calm"
+  ],
+  "souvenir": [
+   "Wooden shoes. And cheese.",
+   "happy"
+  ],
+  "supermarket": [
+   "Self checkout, super fast.",
+   "cool"
+  ],
+  "snacks": [
+   "Licorice! Salty licorice!",
+   "happy"
+  ],
+  "sale": [
+   "Free sample? I will take two.",
+   "happy"
+  ],
+  "office": [
+   "Very direct: your idea is bad.",
+   "cool"
+  ],
+  "meeting": [
+   "This could be an email.",
+   "angry"
+  ],
+  "pets": [
+   "Dog in the bike basket!",
+   "happy"
+  ],
+  "hello": [
+   "Three kisses!",
+   "happy"
+  ],
+  "bus": [
+   "Bus? I have a bike.",
+   "happy"
+  ],
+  "moving": [
+   "Furniture through the window!",
+   "shock"
+  ],
+  "compliment": [
+   "Correct.",
+   "cool"
   ]
  },
  "SE": {
@@ -1306,6 +2114,62 @@ LINES = {
   "halloween": [
    "We dress up at Easter!",
    "cool"
+  ],
+  "supermarket": [
+   "Quiet shopping. No small talk.",
+   "calm"
+  ],
+  "sale": [
+   "I only buy what I need.",
+   "calm"
+  ],
+  "office": [
+   "Fika break at ten!",
+   "love"
+  ],
+  "meeting": [
+   "Let us all agree. Slowly.",
+   "calm"
+  ],
+  "lunchbreak": [
+   "Leftovers from yesterday.",
+   "calm"
+  ],
+  "picnic": [
+   "Strawberries and silence.",
+   "calm"
+  ],
+  "pets": [
+   "Long forest walks with my dog.",
+   "calm"
+  ],
+  "jog": [
+   "Running in the forest. Peace.",
+   "calm"
+  ],
+  "cold": [
+   "Honey and rest.",
+   "sleepy"
+  ],
+  "hello": [
+   "Hej. Nod. Done.",
+   "calm"
+  ],
+  "bus": [
+   "Standing two meters apart.",
+   "calm"
+  ],
+  "moving": [
+   "Flat-pack furniture time.",
+   "calm"
+  ],
+  "compliment": [
+   "Quiet smile.",
+   "calm"
+  ],
+  "bored": [
+   "Sauna, then lake.",
+   "calm"
   ]
  },
  "NO": {
@@ -1412,6 +2276,30 @@ LINES = {
   "halloween": [
    "Trick or treat in the snow!",
    "shiver"
+  ],
+  "flightdelay": [
+   "Quietly reading a book.",
+   "calm"
+  ],
+  "office": [
+   "Home at four. Family time.",
+   "love"
+  ],
+  "jog": [
+   "Cross-country skiing instead!",
+   "cool"
+  ],
+  "alarm": [
+   "Dark at 8 AM. Still sleeping.",
+   "sleepy"
+  ],
+  "late": [
+   "Early. Waiting in the car.",
+   "calm"
+  ],
+  "bored": [
+   "Go hiking. In the rain.",
+   "cool"
   ]
  },
  "PL": {
@@ -1518,6 +2406,26 @@ LINES = {
   "halloween": [
    "Candles for the ancestors.",
    "calm"
+  ],
+  "supermarket": [
+   "Pierogi for the week!",
+   "love"
+  ],
+  "picnic": [
+   "Sausages on the fire!",
+   "happy"
+  ],
+  "cold": [
+   "Garlic in everything!",
+   "cool"
+  ],
+  "dessert": [
+   "Paczki!",
+   "happy"
+  ],
+  "moving": [
+   "Bread and salt at the door!",
+   "love"
   ]
  },
  "CH": {
@@ -1624,6 +2532,34 @@ LINES = {
   "halloween": [
    "Pumpkin soup!",
    "love"
+  ],
+  "airport": [
+   "Arrived exactly on time.",
+   "cool"
+  ],
+  "flightdelay": [
+   "Delayed? I am in shock.",
+   "shock"
+  ],
+  "souvenir": [
+   "Chocolate. Lots of chocolate.",
+   "love"
+  ],
+  "office": [
+   "My desk is perfectly clean.",
+   "calm"
+  ],
+  "alarm": [
+   "Alarm clock made in Switzerland.",
+   "cool"
+  ],
+  "bus": [
+   "Bus arrives in 2 minutes. Exactly.",
+   "cool"
+  ],
+  "late": [
+   "Late? Impossible.",
+   "shock"
   ]
  },
  "NG": {
@@ -1730,6 +2666,30 @@ LINES = {
   "halloween": [
    "Costume party!",
    "happy"
+  ],
+  "airport": [
+   "Overweight bag? Wear three jackets!",
+   "angry"
+  ],
+  "supermarket": [
+   "Jollof ingredients! All of them!",
+   "happy"
+  ],
+  "lunchbreak": [
+   "Jollof rice, no debate!",
+   "cool"
+  ],
+  "bbq": [
+   "Suya! Spicy!",
+   "happy"
+  ],
+  "jog": [
+   "Fast! Very fast!",
+   "cool"
+  ],
+  "late": [
+   "African time. Relax.",
+   "cool"
   ]
  },
  "ID": {
@@ -1835,6 +2795,14 @@ LINES = {
   ],
   "halloween": [
    "Spooky stories night!",
+   "shock"
+  ],
+  "snacks": [
+   "Krupuk crackers!",
+   "happy"
+  ],
+  "sale": [
+   "Flash sale on my phone!",
    "shock"
   ]
  },
@@ -1942,6 +2910,26 @@ LINES = {
   "halloween": [
    "Halloween? Tell me more!",
    "shock"
+  ],
+  "souvenir": [
+   "Olive oil in my suitcase!",
+   "happy"
+  ],
+  "picnic": [
+   "Olives, feta, sunshine!",
+   "love"
+  ],
+  "bbq": [
+   "Souvlaki for everyone!",
+   "happy"
+  ],
+  "cold": [
+   "Mountain tea, please.",
+   "calm"
+  ],
+  "dessert": [
+   "Loukoumades with honey!",
+   "love"
   ]
  },
  "CO": {
@@ -2047,6 +3035,14 @@ LINES = {
   ],
   "halloween": [
    "Kids go trick or treating!",
+   "happy"
+  ],
+  "sale": [
+   "Two for one? Perfect!",
+   "love"
+  ],
+  "jog": [
+   "Ciclovia on Sunday!",
    "happy"
   ]
  },
@@ -2154,6 +3150,38 @@ LINES = {
   "halloween": [
    "Visit family and light candles.",
    "calm"
+  ],
+  "airport": [
+   "Balikbayan box ready!",
+   "love"
+  ],
+  "snacks": [
+   "Banana chips!",
+   "happy"
+  ],
+  "sale": [
+   "Mall sale! Whole family!",
+   "happy"
+  ],
+  "bbq": [
+   "Lechon! Whole pig!",
+   "shock"
+  ],
+  "cold": [
+   "Ginger tea, salabat!",
+   "love"
+  ],
+  "dessert": [
+   "Halo-halo!",
+   "happy"
+  ],
+  "bus": [
+   "Jeepney, room for one more!",
+   "happy"
+  ],
+  "bored": [
+   "Karaoke! All night!",
+   "happy"
   ]
  },
  "VN": {
@@ -2260,6 +3288,14 @@ LINES = {
   "halloween": [
    "Mid-Autumn is our festival!",
    "cool"
+  ],
+  "snacks": [
+   "Banh mi to go!",
+   "love"
+  ],
+  "lunchbreak": [
+   "Pho, very quick!",
+   "happy"
   ]
  },
  "TH": {
@@ -2366,6 +3402,18 @@ LINES = {
   "halloween": [
    "Ghost movies all night!",
    "shock"
+  ],
+  "souvenir": [
+   "Elephant pants!",
+   "happy"
+  ],
+  "pets": [
+   "Temple cats everywhere!",
+   "love"
+  ],
+  "hello": [
+   "Sawasdee, with a wai.",
+   "calm"
   ]
  },
  "FR": {
@@ -2452,12 +3500,88 @@ LINES = {
   "tea": [
    "Tea... how British.",
    "cool"
+  ],
+  "flightdelay": [
+   "A strike? Of course.",
+   "sleepy"
+  ],
+  "souvenir": [
+   "A tiny Eiffel Tower!",
+   "love"
+  ],
+  "supermarket": [
+   "Fresh baguette or nothing.",
+   "cool"
+  ],
+  "office": [
+   "Two-hour lunch. Non-negotiable.",
+   "cool"
+  ],
+  "meeting": [
+   "Let us debate this. Again.",
+   "cool"
+  ],
+  "lunchbreak": [
+   "Three courses. Of course.",
+   "love"
+  ],
+  "picnic": [
+   "Cheese, bread, done.",
+   "love"
+  ],
+  "pets": [
+   "My dog eats at the restaurant.",
+   "cool"
+  ],
+  "jog": [
+   "A run? Then croissant.",
+   "love"
+  ],
+  "alarm": [
+   "Croissant is my alarm.",
+   "love"
+  ],
+  "dessert": [
+   "Crème brûlée, merci.",
+   "love"
+  ],
+  "hello": [
+   "Bisou, bisou. Two kisses.",
+   "love"
+  ],
+  "compliment": [
+   "Obviously.",
+   "cool"
+  ],
+  "bored": [
+   "Philosophy and wine.",
+   "cool"
   ]
  },
  "AR": {
   "football": [
    "Vamos! Vamos!",
    "happy"
+  ],
+  "flightdelay": [
+   "Mate and a long chat!",
+   "cool"
+  ],
+  "picnic": [
+   "Mate under a tree.",
+   "calm"
+  ],
+  "bbq": [
+   "Asado takes six hours. Relax.",
+   "cool"
+  ],
+  "dessert": [
+   "Dulce de leche on everything!",
+   "love"
+  ],
+  "late": [
+   "The party starts at midnight anyway.",
+   "cool"
   ]
  },
  "KR": {
@@ -2540,12 +3664,120 @@ LINES = {
   "halloween": [
    "Costume party!",
    "happy"
+  ],
+  "airport": [
+   "Duty free! Skincare haul!",
+   "happy"
+  ],
+  "flightdelay": [
+   "Gaming on my phone. Fine.",
+   "cool"
+  ],
+  "souvenir": [
+   "Face masks, fifty of them!",
+   "happy"
+  ],
+  "supermarket": [
+   "Instant noodles. Ten packs.",
+   "happy"
+  ],
+  "snacks": [
+   "Spicy rice cakes!",
+   "cool"
+  ],
+  "sale": [
+   "Online sale at midnight!",
+   "cool"
+  ],
+  "office": [
+   "Team dinner after work!",
+   "happy"
+  ],
+  "meeting": [
+   "Taking notes for the boss.",
+   "cool"
+  ],
+  "lunchbreak": [
+   "Kimchi stew with the team!",
+   "happy"
+  ],
+  "picnic": [
+   "Fried chicken delivered to the park!",
+   "shock"
+  ],
+  "bbq": [
+   "Grill at the table!",
+   "happy"
+  ],
+  "pets": [
+   "My dog wears designer clothes!",
+   "happy"
+  ],
+  "jog": [
+   "Han River run with friends!",
+   "happy"
+  ],
+  "alarm": [
+   "Skincare: ten steps!",
+   "happy"
+  ],
+  "cold": [
+   "Hot bath and spicy soup!",
+   "cool"
+  ],
+  "dessert": [
+   "Bingsu! Shaved ice!",
+   "happy"
+  ],
+  "hello": [
+   "Annyeong! Small bow.",
+   "happy"
+  ],
+  "bus": [
+   "App says 3 minutes!",
+   "cool"
+  ],
+  "late": [
+   "Taxi! Fast!",
+   "shock"
+  ],
+  "moving": [
+   "New house party! Bring toilet paper!",
+   "happy"
+  ],
+  "compliment": [
+   "Skincare, ten steps!",
+   "happy"
+  ],
+  "bored": [
+   "Watch one more drama.",
+   "love"
   ]
  },
  "IE": {
   "halloween": [
    "We invented it!",
    "cool"
+  ],
+  "flightdelay": [
+   "Sure, we will find a pub.",
+   "happy"
+  ],
+  "bbq": [
+   "Burnt sausages. Delicious.",
+   "happy"
+  ],
+  "pets": [
+   "Sheepdog does all the work.",
+   "cool"
+  ],
+  "hello": [
+   "What's the craic?",
+   "happy"
+  ],
+  "compliment": [
+   "Ah, stop it!",
+   "happy"
   ]
  }
 }
