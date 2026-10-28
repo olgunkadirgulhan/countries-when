@@ -1862,6 +1862,22 @@
       ],
       "scene": "airport",
       "seed": 603877
+    },
+    {
+      "id": "UU_hOEogV8k",
+      "date": "2026-10-28 20:38",
+      "kind": "short",
+      "title": "Countryballs At The Airport 💀",
+      "privacy": "public",
+      "situation": "airport",
+      "countries": [
+        "JP",
+        "GB",
+        "IN",
+        "MX"
+      ],
+      "scene": "market",
+      "seed": 390096
     }
   ]
 }
