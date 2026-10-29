@@ -1910,6 +1910,22 @@
       ],
       "scene": "kitchen",
       "seed": 911830
+    },
+    {
+      "id": "YiaeprSsYd0",
+      "date": "2026-10-29 18:38",
+      "kind": "short",
+      "title": "Countryball Memes: Countries Going For A Morning Run 🤣",
+      "privacy": "public",
+      "situation": "jog",
+      "countries": [
+        "JP",
+        "NO",
+        "GB",
+        "IN"
+      ],
+      "scene": "park",
+      "seed": 101523
     }
   ]
 }
