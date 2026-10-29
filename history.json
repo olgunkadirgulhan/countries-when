@@ -1926,6 +1926,135 @@
       ],
       "scene": "park",
       "seed": 101523
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode",
+      "title": "Countries When... No Internet, Morning Run, Exam Night & More 😂 Countryball Episode 8",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "internet",
+      "countries": [
+        "IN",
+        "GR",
+        "BR",
+        "JP"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "jog",
+      "countries": [
+        "SE",
+        "NO",
+        "JP",
+        "GB"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "exam",
+      "countries": [
+        "JP",
+        "PH",
+        "SE",
+        "ES"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "payday",
+      "countries": [
+        "IT",
+        "NO",
+        "BR",
+        "GR"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "queue",
+      "countries": [
+        "IN",
+        "BR",
+        "TR",
+        "MX"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "late",
+      "countries": [
+        "AR",
+        "IN",
+        "GB",
+        "DE"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "football",
+      "countries": [
+        "GB",
+        "NL",
+        "DE",
+        "CH"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "cold",
+      "countries": [
+        "IN",
+        "SE",
+        "BR",
+        "JP"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "monday",
+      "countries": [
+        "TR",
+        "VN",
+        "GB",
+        "IT"
+      ]
+    },
+    {
+      "id": "3QjYAlKjTTI",
+      "date": "2026-10-29 23:38",
+      "kind": "episode-part",
+      "situation": "wedding",
+      "countries": [
+        "GR",
+        "TR",
+        "MX",
+        "DE"
+      ]
     }
   ]
 }
