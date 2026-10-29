@@ -1878,6 +1878,22 @@
       ],
       "scene": "market",
       "seed": 390096
+    },
+    {
+      "id": "deV1fmPMP3I",
+      "date": "2026-10-29 14:38",
+      "kind": "short",
+      "title": "Countries At A Picnic 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "picnic",
+      "countries": [
+        "DE",
+        "GB",
+        "JP",
+        "SE"
+      ],
+      "scene": "night",
+      "seed": 223688
     }
   ]
 }
