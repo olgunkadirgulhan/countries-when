@@ -2055,6 +2055,135 @@
         "MX",
         "DE"
       ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode",
+      "title": "Countryballs: 10 Situations, Every Country Reacts 🌍 | Episode 9",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "breakfast",
+      "countries": [
+        "IT",
+        "US",
+        "CH",
+        "TR"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "heat",
+      "countries": [
+        "ID",
+        "NO",
+        "CA",
+        "TR"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "guests",
+      "countries": [
+        "NG",
+        "NO",
+        "US",
+        "FR"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "late",
+      "countries": [
+        "GB",
+        "NO",
+        "AR",
+        "IN"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "sneeze",
+      "countries": [
+        "VN",
+        "DE",
+        "PL",
+        "GB"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "internet",
+      "countries": [
+        "GR",
+        "IT",
+        "NO",
+        "JP"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "tea",
+      "countries": [
+        "NL",
+        "NG",
+        "FR",
+        "PL"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "lunchbreak",
+      "countries": [
+        "GB",
+        "IN",
+        "DE",
+        "JP"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "GB",
+        "VN",
+        "DE",
+        "IN"
+      ]
+    },
+    {
+      "id": "9HNEduaUNuI",
+      "date": "2026-11-01 23:04",
+      "kind": "episode-part",
+      "situation": "pets",
+      "countries": [
+        "IE",
+        "DE",
+        "JP",
+        "SE"
+      ]
     }
   ]
 }
