@@ -2220,6 +2220,23 @@
       "scene": "city",
       "kurgu": "five",
       "seed": 692008
+    },
+    {
+      "id": "NpZD4g1ZKuY",
+      "date": "2026-11-02 20:38",
+      "kind": "short",
+      "title": "Countryballs: Countries Getting A Compliment 😂 #countryballs",
+      "privacy": "public",
+      "situation": "compliment",
+      "countries": [
+        "SE",
+        "CA",
+        "IT",
+        "JP"
+      ],
+      "scene": "party",
+      "kurgu": "classic",
+      "seed": 349056
     }
   ]
 }
