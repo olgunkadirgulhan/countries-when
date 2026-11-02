@@ -2184,6 +2184,24 @@
         "JP",
         "SE"
       ]
+    },
+    {
+      "id": "qou1de2CBYk",
+      "date": "2026-11-02 16:38",
+      "kind": "short",
+      "title": "5 Countryballs Getting A Haircut 😂",
+      "privacy": "public",
+      "situation": "haircut",
+      "countries": [
+        "IN",
+        "IT",
+        "GB",
+        "JP",
+        "SE"
+      ],
+      "scene": "living",
+      "kurgu": "five",
+      "seed": 882701
     }
   ]
 }
