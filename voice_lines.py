@@ -107,6 +107,34 @@ VOICE = {
  "TH": [
   "Vindemiatrix",
   "a gentle Thai"
+ ],
+ "AT": [
+  "Enceladus",
+  "a cozy Austrian"
+ ],
+ "BE": [
+  "Zubenelgenubi",
+  "a witty Belgian"
+ ],
+ "DK": [
+  "Sadachbia",
+  "a relaxed Danish"
+ ],
+ "FI": [
+  "Iapetus",
+  "a very quiet Finnish"
+ ],
+ "HU": [
+  "Rasalgethi",
+  "a lively Hungarian"
+ ],
+ "PE": [
+  "Callirrhoe",
+  "a proud Peruvian"
+ ],
+ "RO": [
+  "Algieba",
+  "a warm Romanian"
  ]
 }
 LINES = {
@@ -5010,6 +5038,248 @@ LINES = {
   "sports": [
    "Hurling! Fastest sport!",
    "cool"
+  ]
+ },
+ "BE": {
+  "supermarket": [
+   "Twenty kinds of chocolate.",
+   "love"
+  ],
+  "snacks": [
+   "Fries with mayo. Not ketchup.",
+   "cool"
+  ],
+  "dessert": [
+   "Belgian waffle! Real one!",
+   "love"
+  ],
+  "haircut": [
+   "Haircut, then waffles.",
+   "love"
+  ],
+  "cinema": [
+   "Comics movie! We invented Tintin!",
+   "cool"
+  ],
+  "shopping": [
+   "Chocolate shop counts as shopping.",
+   "love"
+  ],
+  "museum": [
+   "Magritte! This is not a pipe.",
+   "cool"
+  ],
+  "umbrella": [
+   "Rain? Every day. Fries help.",
+   "calm"
+  ],
+  "sports": [
+   "Cycling in the mud!",
+   "happy"
+  ]
+ },
+ "PE": {
+  "supermarket": [
+   "A hundred kinds of potatoes!",
+   "shock"
+  ],
+  "haircut": [
+   "Barber plays salsa!",
+   "happy"
+  ],
+  "roadtrip": [
+   "Andes road. Hold on!",
+   "shock"
+  ],
+  "cooking": [
+   "Ceviche! Fresh lime!",
+   "cool"
+  ],
+  "zoo": [
+   "Alpacas! Not llamas!",
+   "angry"
+  ]
+ },
+ "DK": {
+  "snacks": [
+   "Licorice! Salty!",
+   "happy"
+  ],
+  "compliment": [
+   "Tak! Very hygge of you.",
+   "love"
+  ],
+  "wifi": [
+   "Hygge wifi. Cozy and fast.",
+   "love"
+  ],
+  "blackout": [
+   "More candles. Very hygge.",
+   "love"
+  ],
+  "shopping": [
+   "Black, grey, and more black.",
+   "calm"
+  ],
+  "gifts": [
+   "Lego! Of course!",
+   "happy"
+  ],
+  "firstdate": [
+   "Bike ride. Then hygge.",
+   "love"
+  ],
+  "umbrella": [
+   "Rain jacket. Bike anyway.",
+   "cool"
+  ]
+ },
+ "FI": {
+  "snacks": [
+   "Salmiakki. You will hate it.",
+   "cool"
+  ],
+  "compliment": [
+   "...thank you. Please leave.",
+   "shock"
+  ],
+  "bored": [
+   "Sauna. Then lake. Then sauna.",
+   "calm"
+  ],
+  "wifi": [
+   "Password? I prefer silence.",
+   "calm"
+  ],
+  "dentist": [
+   "Xylitol gum. Teeth are fine.",
+   "calm"
+  ],
+  "cinema": [
+   "Silent. Even more silent.",
+   "calm"
+  ],
+  "karaoke": [
+   "Finnish tango. Very sad.",
+   "cry"
+  ],
+  "camping": [
+   "Sauna in the forest first.",
+   "calm"
+  ],
+  "heatwave": [
+   "25 degrees? We are melting!",
+   "shock"
+  ],
+  "blackout": [
+   "Dark? It is winter. Normal.",
+   "cool"
+  ],
+  "neighbor": [
+   "Wait until they leave the hallway.",
+   "calm"
+  ],
+  "zoo": [
+   "Bears. We have real ones.",
+   "calm"
+  ],
+  "phonedrop": [
+   "Old Nokia. Unbreakable.",
+   "cool"
+  ],
+  "shoes": [
+   "Shoes off. Wool socks on.",
+   "calm"
+  ],
+  "sports": [
+   "Ice hockey and wife carrying!",
+   "happy"
+  ],
+  "teacher": [
+   "No homework. Best schools.",
+   "cool"
+  ]
+ },
+ "AT": {
+  "dessert": [
+   "Apple strudel, please!",
+   "love"
+  ],
+  "roadtrip": [
+   "Alps every five minutes!",
+   "love"
+  ],
+  "camping": [
+   "Mountain hut and strudel!",
+   "love"
+  ],
+  "museum": [
+   "Klimt! Golden kiss!",
+   "love"
+  ],
+  "gifts": [
+   "Mozart chocolate balls!",
+   "love"
+  ],
+  "firstdate": [
+   "Coffee house and Sachertorte.",
+   "love"
+  ],
+  "shoes": [
+   "House slippers for guests!",
+   "happy"
+  ],
+  "sports": [
+   "Skiing down the Alps!",
+   "cool"
+  ]
+ },
+ "HU": {
+  "dessert": [
+   "Chimney cake!",
+   "happy"
+  ],
+  "groupchat": [
+   "Grandma sent paprika memes.",
+   "happy"
+  ],
+  "dentist": [
+   "Budapest dentist! Very famous!",
+   "cool"
+  ],
+  "cooking": [
+   "Goulash! Paprika! More paprika!",
+   "love"
+  ],
+  "phonedrop": [
+   "Rubik's cube survives. Phone not.",
+   "cry"
+  ],
+  "teacher": [
+   "Time for a Rubik's cube race!",
+   "happy"
+  ]
+ },
+ "RO": {
+  "bored": [
+   "Visit grandma in the village!",
+   "happy"
+  ],
+  "groupchat": [
+   "Aunt sent 50 photos of cabbage rolls.",
+   "shock"
+  ],
+  "karaoke": [
+   "Dragostea din tei! Everyone!",
+   "happy"
+  ],
+  "heatwave": [
+   "Watermelon from grandma!",
+   "happy"
+  ],
+  "neighbor": [
+   "Here, homemade plum brandy... jam!",
+   "happy"
   ]
  }
 }

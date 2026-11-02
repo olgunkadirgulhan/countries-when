@@ -5,6 +5,13 @@ STAGE = (540, 1010)
 BIG = 500
 SLOTS4 = [(170, 1660), (400, 1660), (680, 1660), (910, 1660)]
 FINAL4 = [(300, 830), (780, 830), (300, 1330), (780, 1330)]
+# 2026-11-02 kurgu 'five': 5 ülke
+SLOTS5 = [(120, 1660), (330, 1660), (540, 1660), (750, 1660), (960, 1660)]
+FINAL5 = [(200, 820), (540, 820), (880, 820), (330, 1300), (750, 1300)]
+
+
+def slots(n): return SLOTS5 if n >= 5 else SLOTS4
+def finals(n): return FINAL5 if n >= 5 else FINAL4
 
 
 def total(plan=None):
@@ -25,7 +32,7 @@ def turn_pose(k, lt, code, mood):
         sway = 25 * math.sin(tt * 2) if mood in ('calm', 'sleepy', 'cool') else 0.0
         return STAGE[0] + jit + sway, STAGE[1] - hop, BIG, sq
     u = sm((lt - (TURN - 0.6)) / 0.6)   # sıraya geçer
-    sx, sy = SLOTS4[k]
+    sx, sy = slots(len(PLAN['countries']))[k]
     return lerp(STAGE[0], sx, u), lerp(STAGE[1], sy, u), lerp(BIG, 190, u), 0.0
 
 
@@ -38,6 +45,16 @@ def title_band(img, txt, t, t0):
 
 def name_tag(img, name, x, y, k=1.0, size=60):
     put_text(img, name, x, y, size, (255, 255, 255), scale=k)
+
+
+def draw_crown(img, cx, cy, w):
+    """Altın taç (kurgu 'crown')."""
+    d = ImageDraw.Draw(img); h = w * 0.6
+    pts = [(cx - w / 2, cy + h / 2), (cx - w / 2, cy - h / 3), (cx - w / 4, cy), (cx, cy - h / 2), (cx + w / 4, cy),
+           (cx + w / 2, cy - h / 3), (cx + w / 2, cy + h / 2)]
+    d.polygon([(L(x), L(y)) for x, y in pts], fill=(250, 200, 40), outline=(160, 110, 10), width=L(5))
+    for x, y in pts[1:6:2]:
+        r = w * 0.07; d.ellipse(box(x - r, y - r, x + r, y + r), fill=(230, 50, 70))
 
 
 def render_frame(i):
@@ -56,7 +73,7 @@ def render_frame(i):
     elif T < end:
         k = int((T - INTRO) // TURN); lt = T - INTRO - k * TURN
         for j in range(k):   # sıradakiler
-            sx, sy = SLOTS4[j]
+            sx, sy = slots(n)[j]
             ball(img, codes[j], sx, sy, 190, sit['lines'][codes[j]][1], T, look=(0.6 if sx < STAGE[0] else -0.6, -0.5))
         code = codes[k]; line, mood = sit['lines'][code]
         x, y, d, sq = turn_pose(k, lt, code, mood)
@@ -68,16 +85,24 @@ def render_frame(i):
             name_tag(img, NAMES[code], STAGE[0], 1330, back(seg(lt, 0.5, 0.75)), 76)
     else:
         lt = T - end
+        crown = PLAN.get('kurgu') == 'crown'; win = PLAN.get('winner', 0)
         for j, code in enumerate(codes):
-            sx, sy = SLOTS4[j]; fx, fy = FINAL4[j]
+            sx, sy = slots(n)[j]; fx, fy = finals(n)[j]
             u = sm(seg(lt, 0.0, 0.6))
-            x, y, d = lerp(sx, fx, u), lerp(sy, fy, u), lerp(190, 330, u)
+            x, y, d = lerp(sx, fx, u), lerp(sy, fy, u), lerp(190, 330 if n <= 4 else 270, u)
             y -= 40 * abs(math.sin(lt * 5 + j)) * u
-            ball(img, code, x, y, d, 'happy', T)
+            ball(img, code, x, y, d, ('love' if j == win else 'shock') if crown and lt > 1.0 else 'happy', T)
             if u > 0.9: name_tag(img, NAMES[code], x, y + d * 0.68, 1.0, 50)
+            if crown and j == win and lt > 0.9:   # taç yukarıdan düşer
+                cu = back(seg(lt, 0.9, 1.3)); cy = lerp(y - d * 1.6, y - d * 0.62, sm(seg(lt, 0.9, 1.25)))
+                draw_crown(img, x, cy, d * 0.55 * max(cu, 0.01))
         s = back(seg(lt, 0.4, 0.75)) * (1 + 0.04 * math.sin(lt * 7))
-        put_text(img, 'WHICH ONE IS', W / 2, 1640, 96, (255, 255, 255), scale=s, rot=-3)
-        put_text(img, 'YOUR COUNTRY?', W / 2, 1760, 110, (255, 230, 60), scale=s, rot=3)
+        if crown:
+            put_text(img, 'BEST ANSWER?', W / 2, 1640, 96, (255, 255, 255), scale=s, rot=-3)
+            put_text(img, 'AGREE? COMMENT!', W / 2, 1760, 100, (255, 230, 60), scale=s, rot=3)
+        else:
+            put_text(img, 'WHICH ONE IS', W / 2, 1640, 96, (255, 255, 255), scale=s, rot=-3)
+            put_text(img, 'YOUR COUNTRY?', W / 2, 1760, 110, (255, 230, 60), scale=s, rot=3)
     return img.convert('RGB').reduce(S)
 
 

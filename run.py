@@ -14,7 +14,8 @@ HISTORY = HERE / 'history.json'
 # ABD/İngilizce izleyici: büyük izleyici kitlesi olan ülkeler daha sık
 WEIGHT = {'US': 3, 'GB': 2, 'CA': 2, 'IN': 2, 'BR': 2, 'MX': 2, 'DE': 1.5, 'JP': 1.5, 'TR': 1.5, 'FR': 1.2, 'IT': 1.2,
           'ES': 1.2, 'KR': 1.2, 'NL': 1, 'AR': 1,
-          'NG': 1.5, 'ID': 1.6, 'PH': 1.6, 'VN': 1.5, 'TH': 1.4, 'PL': 1.2, 'SE': 1.1, 'NO': 1.1, 'GR': 1.2, 'CH': 1.1, 'CO': 1.3}
+          'NG': 1.5, 'ID': 1.6, 'PH': 1.6, 'VN': 1.5, 'TH': 1.4, 'PL': 1.2, 'SE': 1.1, 'NO': 1.1, 'GR': 1.2, 'CH': 1.1, 'CO': 1.3,
+          'AT': 1.2, 'BE': 1.2, 'DK': 1.2, 'FI': 1.3, 'HU': 1.1, 'PE': 1.2, 'RO': 1.2}   # 2026-11-02 yeni karakterler: yeni olduğu için hafif öne
 # 2026-10-12 trend ölçümü: 'countryballs' araması son 30 günde medyan 4.9M izlenme; 'countries when' ifadesi 305 → başlıkta countryballs
 TITLES = ['Countryballs: {t} 😂 #countryballs', '{t} 🌍 #countryballs', 'Countryballs {s} 💀',
           '{t} (Which One Are You?) #countryballs', 'POV: {t} 😂 #countryballs', 'Countryball Memes: {t} 🤣']
@@ -27,6 +28,11 @@ def load():
 def voiced(sit):
     """Bu durumda kendi aksanlı sesi hazır olan ülkeler (voices/cw/<ÜLKE>/<durum>.wav)."""
     return [c for c in balls.SITUATIONS[sit]['lines'] if (HERE / 'voices' / 'cw' / c / f'{sit}.wav').exists()]
+
+
+KURGU = {'classic': 2, 'five': 1, 'crown': 1}
+KURGU_TITLES = {'five': ['{t}: 5 Countries React 🌍 #countryballs', '5 Countryballs {s} 😂', 'POV: 5 Countries {s} 🌍 #countryballs'],
+                'crown': ['Which Country Did It Best? {s} 🏆 #countryballs', 'Countryballs {s}: Who Wins? 👑', '{t} (Best Answer?) 👑 #countryballs']}
 
 
 def tkey(t):
@@ -49,14 +55,20 @@ def pick_plan(hist, rnd, mode='short'):
     mode='episode': uzun bölüm = Shorts'ta işlenmiş konuların derlemesi (yeni Shorts havuzunu tüketmez); aynı dörtlü asla tekrar etmez."""
     from itertools import combinations
     used = short_sits(hist)
+    # 2026-11-02 kurgular: classic (4 ülke), five (5 ülke, hızlı), crown (sonda 'en iyi cevap' tacı + yorum çağrısı)
+    last_k = [v.get('kurgu', 'classic') for v in hist['videos'] if v.get('kind', 'short') == 'short'][-2:]
+    pool = [k for k in KURGU if not (last_k and all(x == k for x in last_k) and len(last_k) == 2)]
+    kurgu = rnd.choices(pool, weights=[KURGU[k] for k in pool])[0] if mode == 'short' else 'classic'
     cands = []
     for sit in balls.SITUATIONS:
         if (sit in used) == (mode == 'short'):
             continue
         vs = voiced(sit)
         seen = {tuple(sorted(v.get('countries', []))) for v in hist['videos'] if v.get('situation') == sit}
-        combos = [c for c in combinations(vs, 4) if tuple(sorted(c)) not in seen
+        size = 5 if kurgu == 'five' else 4
+        combos = [c for c in combinations(vs, size) if tuple(sorted(c)) not in seen
                   and len({balls.SITUATIONS[sit]['lines'][x][1] for x in c}) >= 3]   # tepkiler çeşitli olsun
+        if len(combos) > 3000: combos = rnd.sample(combos, 3000)
         if combos:
             cands.append((sit, combos))
     if not cands:
@@ -72,7 +84,9 @@ def pick_plan(hist, rnd, mode='short'):
     else:
         pool = [k for k in balls.SCENES if k not in recent and k not in ('snow', 'rain', 'stadium', 'sun')] or [own]
         scene = rnd.choices(pool, weights=[4 if k == own else 1 for k in pool])[0]
-    return dict(situation=sit, countries=cs, scene=scene, seed=rnd.randrange(10 ** 6))
+    plan = dict(situation=sit, countries=cs, scene=scene, kurgu=kurgu, seed=rnd.randrange(10 ** 6))
+    if kurgu == 'crown': plan['winner'] = rnd.randrange(len(cs))
+    return plan
 
 
 def metadata(plan, hist, rnd):
@@ -80,7 +94,7 @@ def metadata(plan, hist, rnd):
     t = s['title'].title().replace("'S", "'s").replace('°C', '°C')
     used = {tkey(v['title']) for v in hist['videos'] if v.get('title')}
     short_s = t.replace('Countries ', '', 1)
-    opts = [x.format(t=t, s=short_s) for x in TITLES]; rnd.shuffle(opts)
+    opts = [x.format(t=t, s=short_s) for x in KURGU_TITLES.get(plan.get('kurgu'), TITLES)]; rnd.shuffle(opts)
     title = next((x for x in opts if tkey(x) not in used), None)
     if title is None:   # aynı konu başlığı zaten var → yeniden yükleme yok
         return None, None, None

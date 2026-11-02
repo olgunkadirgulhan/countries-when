@@ -14,6 +14,9 @@ VOICE = {  # ülke → (Gemini sesi, aksan tarifi) — karakter kişiliği tutar
     'SE': ('Despina', 'a calm Swedish'), 'NO': ('Alnilam', 'a relaxed Norwegian'), 'GR': ('Gacrux', 'a warm Greek'),
     'CH': ('Erinome', 'a precise Swiss'), 'CO': ('Callirrhoe', 'a lively Colombian'),
     'PH': ('Achernar', 'a cheerful Filipino'), 'VN': ('Autonoe', 'a friendly Vietnamese'), 'TH': ('Vindemiatrix', 'a gentle Thai'),
+    'AT': ('Enceladus', 'a cozy Austrian'), 'BE': ('Zubenelgenubi', 'a witty Belgian'), 'DK': ('Sadachbia', 'a relaxed Danish'),
+    'FI': ('Iapetus', 'a very quiet Finnish'), 'HU': ('Rasalgethi', 'a lively Hungarian'), 'PE': ('Callirrhoe', 'a proud Peruvian'),
+    'RO': ('Algieba', 'a warm Romanian'),
 }
 lines = {}
 for sit, s in balls.SITUATIONS.items():

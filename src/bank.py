@@ -637,3 +637,36 @@ SITUATIONS.update({
         'NG': ('Copying homework. Fast!', 'shock'), 'FR': ('Philosophy debate starts.', 'cool'),
         'PH': ('Merienda break!', 'happy'), 'SE': ('Teacher? We use first names.', 'calm')}),
 })
+
+# 2026-11-02: yeni karakterlerin (AT BE DK FI HU PE RO) replikleri — henüz kullanılmamış durumlara
+_NEW3 = {
+    'wifi': {'FI': ('Password? I prefer silence.', 'calm'), 'DK': ('Hygge wifi. Cozy and fast.', 'love')},
+    'groupchat': {'HU': ('Grandma sent paprika memes.', 'happy'), 'RO': ('Aunt sent 50 photos of cabbage rolls.', 'shock')},
+    'dentist': {'HU': ('Budapest dentist! Very famous!', 'cool'), 'FI': ('Xylitol gum. Teeth are fine.', 'calm')},
+    'haircut': {'BE': ('Haircut, then waffles.', 'love'), 'PE': ('Barber plays salsa!', 'happy')},
+    'cinema': {'FI': ('Silent. Even more silent.', 'calm'), 'BE': ('Comics movie! We invented Tintin!', 'cool')},
+    'karaoke': {'FI': ('Finnish tango. Very sad.', 'cry'), 'RO': ('Dragostea din tei! Everyone!', 'happy')},
+    'roadtrip': {'AT': ('Alps every five minutes!', 'love'), 'PE': ('Andes road. Hold on!', 'shock')},
+    'camping': {'FI': ('Sauna in the forest first.', 'calm'), 'AT': ('Mountain hut and strudel!', 'love')},
+    'heatwave': {'FI': ('25 degrees? We are melting!', 'shock'), 'RO': ('Watermelon from grandma!', 'happy')},
+    'blackout': {'DK': ('More candles. Very hygge.', 'love'), 'FI': ('Dark? It is winter. Normal.', 'cool')},
+    'neighbor': {'FI': ('Wait until they leave the hallway.', 'calm'), 'RO': ('Here, homemade plum brandy... jam!', 'happy')},
+    'cooking': {'HU': ('Goulash! Paprika! More paprika!', 'love'), 'PE': ('Ceviche! Fresh lime!', 'cool')},
+    'shopping': {'DK': ('Black, grey, and more black.', 'calm'), 'BE': ('Chocolate shop counts as shopping.', 'love')},
+    'museum': {'AT': ('Klimt! Golden kiss!', 'love'), 'BE': ('Magritte! This is not a pipe.', 'cool')},
+    'zoo': {'PE': ('Alpacas! Not llamas!', 'angry'), 'FI': ('Bears. We have real ones.', 'calm')},
+    'phonedrop': {'FI': ('Old Nokia. Unbreakable.', 'cool'), 'HU': ('Rubik\'s cube survives. Phone not.', 'cry')},
+    'gifts': {'DK': ('Lego! Of course!', 'happy'), 'AT': ('Mozart chocolate balls!', 'love')},
+    'firstdate': {'AT': ('Coffee house and Sachertorte.', 'love'), 'DK': ('Bike ride. Then hygge.', 'love')},
+    'shoes': {'FI': ('Shoes off. Wool socks on.', 'calm'), 'AT': ('House slippers for guests!', 'happy')},
+    'umbrella': {'DK': ('Rain jacket. Bike anyway.', 'cool'), 'BE': ('Rain? Every day. Fries help.', 'calm')},
+    'sports': {'FI': ('Ice hockey and wife carrying!', 'happy'), 'AT': ('Skiing down the Alps!', 'cool'), 'BE': ('Cycling in the mud!', 'happy')},
+    'teacher': {'FI': ('No homework. Best schools.', 'cool'), 'HU': ('Time for a Rubik\'s cube race!', 'happy')},
+    'supermarket': {'BE': ('Twenty kinds of chocolate.', 'love'), 'PE': ('A hundred kinds of potatoes!', 'shock')},
+    'snacks': {'BE': ('Fries with mayo. Not ketchup.', 'cool'), 'DK': ('Licorice! Salty!', 'happy'), 'FI': ('Salmiakki. You will hate it.', 'cool')},
+    'dessert': {'AT': ('Apple strudel, please!', 'love'), 'HU': ('Chimney cake!', 'happy'), 'BE': ('Belgian waffle! Real one!', 'love')},
+    'compliment': {'FI': ('...thank you. Please leave.', 'shock'), 'DK': ('Tak! Very hygge of you.', 'love')},
+    'bored': {'FI': ('Sauna. Then lake. Then sauna.', 'calm'), 'RO': ('Visit grandma in the village!', 'happy')},
+}
+for _k, _v in _NEW3.items():
+    SITUATIONS[_k]['lines'].update(_v)
