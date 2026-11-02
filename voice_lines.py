@@ -158,6 +158,26 @@ LINES = {
   "compliment": [
    "Oh, sorry, thank you!",
    "love"
+  ],
+  "roadtrip": [
+   "Eight hours. Still same province.",
+   "sleepy"
+  ],
+  "camping": [
+   "Watch out for bears, eh.",
+   "shock"
+  ],
+  "zoo": [
+   "Moose! Like home.",
+   "love"
+  ],
+  "shoes": [
+   "Shoes off, sorry!",
+   "calm"
+  ],
+  "sports": [
+   "Hockey. Always hockey.",
+   "cool"
   ]
  },
  "BR": {
@@ -347,6 +367,90 @@ LINES = {
   ],
   "bored": [
    "Call friends. Party!",
+   "happy"
+  ],
+  "wifi": [
+   "Password is amor123!",
+   "love"
+  ],
+  "groupchat": [
+   "Two hundred unread. Normal.",
+   "happy"
+  ],
+  "dentist": [
+   "Perfect smile. Always.",
+   "love"
+  ],
+  "haircut": [
+   "Talk about football for an hour.",
+   "happy"
+  ],
+  "cinema": [
+   "Talking to the screen!",
+   "happy"
+  ],
+  "karaoke": [
+   "Samba on the table!",
+   "happy"
+  ],
+  "roadtrip": [
+   "Beach to beach!",
+   "love"
+  ],
+  "camping": [
+   "Hammock on the beach!",
+   "happy"
+  ],
+  "heatwave": [
+   "Shower five times a day!",
+   "happy"
+  ],
+  "blackout": [
+   "Party in the dark!",
+   "happy"
+  ],
+  "neighbor": [
+   "Now we are family!",
+   "love"
+  ],
+  "cooking": [
+   "Rice and beans, always!",
+   "happy"
+  ],
+  "shopping": [
+   "Bright colors only!",
+   "happy"
+  ],
+  "museum": [
+   "Running to the café.",
+   "sleepy"
+  ],
+  "zoo": [
+   "Parrots! Loud like us!",
+   "happy"
+  ],
+  "phonedrop": [
+   "Noooo! My life!",
+   "cry"
+  ],
+  "gifts": [
+   "Hug first, then open!",
+   "love"
+  ],
+  "firstdate": [
+   "Dancing until 3 AM!",
+   "happy"
+  ],
+  "umbrella": [
+   "Tropical rain. Five minutes.",
+   "calm"
+  ],
+  "sports": [
+   "Futebol! Jogo bonito!",
+   "love"
+  ],
+  "teacher": [
+   "Party in class!",
    "happy"
   ]
  },
@@ -542,6 +646,94 @@ LINES = {
   "bored": [
    "Doom scrolling. Again.",
    "sleepy"
+  ],
+  "wifi": [
+   "First thing I ask. Before hello.",
+   "cool"
+  ],
+  "groupchat": [
+   "Muted. Since 2019.",
+   "sleepy"
+  ],
+  "dentist": [
+   "How much?! For one tooth?",
+   "shock"
+  ],
+  "haircut": [
+   "Just a trim. Tip 20 percent.",
+   "cool"
+  ],
+  "cinema": [
+   "Large popcorn. Large soda. Large seat.",
+   "happy"
+  ],
+  "karaoke": [
+   "Sweet Caroline! Everybody!",
+   "happy"
+  ],
+  "roadtrip": [
+   "Route 66! Snacks for days!",
+   "happy"
+  ],
+  "camping": [
+   "RV with a TV. Camping!",
+   "cool"
+  ],
+  "heatwave": [
+   "Calling three repair guys!",
+   "angry"
+  ],
+  "blackout": [
+   "Generator in the garage!",
+   "cool"
+  ],
+  "neighbor": [
+   "Hey neighbor! Barbecue Saturday!",
+   "happy"
+  ],
+  "cooking": [
+   "Microwave. Three minutes.",
+   "cool"
+  ],
+  "shopping": [
+   "Hoodie and sweatpants. Done.",
+   "happy"
+  ],
+  "museum": [
+   "Gift shop first!",
+   "happy"
+  ],
+  "zoo": [
+   "Bald eagle! Freedom!",
+   "happy"
+  ],
+  "phonedrop": [
+   "Insurance! New one tomorrow!",
+   "cool"
+  ],
+  "gifts": [
+   "Rip it open! Woohoo!",
+   "happy"
+  ],
+  "firstdate": [
+   "Coffee date. 45 minutes max.",
+   "cool"
+  ],
+  "shoes": [
+   "Shoes on? Shoes on.",
+   "cool"
+  ],
+  "umbrella": [
+   "Running to the car!",
+   "shock"
+  ],
+  "sports": [
+   "American football! Touchdown!",
+   "happy"
+  ],
+  "teacher": [
+   "Fifteen-minute rule. We leave!",
+   "happy"
   ]
  },
  "TR": {
@@ -708,6 +900,86 @@ LINES = {
   "bored": [
    "Backgammon with dad!",
    "happy"
+  ],
+  "wifi": [
+   "Free wifi with your tea!",
+   "happy"
+  ],
+  "groupchat": [
+   "Who ate the baklava?",
+   "angry"
+  ],
+  "dentist": [
+   "Cheap and fast. Come visit!",
+   "happy"
+  ],
+  "haircut": [
+   "Hot towel and ear flame!",
+   "shock"
+  ],
+  "cinema": [
+   "Intermission! Tea break!",
+   "happy"
+  ],
+  "karaoke": [
+   "Sad song, very sad.",
+   "cry"
+  ],
+  "roadtrip": [
+   "Stop for kebab. Always.",
+   "happy"
+  ],
+  "camping": [
+   "Samovar in the forest!",
+   "happy"
+  ],
+  "heatwave": [
+   "Ice cold ayran!",
+   "cool"
+  ],
+  "blackout": [
+   "Neighbors come over for tea!",
+   "happy"
+  ],
+  "neighbor": [
+   "Welcome! Here is a tray of food!",
+   "love"
+  ],
+  "cooking": [
+   "Grandma's recipe, no measuring!",
+   "love"
+  ],
+  "shopping": [
+   "Bargain at the bazaar!",
+   "cool"
+  ],
+  "museum": [
+   "Hagia Sophia. Speechless.",
+   "love"
+  ],
+  "phonedrop": [
+   "Fixed at the corner shop in ten minutes!",
+   "happy"
+  ],
+  "gifts": [
+   "Turkish delight. Again.",
+   "happy"
+  ],
+  "firstdate": [
+   "Tea and simit by the sea.",
+   "love"
+  ],
+  "shoes": [
+   "Guest slippers ready!",
+   "love"
+  ],
+  "sports": [
+   "Wrestling in olive oil!",
+   "shock"
+  ],
+  "teacher": [
+   "Who is the class president?",
+   "cool"
   ]
  },
  "JP": {
@@ -898,6 +1170,90 @@ LINES = {
   "bored": [
    "New hobby: bonsai!",
    "calm"
+  ],
+  "wifi": [
+   "Written neatly on a card.",
+   "calm"
+  ],
+  "groupchat": [
+   "Polite emoji only.",
+   "calm"
+  ],
+  "dentist": [
+   "Very gentle. Very clean.",
+   "calm"
+  ],
+  "haircut": [
+   "Shampoo and head massage!",
+   "love"
+  ],
+  "cinema": [
+   "Silent. Wait until the credits end.",
+   "calm"
+  ],
+  "karaoke": [
+   "Shy... then the best singer.",
+   "shock"
+  ],
+  "camping": [
+   "Tiny tent, perfect order.",
+   "calm"
+  ],
+  "heatwave": [
+   "Cooling towel and fan!",
+   "calm"
+  ],
+  "blackout": [
+   "Emergency kit, ready.",
+   "calm"
+  ],
+  "neighbor": [
+   "A small gift and a bow.",
+   "calm"
+  ],
+  "cooking": [
+   "Rice cooker is my best friend.",
+   "love"
+  ],
+  "shopping": [
+   "Layers! Five layers!",
+   "happy"
+  ],
+  "museum": [
+   "Reading every single sign.",
+   "calm"
+  ],
+  "zoo": [
+   "Snow monkeys in the hot spring!",
+   "love"
+  ],
+  "phonedrop": [
+   "Phone strap saved it.",
+   "calm"
+  ],
+  "gifts": [
+   "Open later, politely.",
+   "calm"
+  ],
+  "firstdate": [
+   "Very polite. Very nervous.",
+   "shock"
+  ],
+  "shoes": [
+   "Shoes off. Slippers on.",
+   "calm"
+  ],
+  "umbrella": [
+   "Convenience store umbrella!",
+   "happy"
+  ],
+  "sports": [
+   "Baseball and sumo!",
+   "happy"
+  ],
+  "teacher": [
+   "We wait. Silent.",
+   "calm"
   ]
  },
  "MX": {
@@ -1052,6 +1408,82 @@ LINES = {
   "bored": [
    "Telenovela marathon!",
    "love"
+  ],
+  "wifi": [
+   "The neighbor's wifi works!",
+   "cool"
+  ],
+  "groupchat": [
+   "Tía sent 40 stickers.",
+   "shock"
+  ],
+  "dentist": [
+   "Dentist across the border. Cheaper!",
+   "happy"
+  ],
+  "haircut": [
+   "Barber is my therapist.",
+   "love"
+  ],
+  "cinema": [
+   "Nachos with jalapeños!",
+   "love"
+  ],
+  "karaoke": [
+   "Mariachi ballad, full drama!",
+   "cry"
+  ],
+  "roadtrip": [
+   "Whole family in one car!",
+   "happy"
+  ],
+  "heatwave": [
+   "Agua fresca, please!",
+   "love"
+  ],
+  "blackout": [
+   "Ghost stories with tía!",
+   "shock"
+  ],
+  "neighbor": [
+   "Mi casa es tu casa!",
+   "happy"
+  ],
+  "cooking": [
+   "Tortillas from scratch!",
+   "love"
+  ],
+  "shopping": [
+   "Lucha libre mask, why not?",
+   "happy"
+  ],
+  "museum": [
+   "Aztec gold. Wow!",
+   "shock"
+  ],
+  "zoo": [
+   "Axolotl! So cute!",
+   "love"
+  ],
+  "phonedrop": [
+   "Rice! Put it in rice!",
+   "shock"
+  ],
+  "gifts": [
+   "Piñata! Swing!",
+   "happy"
+  ],
+  "firstdate": [
+   "Serenade under the window!",
+   "love"
+  ],
+  "shoes": [
+   "Shoes on, mi casa!",
+   "happy"
+  ],
+  "teacher": [
+   "Ahorita viene. Relax.",
+   "sleepy"
   ]
  },
  "DE": {
@@ -1234,6 +1666,90 @@ LINES = {
   "bored": [
    "Organize the garage.",
    "cool"
+  ],
+  "wifi": [
+   "Password has 24 characters. Secure.",
+   "cool"
+  ],
+  "groupchat": [
+   "Clear agenda for Sunday.",
+   "cool"
+  ],
+  "dentist": [
+   "Flossing twice a day. Proud.",
+   "cool"
+  ],
+  "haircut": [
+   "Exactly like last time.",
+   "cool"
+  ],
+  "cinema": [
+   "Seat booked a month ago.",
+   "cool"
+  ],
+  "karaoke": [
+   "I do not sing. I watch.",
+   "calm"
+  ],
+  "roadtrip": [
+   "Autobahn. No speed limit!",
+   "cool"
+  ],
+  "camping": [
+   "Campsite booked. Spot 42.",
+   "cool"
+  ],
+  "heatwave": [
+   "AC? We open the window.",
+   "cool"
+  ],
+  "blackout": [
+   "Flashlight in the drawer. Labeled.",
+   "cool"
+  ],
+  "neighbor": [
+   "Quiet hours start at ten.",
+   "cool"
+  ],
+  "cooking": [
+   "Recipe followed exactly.",
+   "cool"
+  ],
+  "shopping": [
+   "Practical jacket. Rainproof.",
+   "cool"
+  ],
+  "museum": [
+   "Audio guide, all 90 minutes.",
+   "cool"
+  ],
+  "zoo": [
+   "Reading every animal sign.",
+   "cool"
+  ],
+  "phonedrop": [
+   "Already backed up. No problem.",
+   "cool"
+  ],
+  "gifts": [
+   "Saving the wrapping paper.",
+   "cool"
+  ],
+  "firstdate": [
+   "We split the bill. Exactly.",
+   "cool"
+  ],
+  "shoes": [
+   "Hausschuhe. House shoes.",
+   "cool"
+  ],
+  "umbrella": [
+   "Weather app said 60 percent.",
+   "cool"
+  ],
+  "teacher": [
+   "Teacher late? Impossible.",
+   "shock"
   ]
  },
  "IN": {
@@ -1412,6 +1928,90 @@ LINES = {
   "bored": [
    "Cricket in the street!",
    "happy"
+  ],
+  "wifi": [
+   "Password is my phone number!",
+   "happy"
+  ],
+  "groupchat": [
+   "Good morning flowers! Every day!",
+   "love"
+  ],
+  "dentist": [
+   "Clove oil fixes everything.",
+   "cool"
+  ],
+  "haircut": [
+   "Head massage, very strong!",
+   "shock"
+  ],
+  "cinema": [
+   "Dance in the aisle!",
+   "happy"
+  ],
+  "roadtrip": [
+   "Honking is talking!",
+   "happy"
+  ],
+  "camping": [
+   "Chai on a campfire!",
+   "happy"
+  ],
+  "heatwave": [
+   "Fan on full. Sleep on the floor.",
+   "sleepy"
+  ],
+  "blackout": [
+   "Candles and card games!",
+   "happy"
+  ],
+  "neighbor": [
+   "Sweets for the new home!",
+   "happy"
+  ],
+  "cooking": [
+   "Twenty spices. Measure? No.",
+   "happy"
+  ],
+  "shopping": [
+   "Wedding outfit, sparkles!",
+   "love"
+  ],
+  "museum": [
+   "Our history is 5,000 years!",
+   "cool"
+  ],
+  "zoo": [
+   "Tigers? We have real ones.",
+   "cool"
+  ],
+  "phonedrop": [
+   "Crack? Still works. Fine.",
+   "happy"
+  ],
+  "gifts": [
+   "Gift box inside a gift box!",
+   "shock"
+  ],
+  "firstdate": [
+   "Mom already knows.",
+   "shock"
+  ],
+  "shoes": [
+   "Shoes outside the door!",
+   "calm"
+  ],
+  "umbrella": [
+   "Monsoon! Dance in the rain!",
+   "happy"
+  ],
+  "sports": [
+   "Cricket. Five-day match.",
+   "love"
+  ],
+  "teacher": [
+   "Class monitor in charge!",
+   "cool"
   ]
  },
  "IT": {
@@ -1586,6 +2186,78 @@ LINES = {
   "bored": [
    "Cook pasta from scratch!",
    "love"
+  ],
+  "wifi": [
+   "Ask the nonna. She knows.",
+   "happy"
+  ],
+  "groupchat": [
+   "Mamma sent a voice note. Ten minutes.",
+   "sleepy"
+  ],
+  "dentist": [
+   "Can I have espresso after?",
+   "cry"
+  ],
+  "haircut": [
+   "Haircut and gossip!",
+   "love"
+  ],
+  "cinema": [
+   "Commenting the whole movie.",
+   "happy"
+  ],
+  "karaoke": [
+   "Opera voice, unexpected!",
+   "cool"
+  ],
+  "roadtrip": [
+   "Stop every hour for coffee.",
+   "love"
+  ],
+  "heatwave": [
+   "Gelato for lunch.",
+   "love"
+  ],
+  "blackout": [
+   "Pasta on the gas stove!",
+   "happy"
+  ],
+  "neighbor": [
+   "Come eat! You look hungry!",
+   "love"
+  ],
+  "cooking": [
+   "Pineapple on pizza? NEVER.",
+   "angry"
+  ],
+  "shopping": [
+   "It must be perfect. Two hours.",
+   "cool"
+  ],
+  "museum": [
+   "The whole country is a museum.",
+   "love"
+  ],
+  "phonedrop": [
+   "Mamma mia! Santa Maria!",
+   "shock"
+  ],
+  "gifts": [
+   "Perfume! Bellissimo!",
+   "love"
+  ],
+  "firstdate": [
+   "Flowers! Poetry! Pasta!",
+   "love"
+  ],
+  "umbrella": [
+   "Hair ruined! Disaster!",
+   "cry"
+  ],
+  "teacher": [
+   "Gossip time!",
+   "happy"
   ]
  },
  "GB": {
@@ -1780,6 +2452,90 @@ LINES = {
   "bored": [
    "Put the kettle on.",
    "calm"
+  ],
+  "wifi": [
+   "Sorry to bother, the wifi?",
+   "calm"
+  ],
+  "groupchat": [
+   "Dad replies with a thumbs up.",
+   "calm"
+  ],
+  "dentist": [
+   "Waiting list: six months.",
+   "sleepy"
+  ],
+  "haircut": [
+   "Just the usual. Ta.",
+   "calm"
+  ],
+  "cinema": [
+   "Shh! Someone is talking.",
+   "angry"
+  ],
+  "karaoke": [
+   "Two pints, then Bohemian Rhapsody.",
+   "happy"
+  ],
+  "roadtrip": [
+   "Two hours. Huge trip.",
+   "shock"
+  ],
+  "camping": [
+   "Raining in the tent.",
+   "cry"
+  ],
+  "heatwave": [
+   "We never had AC anyway.",
+   "calm"
+  ],
+  "blackout": [
+   "Tea is impossible. Crisis.",
+   "shock"
+  ],
+  "neighbor": [
+   "Nod. Never speak again.",
+   "calm"
+  ],
+  "cooking": [
+   "Beans on toast. Done.",
+   "calm"
+  ],
+  "shopping": [
+   "Is it on sale?",
+   "calm"
+  ],
+  "museum": [
+   "Free entry! Lovely.",
+   "happy"
+  ],
+  "zoo": [
+   "Penguins in the rain. Same.",
+   "calm"
+  ],
+  "phonedrop": [
+   "Oh no. Bloody hell.",
+   "cry"
+  ],
+  "gifts": [
+   "Oh, you shouldn't have!",
+   "calm"
+  ],
+  "firstdate": [
+   "Pub. Quiz night.",
+   "calm"
+  ],
+  "shoes": [
+   "Should I take them off?",
+   "shock"
+  ],
+  "umbrella": [
+   "Umbrella? I have three.",
+   "cool"
+  ],
+  "teacher": [
+   "Paper airplanes!",
+   "happy"
   ]
  },
  "ES": {
@@ -1902,6 +2658,34 @@ LINES = {
   "compliment": [
    "Gracias, guapo!",
    "love"
+  ],
+  "groupchat": [
+   "Planning lunch for 30 people.",
+   "happy"
+  ],
+  "cinema": [
+   "Dubbed, of course.",
+   "calm"
+  ],
+  "heatwave": [
+   "Siesta in the dark.",
+   "sleepy"
+  ],
+  "blackout": [
+   "Siesta. Problem solved.",
+   "sleepy"
+  ],
+  "museum": [
+   "Picasso! Dalí!",
+   "love"
+  ],
+  "firstdate": [
+   "Dinner at eleven PM.",
+   "sleepy"
+  ],
+  "sports": [
+   "Fútbol and tennis!",
+   "happy"
   ]
  },
  "NL": {
@@ -2007,6 +2791,46 @@ LINES = {
   ],
   "compliment": [
    "Correct.",
+   "cool"
+  ],
+  "wifi": [
+   "Just ask. Direct.",
+   "cool"
+  ],
+  "roadtrip": [
+   "Road trip? I biked.",
+   "cool"
+  ],
+  "camping": [
+   "Caravan to France!",
+   "happy"
+  ],
+  "neighbor": [
+   "Your bike is in my spot.",
+   "cool"
+  ],
+  "shopping": [
+   "Orange. Everything orange.",
+   "happy"
+  ],
+  "museum": [
+   "Van Gogh! Rembrandt!",
+   "love"
+  ],
+  "gifts": [
+   "Receipt included? Good.",
+   "cool"
+  ],
+  "firstdate": [
+   "Bike ride. Directly honest.",
+   "cool"
+  ],
+  "umbrella": [
+   "Biking in the rain. Normal.",
+   "cool"
+  ],
+  "sports": [
+   "Speed skating!",
    "cool"
   ]
  },
@@ -2170,6 +2994,66 @@ LINES = {
   "bored": [
    "Sauna, then lake.",
    "calm"
+  ],
+  "wifi": [
+   "Ask the app, not a person.",
+   "calm"
+  ],
+  "groupchat": [
+   "One message a week. Enough.",
+   "calm"
+  ],
+  "dentist": [
+   "Free until 23!",
+   "happy"
+  ],
+  "haircut": [
+   "Did it myself.",
+   "calm"
+  ],
+  "cinema": [
+   "Cried quietly. Nobody saw.",
+   "cry"
+  ],
+  "karaoke": [
+   "ABBA. Obviously.",
+   "love"
+  ],
+  "camping": [
+   "Right to roam! Sleep anywhere!",
+   "love"
+  ],
+  "blackout": [
+   "Candles. We love candles.",
+   "love"
+  ],
+  "neighbor": [
+   "Wave from far away.",
+   "calm"
+  ],
+  "shopping": [
+   "Minimalist. Beige.",
+   "calm"
+  ],
+  "phonedrop": [
+   "I wanted a new one anyway.",
+   "calm"
+  ],
+  "gifts": [
+   "A candle. Perfect.",
+   "love"
+  ],
+  "firstdate": [
+   "Fika! Coffee and a bun.",
+   "love"
+  ],
+  "shoes": [
+   "Shoes off. Snow outside.",
+   "shiver"
+  ],
+  "teacher": [
+   "Teacher? We use first names.",
+   "calm"
   ]
  },
  "NO": {
@@ -2300,6 +3184,34 @@ LINES = {
   "bored": [
    "Go hiking. In the rain.",
    "cool"
+  ],
+  "roadtrip": [
+   "Fjord view. Every turn.",
+   "love"
+  ],
+  "camping": [
+   "Tent in the snow. Lovely.",
+   "shiver"
+  ],
+  "neighbor": [
+   "Friends in maybe ten years.",
+   "calm"
+  ],
+  "zoo": [
+   "Reindeer. Normal.",
+   "calm"
+  ],
+  "shoes": [
+   "Wool socks only.",
+   "love"
+  ],
+  "umbrella": [
+   "No bad weather, only bad clothes.",
+   "cool"
+  ],
+  "sports": [
+   "Skiing. Born with skis.",
+   "cool"
   ]
  },
  "PL": {
@@ -2426,6 +3338,18 @@ LINES = {
   "moving": [
    "Bread and salt at the door!",
    "love"
+  ],
+  "dentist": [
+   "Brave face. No anesthesia.",
+   "cool"
+  ],
+  "camping": [
+   "Mushroom picking at dawn!",
+   "happy"
+  ],
+  "shoes": [
+   "Kapcie! Slippers for all!",
+   "happy"
   ]
  },
  "CH": {
@@ -2560,6 +3484,10 @@ LINES = {
   "late": [
    "Late? Impossible.",
    "shock"
+  ],
+  "roadtrip": [
+   "Tunnel. Tunnel. Tunnel.",
+   "calm"
   ]
  },
  "NG": {
@@ -2690,6 +3618,50 @@ LINES = {
   "late": [
    "African time. Relax.",
    "cool"
+  ],
+  "wifi": [
+   "Data bundle is cheaper!",
+   "cool"
+  ],
+  "groupchat": [
+   "Uncle shares news, fake again.",
+   "angry"
+  ],
+  "haircut": [
+   "Clean fade. Sharp!",
+   "cool"
+  ],
+  "cinema": [
+   "Nollywood marathon!",
+   "love"
+  ],
+  "heatwave": [
+   "Generator off too!",
+   "cry"
+  ],
+  "blackout": [
+   "NEPA took light again!",
+   "angry"
+  ],
+  "neighbor": [
+   "Welcome! What do you do?",
+   "happy"
+  ],
+  "cooking": [
+   "Jollof. Party size.",
+   "happy"
+  ],
+  "shopping": [
+   "Matching fabric for the party!",
+   "love"
+  ],
+  "phonedrop": [
+   "Three phones. One works.",
+   "happy"
+  ],
+  "teacher": [
+   "Copying homework. Fast!",
+   "shock"
   ]
  },
  "ID": {
@@ -2804,6 +3776,10 @@ LINES = {
   "sale": [
    "Flash sale on my phone!",
    "shock"
+  ],
+  "zoo": [
+   "Komodo dragon. Ours!",
+   "cool"
   ]
  },
  "GR": {
@@ -2930,6 +3906,18 @@ LINES = {
   "dessert": [
    "Loukoumades with honey!",
    "love"
+  ],
+  "roadtrip": [
+   "Island hopping by ferry!",
+   "love"
+  ],
+  "heatwave": [
+   "Into the sea!",
+   "happy"
+  ],
+  "museum": [
+   "Our statues. Our history.",
+   "cool"
   ]
  },
  "CO": {
@@ -3043,6 +4031,10 @@ LINES = {
   ],
   "jog": [
    "Ciclovia on Sunday!",
+   "happy"
+  ],
+  "dentist": [
+   "Smile for the selfie after!",
    "happy"
   ]
  },
@@ -3182,6 +4174,50 @@ LINES = {
   "bored": [
    "Karaoke! All night!",
    "happy"
+  ],
+  "wifi": [
+   "Load first, then wifi!",
+   "happy"
+  ],
+  "groupchat": [
+   "Ate! Tito! Kumain na kayo?",
+   "love"
+  ],
+  "haircut": [
+   "Barbershop and chismis!",
+   "happy"
+  ],
+  "karaoke": [
+   "My Way. Perfect score!",
+   "love"
+  ],
+  "heatwave": [
+   "Mall! Free AC!",
+   "happy"
+  ],
+  "blackout": [
+   "Brownout again. Fan please!",
+   "cry"
+  ],
+  "phonedrop": [
+   "Cracked since 2020.",
+   "happy"
+  ],
+  "gifts": [
+   "Pasalubong for everyone!",
+   "love"
+  ],
+  "umbrella": [
+   "Flood! Wear boots!",
+   "shock"
+  ],
+  "sports": [
+   "Basketball! Everywhere!",
+   "happy"
+  ],
+  "teacher": [
+   "Merienda break!",
+   "happy"
   ]
  },
  "VN": {
@@ -3296,6 +4332,18 @@ LINES = {
   "lunchbreak": [
    "Pho, very quick!",
    "happy"
+  ],
+  "karaoke": [
+   "Karaoke at every party!",
+   "happy"
+  ],
+  "cooking": [
+   "Fresh herbs on everything!",
+   "love"
+  ],
+  "umbrella": [
+   "Poncho on the motorbike!",
+   "cool"
   ]
  },
  "TH": {
@@ -3414,6 +4462,34 @@ LINES = {
   "hello": [
    "Sawasdee, with a wai.",
    "calm"
+  ],
+  "karaoke": [
+   "Microphone is mine now!",
+   "cool"
+  ],
+  "heatwave": [
+   "This is just normal.",
+   "cool"
+  ],
+  "cooking": [
+   "Spicy, sour, sweet, salty!",
+   "cool"
+  ],
+  "zoo": [
+   "Elephants! Our friends!",
+   "love"
+  ],
+  "shoes": [
+   "Shoes off. Always.",
+   "calm"
+  ],
+  "umbrella": [
+   "Rainy season, again!",
+   "calm"
+  ],
+  "sports": [
+   "Muay Thai!",
+   "angry"
   ]
  },
  "FR": {
@@ -3556,6 +4632,54 @@ LINES = {
   "bored": [
    "Philosophy and wine.",
    "cool"
+  ],
+  "dentist": [
+   "Pain? Non, merci.",
+   "angry"
+  ],
+  "haircut": [
+   "Effortless. Took two hours.",
+   "cool"
+  ],
+  "cinema": [
+   "Subtitles only. Art film.",
+   "cool"
+  ],
+  "camping": [
+   "Glamping with wine.",
+   "love"
+  ],
+  "cooking": [
+   "Butter. More butter.",
+   "love"
+  ],
+  "shopping": [
+   "Black. Always black.",
+   "cool"
+  ],
+  "museum": [
+   "The Louvre is ours. Bonjour.",
+   "cool"
+  ],
+  "phonedrop": [
+   "C'est la vie.",
+   "calm"
+  ],
+  "gifts": [
+   "Wine? Good choice.",
+   "cool"
+  ],
+  "firstdate": [
+   "Wine, cheese, philosophy.",
+   "love"
+  ],
+  "shoes": [
+   "Shoes on. Non?",
+   "cool"
+  ],
+  "teacher": [
+   "Philosophy debate starts.",
+   "cool"
   ]
  },
  "AR": {
@@ -3582,6 +4706,22 @@ LINES = {
   "late": [
    "The party starts at midnight anyway.",
    "cool"
+  ],
+  "roadtrip": [
+   "Patagonia! Very far!",
+   "cool"
+  ],
+  "camping": [
+   "Asado under the stars!",
+   "love"
+  ],
+  "zoo": [
+   "Llama! Spit warning!",
+   "shock"
+  ],
+  "sports": [
+   "Football is religion.",
+   "love"
   ]
  },
  "KR": {
@@ -3752,6 +4892,82 @@ LINES = {
   "bored": [
    "Watch one more drama.",
    "love"
+  ],
+  "wifi": [
+   "Free wifi everywhere. Fast!",
+   "happy"
+  ],
+  "groupchat": [
+   "Mom learned new stickers.",
+   "happy"
+  ],
+  "dentist": [
+   "Teeth whitening, why not?",
+   "happy"
+  ],
+  "haircut": [
+   "Perm and color. Full package.",
+   "happy"
+  ],
+  "cinema": [
+   "Sweet and salty popcorn!",
+   "love"
+  ],
+  "karaoke": [
+   "Private room, all night!",
+   "happy"
+  ],
+  "blackout": [
+   "Phone at 3%! Panic!",
+   "shock"
+  ],
+  "neighbor": [
+   "Rice cake for the neighbors!",
+   "love"
+  ],
+  "cooking": [
+   "Kimchi in everything!",
+   "happy"
+  ],
+  "shopping": [
+   "Matching couple outfits!",
+   "love"
+  ],
+  "museum": [
+   "Photo spot! Photo spot!",
+   "happy"
+  ],
+  "zoo": [
+   "Panda selfie!",
+   "happy"
+  ],
+  "phonedrop": [
+   "Case, screen protector, safe!",
+   "cool"
+  ],
+  "gifts": [
+   "Two hands, a small bow.",
+   "calm"
+  ],
+  "firstdate": [
+   "Matching couple rings. Day one.",
+   "love"
+  ],
+  "shoes": [
+   "Shoes off, obviously.",
+   "calm"
+  ],
+  "umbrella": [
+   "Clear umbrella, very stylish.",
+   "happy"
+  ],
+  "sports": [
+   "Esports! Pro gamer!",
+   "cool"
+  ],
+  "teacher": [
+   "Self-study. Quietly.",
+   "calm"
   ]
  },
  "IE": {
@@ -3778,6 +4994,22 @@ LINES = {
   "compliment": [
    "Ah, stop it!",
    "happy"
+  ],
+  "karaoke": [
+   "Everyone knows every word!",
+   "love"
+  ],
+  "zoo": [
+   "Sheep. We have sheep.",
+   "calm"
+  ],
+  "umbrella": [
+   "Soft day, thank God.",
+   "calm"
+  ],
+  "sports": [
+   "Hurling! Fastest sport!",
+   "cool"
   ]
  }
 }
