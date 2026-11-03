@@ -2237,6 +2237,24 @@
       "scene": "party",
       "kurgu": "classic",
       "seed": 349056
+    },
+    {
+      "id": "AH7SH79WfM0",
+      "date": "2026-11-03 16:39",
+      "kind": "short",
+      "title": "Which Country Did It Best? At The Supermarket 🏆 #countryballs",
+      "privacy": "public",
+      "situation": "supermarket",
+      "countries": [
+        "JP",
+        "FR",
+        "IT",
+        "SE"
+      ],
+      "scene": "night",
+      "kurgu": "crown",
+      "seed": 602900,
+      "winner": 1
     }
   ]
 }
