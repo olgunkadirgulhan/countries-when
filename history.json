@@ -2255,6 +2255,24 @@
       "kurgu": "crown",
       "seed": 602900,
       "winner": 1
+    },
+    {
+      "id": "tCuOyXDXDCY",
+      "date": "2026-11-03 18:41",
+      "kind": "short",
+      "title": "5 Countryballs Asking For The Wifi Password 😂",
+      "privacy": "public",
+      "situation": "wifi",
+      "countries": [
+        "NG",
+        "JP",
+        "IT",
+        "SE",
+        "IN"
+      ],
+      "scene": "park",
+      "kurgu": "five",
+      "seed": 64157
     }
   ]
 }
