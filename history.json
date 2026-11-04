@@ -2437,6 +2437,24 @@
       "scene": "party",
       "kurgu": "five",
       "seed": 517032
+    },
+    {
+      "id": "YpfY34wkvaY",
+      "date": "2026-11-04 18:38",
+      "kind": "short",
+      "title": "POV: 5 Countries During A Power Outage 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "blackout",
+      "countries": [
+        "SE",
+        "IN",
+        "GB",
+        "DE",
+        "JP"
+      ],
+      "scene": "night",
+      "kurgu": "five",
+      "seed": 876663
     }
   ]
 }
