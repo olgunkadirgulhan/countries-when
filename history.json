@@ -2490,6 +2490,23 @@
       "scene": "city",
       "kurgu": "five",
       "seed": 329838
+    },
+    {
+      "id": "7w6DIk1W46k",
+      "date": "2026-11-05 18:38",
+      "kind": "short",
+      "title": "Countryballs At Karaoke Night 💀",
+      "privacy": "public",
+      "situation": "karaoke",
+      "countries": [
+        "VN",
+        "TR",
+        "SE",
+        "DE"
+      ],
+      "scene": "living",
+      "kurgu": "classic",
+      "seed": 71645
     }
   ]
 }
