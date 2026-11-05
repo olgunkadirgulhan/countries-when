@@ -2507,6 +2507,23 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 71645
+    },
+    {
+      "id": "taCHM8UDUbM",
+      "date": "2026-11-05 20:38",
+      "kind": "short",
+      "title": "POV: Countries Cooking Dinner 😂 #countryballs",
+      "privacy": "public",
+      "situation": "cooking",
+      "countries": [
+        "IT",
+        "IN",
+        "JP",
+        "PE"
+      ],
+      "scene": "kitchen",
+      "kurgu": "classic",
+      "seed": 288963
     }
   ]
 }
