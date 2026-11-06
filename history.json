@@ -2653,6 +2653,24 @@
         "IN",
         "DE"
       ]
+    },
+    {
+      "id": "RLGZxlJBZBw",
+      "date": "2026-11-06 16:38",
+      "kind": "short",
+      "title": "Countries Shopping For Clothes (Best Answer?) 👑 #countryballs",
+      "privacy": "public",
+      "situation": "shopping",
+      "countries": [
+        "IT",
+        "GB",
+        "IN",
+        "NG"
+      ],
+      "scene": "party",
+      "kurgu": "crown",
+      "seed": 539152,
+      "winner": 3
     }
   ]
 }
