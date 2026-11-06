@@ -2688,6 +2688,24 @@
       "scene": "airport",
       "kurgu": "classic",
       "seed": 525662
+    },
+    {
+      "id": "OE89gHSLXJ8",
+      "date": "2026-11-06 20:38",
+      "kind": "short",
+      "title": "Countryballs When They Enter A House: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "shoes",
+      "countries": [
+        "CA",
+        "IN",
+        "PL",
+        "SE"
+      ],
+      "scene": "kitchen",
+      "kurgu": "crown",
+      "seed": 153286,
+      "winner": 0
     }
   ]
 }
