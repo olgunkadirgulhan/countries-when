@@ -2671,6 +2671,23 @@
       "kurgu": "crown",
       "seed": 539152,
       "winner": 3
+    },
+    {
+      "id": "T7AaHNnAz9U",
+      "date": "2026-11-06 18:38",
+      "kind": "short",
+      "title": "POV: Countries At The Dentist 😂 #countryballs",
+      "privacy": "public",
+      "situation": "dentist",
+      "countries": [
+        "TR",
+        "HU",
+        "SE",
+        "IT"
+      ],
+      "scene": "airport",
+      "kurgu": "classic",
+      "seed": 525662
     }
   ]
 }
