@@ -2724,6 +2724,24 @@
       "scene": "rain",
       "kurgu": "five",
       "seed": 606211
+    },
+    {
+      "id": "eoyTOu1El4U",
+      "date": "2026-11-07 18:38",
+      "kind": "short",
+      "title": "Countries Learning To Ice Skate (Best Answer?) 👑 #countryballs",
+      "privacy": "public",
+      "situation": "learning_to_ice_skate",
+      "countries": [
+        "FI",
+        "NL",
+        "NO",
+        "BR"
+      ],
+      "scene": "snow",
+      "kurgu": "crown",
+      "seed": 153175,
+      "winner": 0
     }
   ]
 }
