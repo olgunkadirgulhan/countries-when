@@ -214,6 +214,78 @@ LINES = {
   "scary_movie": [
    "I hope the monster apologizes at the end.",
    "happy"
+  ],
+  "seeing_a_spider": [
+   "Aww, sorry little guy, let me help you outside.",
+   "happy"
+  ],
+  "tracking_a_package": [
+   "Hope the snow didn't delay the driver, eh?",
+   "calm"
+  ],
+  "forgetting_a_name": [
+   "I am so deeply sorry, please forgive me!",
+   "cry"
+  ],
+  "riding_a_bicycle": [
+   "Dodging snowbanks on fat winter tires!",
+   "happy"
+  ],
+  "learning_to_ice_skate": [
+   "I started skating before I could walk, eh!",
+   "cool"
+  ],
+  "at_a_drive_thru": [
+   "Two double-doubles and a box of Timbits, please!",
+   "happy"
+  ],
+  "building_snowman": [
+   "He needs a proper hockey stick and wool toque!",
+   "happy"
+  ],
+  "trying_yoga": [
+   "Sorry to the floor mat I just fell on!",
+   "cry"
+  ],
+  "first_day_spring": [
+   "Snow melted! The driveway is visible again, eh?!",
+   "happy"
+  ],
+  "ice_skating": [
+   "I was born on skates! Pass the puck!",
+   "cool"
+  ],
+  "watching_fireworks": [
+   "Ooh, that golden waterfall effect was magnificent, eh?",
+   "shock"
+  ],
+  "receiving_a_package": [
+   "Thank you so much, friendly delivery driver!",
+   "happy"
+  ],
+  "when_autumn_begins": [
+   "Maple leaves turning red and gold, pure heaven.",
+   "love"
+  ],
+  "hearing_thunder": [
+   "Cozy thunderstorm weather, perfect for hot cocoa.",
+   "love"
+  ],
+  "going_stargazing": [
+   "Northern lights are painting emerald across the dark!",
+   "shock"
+  ],
+  "countries_ice_skating": [
+   "I was born wearing these blades on my feet!",
+   "cool"
+  ],
+  "countries_on_a_rollercoa": [
+   "Sorry for screaming so loudly behind you, friend!",
+   "shock"
+  ],
+  "countries_at_the_bowling": [
+   "Sorry pin, did not mean to hit hard!",
+   "shock"
   ]
  },
  "BR": {
@@ -507,6 +579,90 @@ LINES = {
   ],
   "scary_movie": [
    "Why is everyone screaming? It is hilarious!",
+   "happy"
+  ],
+  "packing_suitcase": [
+   "Swimwear packed! Do I need anything else?",
+   "happy"
+  ],
+  "at_the_buffet": [
+   "Where is the meat? Fill the whole plate!",
+   "happy"
+  ],
+  "seeing_a_spider": [
+   "That tiny thing? We play soccer with bigger!",
+   "cool"
+  ],
+  "at_a_concert": [
+   "Singing every lyric at maximum volume!",
+   "happy"
+  ],
+  "building_a_snowman": [
+   "Wait, why are my hands freezing solid?!",
+   "shiver"
+  ],
+  "learning_to_ice_skate": [
+   "Why is the floor made of slippery ice?!",
+   "shock"
+  ],
+  "buffet_time": [
+   "Round four begins! Keep the skewers coming, please!",
+   "happy"
+  ],
+  "building_snowman": [
+   "Is this cold stuff actually supposed to stay frozen?!",
+   "shiver"
+  ],
+  "swimming_pool": [
+   "Cannonball into the deep end! Let us party!",
+   "happy"
+  ],
+  "trying_yoga": [
+   "Can we do downward dog to samba music instead?",
+   "happy"
+  ],
+  "ice_skating": [
+   "The ice is slippery! I am hugging the wall!",
+   "shock"
+  ],
+  "all_you_can_eat_buffet": [
+   "Where is the meat section? Show me!",
+   "happy"
+  ],
+  "watering_plants": [
+   "Welcome to my balcony jungle!",
+   "happy"
+  ],
+  "on_a_video_call": [
+   "Wait, sorry, my pet parrot is singing!",
+   "shock"
+  ],
+  "receiving_a_package": [
+   "Delivery arrived earlier than expected? Miracle!",
+   "shock"
+  ],
+  "countries_ice_skating": [
+   "Wait, how do I stop without hitting walls?!",
+   "shock"
+  ],
+  "countries_at_a_concert": [
+   "This beat is amazing! Everyone start dancing now!",
+   "happy"
+  ],
+  "countries_receiving_a_pa": [
+   "Wait, what did I order three weeks ago?",
+   "shock"
+  ],
+  "countries_on_a_rollercoa": [
+   "Again! Let us ride this ten more times!",
+   "happy"
+  ],
+  "countries_packing_a_suit": [
+   "Packing five minutes before leaving for the airport!",
+   "shock"
+  ],
+  "countries_at_the_bowling": [
+   "Celebration dance for hitting even one single pin!",
    "happy"
   ]
  },
@@ -826,6 +982,142 @@ LINES = {
   "group_photo": [
    "Big smiles, nobody blink on three!",
    "happy"
+  ],
+  "packing_suitcase": [
+   "I packed eight outfits for a weekend trip.",
+   "happy"
+  ],
+  "at_the_buffet": [
+   "Round four, here I come!",
+   "happy"
+  ],
+  "seeing_a_spider": [
+   "Grab the broom and call the fire department!",
+   "cry"
+  ],
+  "tracking_a_package": [
+   "It says out for delivery right now!",
+   "happy"
+  ],
+  "at_a_concert": [
+   "Front row tickets! Let me record everything!",
+   "happy"
+  ],
+  "forgetting_a_name": [
+   "Hey buddy! How's it going, my man?",
+   "happy"
+  ],
+  "tasting_street_food": [
+   "Deep fried on a stick? Count me in!",
+   "happy"
+  ],
+  "riding_a_bicycle": [
+   "Where are the cup holders for my giant drink?",
+   "shock"
+  ],
+  "spring_cleaning": [
+   "I bought five new gadgets to clean faster!",
+   "happy"
+  ],
+  "learning_to_ice_skate": [
+   "Hugging the wall for dear life right now!",
+   "cry"
+  ],
+  "at_a_drive_thru": [
+   "Supersize everything and add two apple pies!",
+   "happy"
+  ],
+  "buffet_time": [
+   "My plate has its own gravitational pull right now!",
+   "happy"
+  ],
+  "streaming_choice": [
+   "We scrolled through movies for two hours already!",
+   "cry"
+  ],
+  "swimming_pool": [
+   "Look at this gigantic inflatable pizza float!",
+   "happy"
+  ],
+  "fresh_bread": [
+   "Slather on peanut butter and jelly right now!",
+   "cool"
+  ],
+  "riding_bicycle": [
+   "I drove twenty miles to bike in this park.",
+   "calm"
+  ],
+  "trying_yoga": [
+   "Does goat yoga come with an organic smoothie?",
+   "happy"
+  ],
+  "online_delivery": [
+   "Another giant cardboard box for my collection!",
+   "happy"
+  ],
+  "ice_skating": [
+   "Falling down in slow motion, but stylishly, bro!",
+   "happy"
+  ],
+  "all_you_can_eat_buffet": [
+   "Plate number four, here I come!",
+   "happy"
+  ],
+  "watching_fireworks": [
+   "Bigger! Louder! Light up the whole sky!",
+   "happy"
+  ],
+  "on_a_video_call": [
+   "Hey everyone, can you hear me okay?",
+   "happy"
+  ],
+  "receiving_a_package": [
+   "Same-day drone delivery is finally here!",
+   "happy"
+  ],
+  "when_autumn_begins": [
+   "Pumpkin spice in everything starting right now!",
+   "happy"
+  ],
+  "hearing_thunder": [
+   "Quick, count the seconds between flash and boom!",
+   "happy"
+  ],
+  "going_stargazing": [
+   "Look! A shooting star! Make a huge wish!",
+   "happy"
+  ],
+  "countries_at_the_bakery": [
+   "I will take two dozen glazed donuts, thanks!",
+   "happy"
+  ],
+  "countries_at_a_concert": [
+   "Turn up the volume! Front row energy baby!",
+   "cool"
+  ],
+  "countries_receiving_a_pa": [
+   "Same day delivery is the greatest invention ever!",
+   "happy"
+  ],
+  "countries_on_a_rollercoa": [
+   "Put your hands up for the giant loop!",
+   "cool"
+  ],
+  "countries_packing_a_suit": [
+   "If it does not fit, sit on it!",
+   "angry"
+  ],
+  "countries_at_the_ice_cre": [
+   "Three scoops with extra sprinkles and hot fudge!",
+   "happy"
+  ],
+  "countries_at_the_bowling": [
+   "Strike! That curve ball strategy always works out!",
+   "happy"
+  ],
+  "countries_in_the_subway": [
+   "Which line goes uptown again? Maps are confusing!",
+   "shock"
   ]
  },
  "TR": {
@@ -1075,6 +1367,30 @@ LINES = {
   ],
   "flea_market": [
    "First price is merely a suggestion, my friend!",
+   "cool"
+  ],
+  "tasting_street_food": [
+   "Wrap it up fresh with garlic sauce, please!",
+   "love"
+  ],
+  "buffet_time": [
+   "Fill the table until wood is not visible!",
+   "love"
+  ],
+  "fresh_bread": [
+   "Still hot from the stone oven! Pure bliss!",
+   "love"
+  ],
+  "cleaning_house": [
+   "Turn on music, it is deep cleaning time!",
+   "happy"
+  ],
+  "countries_at_the_bakery": [
+   "Fresh simit with sesame seeds is the best!",
+   "happy"
+  ],
+  "countries_at_the_ice_cre": [
+   "Try to catch the ice cream from my trick!",
    "cool"
   ]
  },
@@ -1378,6 +1694,98 @@ LINES = {
   "group_photo": [
    "Everyone hold up peace signs and say cheese!",
    "happy"
+  ],
+  "packing_suitcase": [
+   "Folded with millimeter precision to save space.",
+   "calm"
+  ],
+  "at_the_buffet": [
+   "I will politely take a balanced, small portion.",
+   "calm"
+  ],
+  "seeing_a_spider": [
+   "Gently placing a glass cup over it.",
+   "calm"
+  ],
+  "tracking_a_package": [
+   "The delivery driver bowed when updating status.",
+   "calm"
+  ],
+  "forgetting_a_name": [
+   "Politely bowing lower so I avoid guessing.",
+   "shock"
+  ],
+  "riding_a_bicycle": [
+   "Bicycle basket holds my groceries perfectly.",
+   "happy"
+  ],
+  "spring_cleaning": [
+   "Does this object spark joy? If not, goodbye.",
+   "calm"
+  ],
+  "at_a_drive_thru": [
+   "Bowing politely at the automated speaker box.",
+   "calm"
+  ],
+  "streaming_choice": [
+   "New anime season just dropped twelve new episodes!",
+   "happy"
+  ],
+  "ice_skating": [
+   "Triple axel spin landed with absolute delicate grace.",
+   "cool"
+  ],
+  "all_you_can_eat_buffet": [
+   "Everything is so neatly arranged and fresh.",
+   "calm"
+  ],
+  "cleaning_house": [
+   "Time for Oosouji! Every corner must sparkle.",
+   "happy"
+  ],
+  "watching_fireworks": [
+   "Hanabi season is simply breathtaking.",
+   "love"
+  ],
+  "on_a_video_call": [
+   "Polite nod every three seconds to show engagement.",
+   "cool"
+  ],
+  "receiving_a_package": [
+   "Impeccable bubble wrap, not a single scratch.",
+   "calm"
+  ],
+  "when_autumn_begins": [
+   "Momijigari leaf viewing walks are so serene.",
+   "calm"
+  ],
+  "hearing_thunder": [
+   "Check the weather radar on the phone immediately.",
+   "cool"
+  ],
+  "going_stargazing": [
+   "A quiet telescope night brings deep harmony.",
+   "calm"
+  ],
+  "countries_ice_skating": [
+   "Targeting a perfect triple axle spin right now.",
+   "cool"
+  ],
+  "countries_receiving_a_pa": [
+   "The cardboard box is folded with supreme elegance.",
+   "calm"
+  ],
+  "countries_packing_a_suit": [
+   "Every item vacuum sealed in neat labeled pouches.",
+   "calm"
+  ],
+  "countries_at_the_bowling": [
+   "Bowing to the pins before throwing the ball.",
+   "calm"
+  ],
+  "countries_in_the_subway": [
+   "Train arriving precisely at zero seconds past schedule.",
+   "calm"
   ]
  },
  "MX": {
@@ -1620,6 +2028,58 @@ LINES = {
   "scary_movie": [
    "My grandmother's spooky stories were scarier than this.",
    "cool"
+  ],
+  "building_a_snowman": [
+   "Can we put a sombrero on him?",
+   "happy"
+  ],
+  "tasting_street_food": [
+   "Needs fresh lime and extra hot salsa on top!",
+   "love"
+  ],
+  "at_a_drive_thru": [
+   "Can I get extra salsa packets with that?",
+   "love"
+  ],
+  "building_snowman": [
+   "It is so cold, but this snowman is adorable!",
+   "love"
+  ],
+  "cleaning_house": [
+   "Broom in hand, cumbia playing loudly!",
+   "happy"
+  ],
+  "watching_fireworks": [
+   "More sparkle and more rhythm, please!",
+   "happy"
+  ],
+  "hearing_thunder": [
+   "That sounded like a drum solo in heaven!",
+   "happy"
+  ],
+  "countries_ice_skating": [
+   "Who put ice on the ground?! Help me!",
+   "shock"
+  ],
+  "countries_at_the_bakery": [
+   "Pan dulce freshly baked for breakfast is perfect!",
+   "happy"
+  ],
+  "countries_receiving_a_pa": [
+   "Entire family gathered to open this mystery parcel!",
+   "love"
+  ],
+  "countries_on_a_rollercoa": [
+   "Screaming at top of my lungs right now!",
+   "cry"
+  ],
+  "countries_at_the_ice_cre": [
+   "Mango with chili powder on top is heaven!",
+   "love"
+  ],
+  "countries_at_the_bowling": [
+   "High fives for everyone regardless of the score!",
+   "love"
   ]
  },
  "DE": {
@@ -1914,6 +2374,94 @@ LINES = {
   "group_photo": [
    "The camera tripod is tilted by two millimeters.",
    "angry"
+  ],
+  "packing_suitcase": [
+   "Everything is rolled, labeled, and color coded.",
+   "cool"
+  ],
+  "at_the_buffet": [
+   "I mapped out the most efficient plate strategy.",
+   "cool"
+  ],
+  "seeing_a_spider": [
+   "Do not panic, it catches annoying flies.",
+   "calm"
+  ],
+  "tracking_a_package": [
+   "Estimated arrival 14:02. It is currently 14:03.",
+   "angry"
+  ],
+  "at_a_concert": [
+   "The sound engineering here is acoustically impeccable.",
+   "calm"
+  ],
+  "building_a_snowman": [
+   "Snow density checked: structural integrity verified.",
+   "calm"
+  ],
+  "forgetting_a_name": [
+   "Please display official name badge at all times.",
+   "angry"
+  ],
+  "spring_cleaning": [
+   "Sweeping with military precision and exact checklists.",
+   "cool"
+  ],
+  "at_a_drive_thru": [
+   "Clear your order in under forty seconds, please.",
+   "angry"
+  ],
+  "streaming_choice": [
+   "A four-hour documentary on precision logistics, please.",
+   "cool"
+  ],
+  "fresh_bread": [
+   "Thick hearty sourdough slice with pure golden butter.",
+   "love"
+  ],
+  "trying_yoga": [
+   "My spine does not bend at this precise angle.",
+   "angry"
+  ],
+  "all_you_can_eat_buffet": [
+   "I must calculate the optimal calorie-to-price ratio.",
+   "cool"
+  ],
+  "watching_fireworks": [
+   "Safety distance of fifty meters strictly respected.",
+   "cool"
+  ],
+  "watering_plants": [
+   "Exactly two hundred milliliters per potted plant.",
+   "cool"
+  ],
+  "on_a_video_call": [
+   "Meeting agenda has seven minutes remaining. Proceed.",
+   "calm"
+  ],
+  "countries_at_the_bakery": [
+   "Give me three fresh pretzel loaves immediately, please.",
+   "cool"
+  ],
+  "countries_at_a_concert": [
+   "The bass frequency is calibrated very precisely here.",
+   "calm"
+  ],
+  "countries_receiving_a_pa": [
+   "Delivered at 10:00 AM sharp as promised.",
+   "cool"
+  ],
+  "countries_at_the_ice_cre": [
+   "Spaghettieis with strawberry sauce is pure perfection.",
+   "happy"
+  ],
+  "countries_at_the_bowling": [
+   "Calculating exact angle and momentum for center pin.",
+   "calm"
+  ],
+  "countries_in_the_subway": [
+   "Please step aside so passengers can exit first.",
+   "angry"
   ]
  },
  "IN": {
@@ -2179,6 +2727,30 @@ LINES = {
   ],
   "flea_market": [
    "Give me a discount and I buy three!",
+   "happy"
+  ],
+  "at_the_buffet": [
+   "I brought my own hot sauce just in case.",
+   "cool"
+  ],
+  "tasting_street_food": [
+   "Crispy, tangy, and bursting with flavors!",
+   "happy"
+  ],
+  "buffet_time": [
+   "Is this spicy curry unlimited? Today is paradise!",
+   "love"
+  ],
+  "fresh_bread": [
+   "Fresh buttery naan straight from the tandoor!",
+   "love"
+  ],
+  "trying_yoga": [
+   "Breathe in deeply, find peace, align your spirit.",
+   "calm"
+  ],
+  "countries_packing_a_suit": [
+   "Packing snacks for the whole journey is vital!",
    "happy"
   ]
  },
@@ -2458,6 +3030,114 @@ LINES = {
   "group_photo": [
    "Stand closer! We must look like family!",
    "love"
+  ],
+  "packing_suitcase": [
+   "Five pairs of shoes are strictly essential.",
+   "calm"
+  ],
+  "at_the_buffet": [
+   "Wait, someone put pineapple next to pasta?!",
+   "shock"
+  ],
+  "tracking_a_package": [
+   "Refreshing the screen every three seconds!",
+   "shock"
+  ],
+  "building_a_snowman": [
+   "His scarf must be cashmere, absolutely stylish.",
+   "love"
+  ],
+  "forgetting_a_name": [
+   "Ey! Look at this magnificent friend right here!",
+   "love"
+  ],
+  "tasting_street_food": [
+   "Fold the pizza slice in half and walk!",
+   "cool"
+  ],
+  "riding_a_bicycle": [
+   "Vintage stylish frame, cycling to grab an espresso.",
+   "love"
+  ],
+  "spring_cleaning": [
+   "Mamma cleans windows until they are invisible glass.",
+   "love"
+  ],
+  "learning_to_ice_skate": [
+   "My balance is gone, but my coat looks fabulous!",
+   "love"
+  ],
+  "at_a_drive_thru": [
+   "You want me to eat gourmet in a car?!",
+   "shock"
+  ],
+  "buffet_time": [
+   "Who put pineapple next to the pasta section?!",
+   "angry"
+  ],
+  "fresh_bread": [
+   "Dip it into extra virgin olive oil immediately!",
+   "happy"
+  ],
+  "riding_bicycle": [
+   "Vintage bicycle with a basket of fresh sunflowers.",
+   "love"
+  ],
+  "trying_yoga": [
+   "I cannot do tree pose without moving my hands!",
+   "shock"
+  ],
+  "all_you_can_eat_buffet": [
+   "Wait, do not mix pasta and bread!",
+   "shock"
+  ],
+  "cleaning_house": [
+   "Who left a tiny smudge on my mirror?!",
+   "angry"
+  ],
+  "watching_fireworks": [
+   "Bella! The colors are like painted art!",
+   "love"
+  ],
+  "watering_plants": [
+   "Fresh basil needs special love and daily sunshine.",
+   "love"
+  ],
+  "on_a_video_call": [
+   "Look, my hand gestures do not fit camera!",
+   "angry"
+  ],
+  "receiving_a_package": [
+   "Fresh pecorino shipped directly from Nonna!",
+   "love"
+  ],
+  "hearing_thunder": [
+   "Mamma mia, that struck really close by!",
+   "shock"
+  ],
+  "countries_ice_skating": [
+   "My ankle twists! This is far too cold!",
+   "cry"
+  ],
+  "countries_at_the_bakery": [
+   "Look at these cannoli! Absolute sweet masterpieces!",
+   "love"
+  ],
+  "countries_on_a_rollercoa": [
+   "Mamma mia! My stomach is left behind up!",
+   "shock"
+  ],
+  "countries_packing_a_suit": [
+   "I need five outfits per day minimum for style!",
+   "love"
+  ],
+  "countries_at_the_ice_cre": [
+   "Authentic gelato must be scooped with deep passion!",
+   "love"
+  ],
+  "countries_at_the_bowling": [
+   "Gutter ball?! The lane floor must be crooked!",
+   "angry"
   ]
  },
  "GB": {
@@ -2756,6 +3436,90 @@ LINES = {
   "scary_movie": [
    "Pass the popcorn, frightfully good plot twist.",
    "cool"
+  ],
+  "tracking_a_package": [
+   "Has the postman arrived yet? Putting kettle on.",
+   "calm"
+  ],
+  "at_a_concert": [
+   "Splendid tune, gently tapping my shoe.",
+   "cool"
+  ],
+  "forgetting_a_name": [
+   "Hello there... my good chap!",
+   "calm"
+  ],
+  "spring_cleaning": [
+   "Found old tea tins from 1994 behind cupboard.",
+   "shock"
+  ],
+  "at_a_drive_thru": [
+   "Pardon me through this crackly speaker, good sir?",
+   "calm"
+  ],
+  "streaming_choice": [
+   "A quiet costume drama with tea, obviously.",
+   "calm"
+  ],
+  "swimming_pool": [
+   "Applying factor fifty sunscreen every three minutes.",
+   "shock"
+  ],
+  "riding_bicycle": [
+   "Ringing my little silver bell politely at pedestrians.",
+   "calm"
+  ],
+  "online_delivery": [
+   "The parcel was hidden behind my recycling bin!",
+   "shock"
+  ],
+  "first_day_spring": [
+   "One ray of sunshine! Fire up the garden!",
+   "shock"
+  ],
+  "watching_fireworks": [
+   "Remember your earplugs, old chap.",
+   "calm"
+  ],
+  "watering_plants": [
+   "A tidy English garden brings immense inner peace.",
+   "calm"
+  ],
+  "on_a_video_call": [
+   "You are on mute, by the way.",
+   "calm"
+  ],
+  "receiving_a_package": [
+   "The postman left it behind the recycling bin.",
+   "calm"
+  ],
+  "hearing_thunder": [
+   "Splendid! Now I have an excuse to stay in.",
+   "calm"
+  ],
+  "going_stargazing": [
+   "Typical, one cloud rolled right over the moon.",
+   "cry"
+  ],
+  "countries_at_a_concert": [
+   "I prefer sitting quietly near the back stage.",
+   "calm"
+  ],
+  "countries_receiving_a_pa": [
+   "Thanking the delivery driver five times is essential.",
+   "calm"
+  ],
+  "countries_packing_a_suit": [
+   "Did I pack an umbrella? Packing three more.",
+   "calm"
+  ],
+  "countries_at_the_ice_cre": [
+   "A simple flake in soft serve will do.",
+   "calm"
+  ],
+  "countries_in_the_subway": [
+   "Mind the gap and please do not stare.",
+   "calm"
   ]
  },
  "ES": {
@@ -2926,6 +3690,50 @@ LINES = {
   "group_photo": [
    "Hurry up, the sun is going down!",
    "happy"
+  ],
+  "packing_suitcase": [
+   "I will pack five minutes before leaving!",
+   "cool"
+  ],
+  "tracking_a_package": [
+   "It arrives when it arrives, relax!",
+   "sleepy"
+  ],
+  "forgetting_a_name": [
+   "Amigo! Tell me your life story again!",
+   "happy"
+  ],
+  "spring_cleaning": [
+   "Open windows wide, play music, and start dancing!",
+   "happy"
+  ],
+  "streaming_choice": [
+   "Put anything on, we are talking anyway!",
+   "happy"
+  ],
+  "swimming_pool": [
+   "Siesta on the sun lounger is superior swimming.",
+   "sleepy"
+  ],
+  "first_day_spring": [
+   "The café terraces are overflowing with laughter today.",
+   "calm"
+  ],
+  "all_you_can_eat_buffet": [
+   "I will be sitting here for three hours.",
+   "cool"
+  ],
+  "cleaning_house": [
+   "Cleaning now means a peaceful afternoon siesta later.",
+   "sleepy"
+  ],
+  "countries_at_a_concert": [
+   "We will dance all night until dawn comes!",
+   "love"
+  ],
+  "countries_in_the_subway": [
+   "Taking a peaceful quick nap until my stop.",
+   "sleepy"
   ]
  },
  "NL": {
@@ -3079,6 +3887,50 @@ LINES = {
   ],
   "at_the_beach": [
    "Time to build the most massive sandcastle!",
+   "happy"
+  ],
+  "tracking_a_package": [
+   "He is arriving on a cargo bike!",
+   "cool"
+  ],
+  "building_a_snowman": [
+   "He is wearing a bright orange carrot nose!",
+   "happy"
+  ],
+  "riding_a_bicycle": [
+   "Born on two wheels. I can sleep biking.",
+   "cool"
+  ],
+  "learning_to_ice_skate": [
+   "Speed skating sprint time! Watch me zoom!",
+   "happy"
+  ],
+  "building_snowman": [
+   "Gave him an orange scarf and a tiny carrot!",
+   "happy"
+  ],
+  "swimming_pool": [
+   "We practically live in water, this is home.",
+   "happy"
+  ],
+  "riding_bicycle": [
+   "Three kids, groceries, and an umbrella while pedaling.",
+   "cool"
+  ],
+  "online_delivery": [
+   "Delivered by a bike courier in pouring rain!",
+   "cool"
+  ],
+  "watering_plants": [
+   "Drink up, little tulips! Grow tall and bright!",
+   "love"
+  ],
+  "countries_ice_skating": [
+   "Out of my way, speed skating champion coming!",
+   "happy"
+  ],
+  "countries_receiving_a_pa": [
+   "The bubble wrap popping is the true gift!",
    "happy"
   ]
  },
@@ -3310,6 +4162,30 @@ LINES = {
   "washing_dishes": [
    "Eco-friendly sponge only, please.",
    "calm"
+  ],
+  "at_a_concert": [
+   "I wrote this pop melody three years ago.",
+   "cool"
+  ],
+  "buffet_time": [
+   "Just taking my fair lagom share, thank you.",
+   "calm"
+  ],
+  "fresh_bread": [
+   "Crispbread with salted butter makes my soul sing.",
+   "calm"
+  ],
+  "first_day_spring": [
+   "It reached ten degrees! Everyone outside in shorts!",
+   "happy"
+  ],
+  "when_autumn_begins": [
+   "Cozy knit sweaters are finally making a comeback.",
+   "sleepy"
+  ],
+  "countries_on_a_rollercoa": [
+   "This safety harness seems remarkably well engineered.",
+   "cool"
   ]
  },
  "NO": {
@@ -3468,6 +4344,30 @@ LINES = {
   "sports": [
    "Skiing. Born with skis.",
    "cool"
+  ],
+  "building_a_snowman": [
+   "Sculpted with aerodynamic Scandinavian precision.",
+   "cool"
+  ],
+  "learning_to_ice_skate": [
+   "Gliding effortlessly across the frozen fjord.",
+   "cool"
+  ],
+  "building_snowman": [
+   "We gave him skis! Ready for the slopes!",
+   "happy"
+  ],
+  "streaming_choice": [
+   "Eight hours of a train ride video? Perfect.",
+   "sleepy"
+  ],
+  "ice_skating": [
+   "Effortlessly gliding across the frozen fjord like wind.",
+   "calm"
+  ],
+  "hearing_thunder": [
+   "Thor is having a busy day up there.",
+   "cool"
   ]
  },
  "PL": {
@@ -3610,6 +4510,14 @@ LINES = {
   "building_furniture": [
    "Give me twenty minutes and it is done!",
    "cool"
+  ],
+  "online_delivery": [
+   "Already running down to the parcel locker box!",
+   "happy"
+  ],
+  "cleaning_house": [
+   "Window shine test: completely spotless!",
+   "happy"
   ]
  },
  "CH": {
@@ -3755,6 +4663,10 @@ LINES = {
   ],
   "full_elevator": [
    "I will gladly take the stairs instead.",
+   "cool"
+  ],
+  "going_stargazing": [
+   "High Alpine skies offer crystal clear visibility.",
    "cool"
   ]
  },
@@ -4190,6 +5102,14 @@ LINES = {
   "at_the_beach": [
    "Floating on the water all day is paradise.",
    "love"
+  ],
+  "first_day_spring": [
+   "Smell the orange blossoms under the clear sky.",
+   "calm"
+  ],
+  "going_stargazing": [
+   "I can point out every classical constellation tonight.",
+   "cool"
   ]
  },
  "CO": {
@@ -4307,6 +5227,14 @@ LINES = {
   ],
   "dentist": [
    "Smile for the selfie after!",
+   "happy"
+  ],
+  "watering_plants": [
+   "My coffee bushes are blooming beautifully today!",
+   "happy"
+  ],
+  "countries_at_a_concert": [
+   "Salsa rhythms make it impossible to stand still!",
    "happy"
   ]
  },
@@ -4494,6 +5422,18 @@ LINES = {
   "washing_dishes": [
    "Turn on the radio, dishes will fly by!",
    "happy"
+  ],
+  "learning_to_ice_skate": [
+   "Brrr! Where is the nearest tropical heater?!",
+   "shiver"
+  ],
+  "watering_plants": [
+   "Do not forget to sing to the flowers!",
+   "happy"
+  ],
+  "hearing_thunder": [
+   "Time to light candles just in case!",
+   "calm"
   ]
  },
  "VN": {
@@ -4620,6 +5560,10 @@ LINES = {
   "umbrella": [
    "Poncho on the motorbike!",
    "cool"
+  ],
+  "tasting_street_food": [
+   "This broth has been simmering since yesterday.",
+   "calm"
   ]
  },
  "TH": {
@@ -4769,6 +5713,14 @@ LINES = {
   ],
   "flea_market": [
    "Smile first, then the best bargain appears!",
+   "happy"
+  ],
+  "tasting_street_food": [
+   "Sweet, sour, spicy, and cooked in ten seconds!",
+   "happy"
+  ],
+  "countries_at_the_ice_cre": [
+   "Rolled ice cream prepared right in front of you!",
    "happy"
   ]
  },
@@ -4984,6 +5936,74 @@ LINES = {
   "group_photo": [
    "Wait, my scarf must drape naturally first.",
    "cool"
+  ],
+  "packing_suitcase": [
+   "Just wine, cheese, and one chic scarf.",
+   "love"
+  ],
+  "at_the_buffet": [
+   "The cheese selection is surprisingly acceptable.",
+   "love"
+  ],
+  "seeing_a_spider": [
+   "Sacrebleu! It has eight hairy legs!",
+   "shock"
+  ],
+  "forgetting_a_name": [
+   "I will just offer two cheek kisses instead.",
+   "cool"
+  ],
+  "riding_a_bicycle": [
+   "Chasing the yellow jersey up this mountain!",
+   "angry"
+  ],
+  "at_a_drive_thru": [
+   "A drive-thru bakery? An outrage to French tradition!",
+   "angry"
+  ],
+  "buffet_time": [
+   "Quality over quantity, though the cheese wheel tempts.",
+   "cool"
+  ],
+  "riding_bicycle": [
+   "Pedaling up that steep mountain like the grand tour!",
+   "cool"
+  ],
+  "all_you_can_eat_buffet": [
+   "Is that processed cheese? Sacré bleu, no!",
+   "shock"
+  ],
+  "cleaning_house": [
+   "A little dust gives the room antique charm.",
+   "calm"
+  ],
+  "watching_fireworks": [
+   "A dazzling spectacle over the river!",
+   "happy"
+  ],
+  "on_a_video_call": [
+   "Why must cameras always catch my bad angle?",
+   "cry"
+  ],
+  "receiving_a_package": [
+   "I love the sound of tearing shipping paper.",
+   "love"
+  ],
+  "when_autumn_begins": [
+   "Crunching fallen leaves under my chic boots.",
+   "cool"
+  ],
+  "going_stargazing": [
+   "So romantic under the twinkling celestial canopy.",
+   "love"
+  ],
+  "countries_at_the_bakery": [
+   "If this croissant is not flaky, I revolt!",
+   "angry"
+  ],
+  "countries_packing_a_suit": [
+   "Only essential chic garments make the final cut.",
+   "cool"
   ]
  },
  "AR": {
@@ -5026,6 +6046,10 @@ LINES = {
   "sports": [
    "Football is religion.",
    "love"
+  ],
+  "at_a_concert": [
+   "We are bouncing! The whole stadium is jumping!",
+   "happy"
   ]
  },
  "KR": {
@@ -5288,6 +6312,46 @@ LINES = {
   "group_photo": [
    "Let me check the lighting filter real quick.",
    "calm"
+  ],
+  "at_the_buffet": [
+   "Pass the kimchi, this plate needs more kick!",
+   "angry"
+  ],
+  "at_a_concert": [
+   "Lightstick synced! Synchronized fan chant ready!",
+   "love"
+  ],
+  "online_delivery": [
+   "Ordered at midnight, arrived at dawn! Instant magic!",
+   "happy"
+  ],
+  "first_day_spring": [
+   "Spring festival with strawberry treats in the park!",
+   "happy"
+  ],
+  "all_you_can_eat_buffet": [
+   "Pass the kimchi refill right now, please!",
+   "happy"
+  ],
+  "on_a_video_call": [
+   "Virtual filter makes my skin look so clear!",
+   "love"
+  ],
+  "countries_at_a_concert": [
+   "We have synchronized fan chants for every song!",
+   "love"
+  ],
+  "countries_receiving_a_pa": [
+   "Tracking the box every single minute online now!",
+   "shock"
+  ],
+  "countries_at_the_bowling": [
+   "Specialized bowling shoes boost my score by ten!",
+   "cool"
+  ],
+  "countries_in_the_subway": [
+   "Fast Wi-Fi on train makes commute feel instant!",
+   "happy"
   ]
  },
  "IE": {
@@ -5394,6 +6458,10 @@ LINES = {
   "zoo": [
    "Alpacas! Not llamas!",
    "angry"
+  ],
+  "going_stargazing": [
+   "Our ancient ancestors mapped every single one.",
+   "calm"
   ]
  },
  "DK": {
@@ -5427,6 +6495,10 @@ LINES = {
   ],
   "umbrella": [
    "Rain jacket. Bike anyway.",
+   "cool"
+  ],
+  "riding_a_bicycle": [
+   "Clear the dedicated cycle superhighway, please!",
    "cool"
   ]
  },
@@ -5506,6 +6578,50 @@ LINES = {
   "group_photo": [
    "Can I stand in the very back row?",
    "calm"
+  ],
+  "seeing_a_spider": [
+   "It is quiet. I respect that.",
+   "sleepy"
+  ],
+  "at_a_concert": [
+   "Too loud. Too many people standing near me.",
+   "shiver"
+  ],
+  "building_a_snowman": [
+   "Good. Now nobody talk to him.",
+   "calm"
+  ],
+  "spring_cleaning": [
+   "Dust gone. House silent again.",
+   "sleepy"
+  ],
+  "learning_to_ice_skate": [
+   "Step onto ice, do not show any fear.",
+   "calm"
+  ],
+  "building_snowman": [
+   "He stands alone silently in the peaceful white forest.",
+   "calm"
+  ],
+  "swimming_pool": [
+   "Pool is nice, but where is the sauna?",
+   "cool"
+  ],
+  "trying_yoga": [
+   "Quiet stretching in total solitude? This is heaven.",
+   "love"
+  ],
+  "ice_skating": [
+   "Silent night glide under the northern lights glow.",
+   "calm"
+  ],
+  "countries_ice_skating": [
+   "Gliding smoothly across ice is pure peaceful joy.",
+   "calm"
+  ],
+  "countries_at_a_concert": [
+   "Heavy metal music cleanses my quiet soul completely.",
+   "cool"
   ]
  },
  "AT": {
@@ -5540,6 +6656,10 @@ LINES = {
   "sports": [
    "Skiing down the Alps!",
    "cool"
+  ],
+  "ice_skating": [
+   "Waltzing gracefully across the rink to classical music.",
+   "love"
   ]
  },
  "HU": {

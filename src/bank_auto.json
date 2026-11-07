@@ -376,5 +376,1405 @@
     "calm"
    ]
   }
+ },
+ "packing_suitcase": {
+  "title": "COUNTRIES PACKING A SUITCASE",
+  "scene": "living",
+  "name": "Suitcase Packing",
+  "lines": {
+   "DE": [
+    "Everything is rolled, labeled, and color coded.",
+    "cool"
+   ],
+   "US": [
+    "I packed eight outfits for a weekend trip.",
+    "happy"
+   ],
+   "IT": [
+    "Five pairs of shoes are strictly essential.",
+    "calm"
+   ],
+   "JP": [
+    "Folded with millimeter precision to save space.",
+    "calm"
+   ],
+   "FR": [
+    "Just wine, cheese, and one chic scarf.",
+    "love"
+   ],
+   "ES": [
+    "I will pack five minutes before leaving!",
+    "cool"
+   ],
+   "BR": [
+    "Swimwear packed! Do I need anything else?",
+    "happy"
+   ]
+  }
+ },
+ "at_the_buffet": {
+  "title": "COUNTRIES AT THE BUFFET",
+  "scene": "market",
+  "name": "Buffet Feasting",
+  "lines": {
+   "US": [
+    "Round four, here I come!",
+    "happy"
+   ],
+   "IT": [
+    "Wait, someone put pineapple next to pasta?!",
+    "shock"
+   ],
+   "JP": [
+    "I will politely take a balanced, small portion.",
+    "calm"
+   ],
+   "IN": [
+    "I brought my own hot sauce just in case.",
+    "cool"
+   ],
+   "FR": [
+    "The cheese selection is surprisingly acceptable.",
+    "love"
+   ],
+   "DE": [
+    "I mapped out the most efficient plate strategy.",
+    "cool"
+   ],
+   "BR": [
+    "Where is the meat? Fill the whole plate!",
+    "happy"
+   ],
+   "KR": [
+    "Pass the kimchi, this plate needs more kick!",
+    "angry"
+   ]
+  }
+ },
+ "seeing_a_spider": {
+  "title": "COUNTRIES SEEING A SPIDER",
+  "scene": "living",
+  "name": "Spider Sighting",
+  "lines": {
+   "FR": [
+    "Sacrebleu! It has eight hairy legs!",
+    "shock"
+   ],
+   "DE": [
+    "Do not panic, it catches annoying flies.",
+    "calm"
+   ],
+   "US": [
+    "Grab the broom and call the fire department!",
+    "cry"
+   ],
+   "JP": [
+    "Gently placing a glass cup over it.",
+    "calm"
+   ],
+   "CA": [
+    "Aww, sorry little guy, let me help you outside.",
+    "happy"
+   ],
+   "FI": [
+    "It is quiet. I respect that.",
+    "sleepy"
+   ],
+   "BR": [
+    "That tiny thing? We play soccer with bigger!",
+    "cool"
+   ]
+  }
+ },
+ "tracking_a_package": {
+  "title": "COUNTRIES TRACKING A PACKAGE",
+  "scene": "office",
+  "name": "Package Tracking",
+  "lines": {
+   "US": [
+    "It says out for delivery right now!",
+    "happy"
+   ],
+   "DE": [
+    "Estimated arrival 14:02. It is currently 14:03.",
+    "angry"
+   ],
+   "JP": [
+    "The delivery driver bowed when updating status.",
+    "calm"
+   ],
+   "GB": [
+    "Has the postman arrived yet? Putting kettle on.",
+    "calm"
+   ],
+   "NL": [
+    "He is arriving on a cargo bike!",
+    "cool"
+   ],
+   "CA": [
+    "Hope the snow didn't delay the driver, eh?",
+    "calm"
+   ],
+   "IT": [
+    "Refreshing the screen every three seconds!",
+    "shock"
+   ],
+   "ES": [
+    "It arrives when it arrives, relax!",
+    "sleepy"
+   ]
+  }
+ },
+ "at_a_concert": {
+  "title": "COUNTRIES AT A LIVE CONCERT",
+  "scene": "stadium",
+  "name": "Live Concert",
+  "lines": {
+   "BR": [
+    "Singing every lyric at maximum volume!",
+    "happy"
+   ],
+   "GB": [
+    "Splendid tune, gently tapping my shoe.",
+    "cool"
+   ],
+   "KR": [
+    "Lightstick synced! Synchronized fan chant ready!",
+    "love"
+   ],
+   "US": [
+    "Front row tickets! Let me record everything!",
+    "happy"
+   ],
+   "DE": [
+    "The sound engineering here is acoustically impeccable.",
+    "calm"
+   ],
+   "AR": [
+    "We are bouncing! The whole stadium is jumping!",
+    "happy"
+   ],
+   "SE": [
+    "I wrote this pop melody three years ago.",
+    "cool"
+   ],
+   "FI": [
+    "Too loud. Too many people standing near me.",
+    "shiver"
+   ]
+  }
+ },
+ "building_a_snowman": {
+  "title": "COUNTRIES BUILDING A SNOWMAN",
+  "scene": "snow",
+  "name": "Snowman Building",
+  "lines": {
+   "NO": [
+    "Sculpted with aerodynamic Scandinavian precision.",
+    "cool"
+   ],
+   "IT": [
+    "His scarf must be cashmere, absolutely stylish.",
+    "love"
+   ],
+   "NL": [
+    "He is wearing a bright orange carrot nose!",
+    "happy"
+   ],
+   "DE": [
+    "Snow density checked: structural integrity verified.",
+    "calm"
+   ],
+   "BR": [
+    "Wait, why are my hands freezing solid?!",
+    "shiver"
+   ],
+   "MX": [
+    "Can we put a sombrero on him?",
+    "happy"
+   ],
+   "FI": [
+    "Good. Now nobody talk to him.",
+    "calm"
+   ]
+  }
+ },
+ "forgetting_a_name": {
+  "title": "COUNTRIES FORGETTING SOMEONE'S NAME",
+  "scene": "party",
+  "name": "Name Amnesia",
+  "lines": {
+   "GB": [
+    "Hello there... my good chap!",
+    "calm"
+   ],
+   "US": [
+    "Hey buddy! How's it going, my man?",
+    "happy"
+   ],
+   "FR": [
+    "I will just offer two cheek kisses instead.",
+    "cool"
+   ],
+   "JP": [
+    "Politely bowing lower so I avoid guessing.",
+    "shock"
+   ],
+   "CA": [
+    "I am so deeply sorry, please forgive me!",
+    "cry"
+   ],
+   "IT": [
+    "Ey! Look at this magnificent friend right here!",
+    "love"
+   ],
+   "ES": [
+    "Amigo! Tell me your life story again!",
+    "happy"
+   ],
+   "DE": [
+    "Please display official name badge at all times.",
+    "angry"
+   ]
+  }
+ },
+ "tasting_street_food": {
+  "title": "COUNTRIES TASTING STREET FOOD",
+  "scene": "market",
+  "name": "Street Food Tour",
+  "lines": {
+   "TH": [
+    "Sweet, sour, spicy, and cooked in ten seconds!",
+    "happy"
+   ],
+   "MX": [
+    "Needs fresh lime and extra hot salsa on top!",
+    "love"
+   ],
+   "VN": [
+    "This broth has been simmering since yesterday.",
+    "calm"
+   ],
+   "US": [
+    "Deep fried on a stick? Count me in!",
+    "happy"
+   ],
+   "IT": [
+    "Fold the pizza slice in half and walk!",
+    "cool"
+   ],
+   "IN": [
+    "Crispy, tangy, and bursting with flavors!",
+    "happy"
+   ],
+   "TR": [
+    "Wrap it up fresh with garlic sauce, please!",
+    "love"
+   ]
+  }
+ },
+ "riding_a_bicycle": {
+  "title": "COUNTRIES RIDING A BICYCLE",
+  "scene": "park",
+  "name": "Bicycle Ride",
+  "lines": {
+   "NL": [
+    "Born on two wheels. I can sleep biking.",
+    "cool"
+   ],
+   "DK": [
+    "Clear the dedicated cycle superhighway, please!",
+    "cool"
+   ],
+   "FR": [
+    "Chasing the yellow jersey up this mountain!",
+    "angry"
+   ],
+   "IT": [
+    "Vintage stylish frame, cycling to grab an espresso.",
+    "love"
+   ],
+   "US": [
+    "Where are the cup holders for my giant drink?",
+    "shock"
+   ],
+   "JP": [
+    "Bicycle basket holds my groceries perfectly.",
+    "happy"
+   ],
+   "CA": [
+    "Dodging snowbanks on fat winter tires!",
+    "happy"
+   ]
+  }
+ },
+ "spring_cleaning": {
+  "title": "COUNTRIES DOING SPRING CLEANING",
+  "scene": "living",
+  "name": "Spring Cleaning",
+  "lines": {
+   "JP": [
+    "Does this object spark joy? If not, goodbye.",
+    "calm"
+   ],
+   "DE": [
+    "Sweeping with military precision and exact checklists.",
+    "cool"
+   ],
+   "US": [
+    "I bought five new gadgets to clean faster!",
+    "happy"
+   ],
+   "GB": [
+    "Found old tea tins from 1994 behind cupboard.",
+    "shock"
+   ],
+   "IT": [
+    "Mamma cleans windows until they are invisible glass.",
+    "love"
+   ],
+   "ES": [
+    "Open windows wide, play music, and start dancing!",
+    "happy"
+   ],
+   "FI": [
+    "Dust gone. House silent again.",
+    "sleepy"
+   ]
+  }
+ },
+ "learning_to_ice_skate": {
+  "title": "COUNTRIES LEARNING TO ICE SKATE",
+  "scene": "snow",
+  "name": "Ice Skating Lessons",
+  "lines": {
+   "CA": [
+    "I started skating before I could walk, eh!",
+    "cool"
+   ],
+   "NO": [
+    "Gliding effortlessly across the frozen fjord.",
+    "cool"
+   ],
+   "NL": [
+    "Speed skating sprint time! Watch me zoom!",
+    "happy"
+   ],
+   "BR": [
+    "Why is the floor made of slippery ice?!",
+    "shock"
+   ],
+   "US": [
+    "Hugging the wall for dear life right now!",
+    "cry"
+   ],
+   "FI": [
+    "Step onto ice, do not show any fear.",
+    "calm"
+   ],
+   "IT": [
+    "My balance is gone, but my coat looks fabulous!",
+    "love"
+   ],
+   "PH": [
+    "Brrr! Where is the nearest tropical heater?!",
+    "shiver"
+   ]
+  }
+ },
+ "at_a_drive_thru": {
+  "title": "COUNTRIES ORDERING AT A DRIVE-THRU",
+  "scene": "city",
+  "name": "Drive-Thru Lane",
+  "lines": {
+   "US": [
+    "Supersize everything and add two apple pies!",
+    "happy"
+   ],
+   "IT": [
+    "You want me to eat gourmet in a car?!",
+    "shock"
+   ],
+   "DE": [
+    "Clear your order in under forty seconds, please.",
+    "angry"
+   ],
+   "GB": [
+    "Pardon me through this crackly speaker, good sir?",
+    "calm"
+   ],
+   "MX": [
+    "Can I get extra salsa packets with that?",
+    "love"
+   ],
+   "FR": [
+    "A drive-thru bakery? An outrage to French tradition!",
+    "angry"
+   ],
+   "CA": [
+    "Two double-doubles and a box of Timbits, please!",
+    "happy"
+   ],
+   "JP": [
+    "Bowing politely at the automated speaker box.",
+    "calm"
+   ]
+  }
+ },
+ "buffet_time": {
+  "title": "COUNTRIES AT AN ALL-YOU-CAN-EAT BUFFET",
+  "scene": "kitchen",
+  "name": "Buffet Time",
+  "lines": {
+   "US": [
+    "My plate has its own gravitational pull right now!",
+    "happy"
+   ],
+   "IT": [
+    "Who put pineapple next to the pasta section?!",
+    "angry"
+   ],
+   "BR": [
+    "Round four begins! Keep the skewers coming, please!",
+    "happy"
+   ],
+   "TR": [
+    "Fill the table until wood is not visible!",
+    "love"
+   ],
+   "FR": [
+    "Quality over quantity, though the cheese wheel tempts.",
+    "cool"
+   ],
+   "SE": [
+    "Just taking my fair lagom share, thank you.",
+    "calm"
+   ],
+   "IN": [
+    "Is this spicy curry unlimited? Today is paradise!",
+    "love"
+   ]
+  }
+ },
+ "building_snowman": {
+  "title": "COUNTRIES BUILDING A SNOWMAN",
+  "scene": "snow",
+  "name": "Building Snowman",
+  "lines": {
+   "CA": [
+    "He needs a proper hockey stick and wool toque!",
+    "happy"
+   ],
+   "FI": [
+    "He stands alone silently in the peaceful white forest.",
+    "calm"
+   ],
+   "NO": [
+    "We gave him skis! Ready for the slopes!",
+    "happy"
+   ],
+   "BR": [
+    "Is this cold stuff actually supposed to stay frozen?!",
+    "shiver"
+   ],
+   "NL": [
+    "Gave him an orange scarf and a tiny carrot!",
+    "happy"
+   ],
+   "MX": [
+    "It is so cold, but this snowman is adorable!",
+    "love"
+   ]
+  }
+ },
+ "streaming_choice": {
+  "title": "COUNTRIES CHOOSING WHAT TO WATCH",
+  "scene": "living",
+  "name": "Choosing What to Watch",
+  "lines": {
+   "US": [
+    "We scrolled through movies for two hours already!",
+    "cry"
+   ],
+   "GB": [
+    "A quiet costume drama with tea, obviously.",
+    "calm"
+   ],
+   "DE": [
+    "A four-hour documentary on precision logistics, please.",
+    "cool"
+   ],
+   "JP": [
+    "New anime season just dropped twelve new episodes!",
+    "happy"
+   ],
+   "ES": [
+    "Put anything on, we are talking anyway!",
+    "happy"
+   ],
+   "NO": [
+    "Eight hours of a train ride video? Perfect.",
+    "sleepy"
+   ]
+  }
+ },
+ "swimming_pool": {
+  "title": "COUNTRIES AT A SWIMMING POOL",
+  "scene": "sun",
+  "name": "Swimming Pool",
+  "lines": {
+   "BR": [
+    "Cannonball into the deep end! Let us party!",
+    "happy"
+   ],
+   "GB": [
+    "Applying factor fifty sunscreen every three minutes.",
+    "shock"
+   ],
+   "ES": [
+    "Siesta on the sun lounger is superior swimming.",
+    "sleepy"
+   ],
+   "FI": [
+    "Pool is nice, but where is the sauna?",
+    "cool"
+   ],
+   "US": [
+    "Look at this gigantic inflatable pizza float!",
+    "happy"
+   ],
+   "NL": [
+    "We practically live in water, this is home.",
+    "happy"
+   ]
+  }
+ },
+ "fresh_bread": {
+  "title": "COUNTRIES WHEN FRESH BREAD ARRIVES",
+  "scene": "kitchen",
+  "name": "Fresh Bread",
+  "lines": {
+   "DE": [
+    "Thick hearty sourdough slice with pure golden butter.",
+    "love"
+   ],
+   "IT": [
+    "Dip it into extra virgin olive oil immediately!",
+    "happy"
+   ],
+   "TR": [
+    "Still hot from the stone oven! Pure bliss!",
+    "love"
+   ],
+   "IN": [
+    "Fresh buttery naan straight from the tandoor!",
+    "love"
+   ],
+   "US": [
+    "Slather on peanut butter and jelly right now!",
+    "cool"
+   ],
+   "SE": [
+    "Crispbread with salted butter makes my soul sing.",
+    "calm"
+   ]
+  }
+ },
+ "riding_bicycle": {
+  "title": "COUNTRIES RIDING A BICYCLE",
+  "scene": "park",
+  "name": "Riding a Bicycle",
+  "lines": {
+   "NL": [
+    "Three kids, groceries, and an umbrella while pedaling.",
+    "cool"
+   ],
+   "FR": [
+    "Pedaling up that steep mountain like the grand tour!",
+    "cool"
+   ],
+   "IT": [
+    "Vintage bicycle with a basket of fresh sunflowers.",
+    "love"
+   ],
+   "US": [
+    "I drove twenty miles to bike in this park.",
+    "calm"
+   ],
+   "GB": [
+    "Ringing my little silver bell politely at pedestrians.",
+    "calm"
+   ]
+  }
+ },
+ "trying_yoga": {
+  "title": "COUNTRIES TRYING YOGA",
+  "scene": "park",
+  "name": "Trying Yoga",
+  "lines": {
+   "IN": [
+    "Breathe in deeply, find peace, align your spirit.",
+    "calm"
+   ],
+   "US": [
+    "Does goat yoga come with an organic smoothie?",
+    "happy"
+   ],
+   "DE": [
+    "My spine does not bend at this precise angle.",
+    "angry"
+   ],
+   "BR": [
+    "Can we do downward dog to samba music instead?",
+    "happy"
+   ],
+   "FI": [
+    "Quiet stretching in total solitude? This is heaven.",
+    "love"
+   ],
+   "IT": [
+    "I cannot do tree pose without moving my hands!",
+    "shock"
+   ],
+   "CA": [
+    "Sorry to the floor mat I just fell on!",
+    "cry"
+   ]
+  }
+ },
+ "online_delivery": {
+  "title": "COUNTRIES RECEIVING AN ONLINE DELIVERY",
+  "scene": "living",
+  "name": "Online Delivery",
+  "lines": {
+   "KR": [
+    "Ordered at midnight, arrived at dawn! Instant magic!",
+    "happy"
+   ],
+   "US": [
+    "Another giant cardboard box for my collection!",
+    "happy"
+   ],
+   "GB": [
+    "The parcel was hidden behind my recycling bin!",
+    "shock"
+   ],
+   "PL": [
+    "Already running down to the parcel locker box!",
+    "happy"
+   ],
+   "NL": [
+    "Delivered by a bike courier in pouring rain!",
+    "cool"
+   ]
+  }
+ },
+ "first_day_spring": {
+  "title": "COUNTRIES ON THE FIRST DAY OF SPRING",
+  "scene": "sun",
+  "name": "First Day of Spring",
+  "lines": {
+   "SE": [
+    "It reached ten degrees! Everyone outside in shorts!",
+    "happy"
+   ],
+   "GB": [
+    "One ray of sunshine! Fire up the garden!",
+    "shock"
+   ],
+   "CA": [
+    "Snow melted! The driveway is visible again, eh?!",
+    "happy"
+   ],
+   "ES": [
+    "The café terraces are overflowing with laughter today.",
+    "calm"
+   ],
+   "GR": [
+    "Smell the orange blossoms under the clear sky.",
+    "calm"
+   ],
+   "KR": [
+    "Spring festival with strawberry treats in the park!",
+    "happy"
+   ]
+  }
+ },
+ "ice_skating": {
+  "title": "COUNTRIES AT AN ICE SKATING RINK",
+  "scene": "snow",
+  "name": "Ice Skating Rink",
+  "lines": {
+   "CA": [
+    "I was born on skates! Pass the puck!",
+    "cool"
+   ],
+   "JP": [
+    "Triple axel spin landed with absolute delicate grace.",
+    "cool"
+   ],
+   "BR": [
+    "The ice is slippery! I am hugging the wall!",
+    "shock"
+   ],
+   "NO": [
+    "Effortlessly gliding across the frozen fjord like wind.",
+    "calm"
+   ],
+   "AT": [
+    "Waltzing gracefully across the rink to classical music.",
+    "love"
+   ],
+   "US": [
+    "Falling down in slow motion, but stylishly, bro!",
+    "happy"
+   ],
+   "FI": [
+    "Silent night glide under the northern lights glow.",
+    "calm"
+   ]
+  }
+ },
+ "all_you_can_eat_buffet": {
+  "title": "COUNTRIES AT AN ALL-YOU-CAN-EAT BUFFET",
+  "scene": "party",
+  "name": "Buffet",
+  "lines": {
+   "US": [
+    "Plate number four, here I come!",
+    "happy"
+   ],
+   "IT": [
+    "Wait, do not mix pasta and bread!",
+    "shock"
+   ],
+   "JP": [
+    "Everything is so neatly arranged and fresh.",
+    "calm"
+   ],
+   "BR": [
+    "Where is the meat section? Show me!",
+    "happy"
+   ],
+   "DE": [
+    "I must calculate the optimal calorie-to-price ratio.",
+    "cool"
+   ],
+   "FR": [
+    "Is that processed cheese? Sacré bleu, no!",
+    "shock"
+   ],
+   "KR": [
+    "Pass the kimchi refill right now, please!",
+    "happy"
+   ],
+   "ES": [
+    "I will be sitting here for three hours.",
+    "cool"
+   ]
+  }
+ },
+ "cleaning_house": {
+  "title": "COUNTRIES CLEANING THE HOUSE",
+  "scene": "living",
+  "name": "Cleaning House",
+  "lines": {
+   "JP": [
+    "Time for Oosouji! Every corner must sparkle.",
+    "happy"
+   ],
+   "TR": [
+    "Turn on music, it is deep cleaning time!",
+    "happy"
+   ],
+   "ES": [
+    "Cleaning now means a peaceful afternoon siesta later.",
+    "sleepy"
+   ],
+   "FR": [
+    "A little dust gives the room antique charm.",
+    "calm"
+   ],
+   "MX": [
+    "Broom in hand, cumbia playing loudly!",
+    "happy"
+   ],
+   "IT": [
+    "Who left a tiny smudge on my mirror?!",
+    "angry"
+   ],
+   "PL": [
+    "Window shine test: completely spotless!",
+    "happy"
+   ]
+  }
+ },
+ "watching_fireworks": {
+  "title": "COUNTRIES WATCHING FIREWORKS",
+  "scene": "night",
+  "name": "Fireworks",
+  "lines": {
+   "JP": [
+    "Hanabi season is simply breathtaking.",
+    "love"
+   ],
+   "US": [
+    "Bigger! Louder! Light up the whole sky!",
+    "happy"
+   ],
+   "GB": [
+    "Remember your earplugs, old chap.",
+    "calm"
+   ],
+   "IT": [
+    "Bella! The colors are like painted art!",
+    "love"
+   ],
+   "DE": [
+    "Safety distance of fifty meters strictly respected.",
+    "cool"
+   ],
+   "MX": [
+    "More sparkle and more rhythm, please!",
+    "happy"
+   ],
+   "CA": [
+    "Ooh, that golden waterfall effect was magnificent, eh?",
+    "shock"
+   ],
+   "FR": [
+    "A dazzling spectacle over the river!",
+    "happy"
+   ]
+  }
+ },
+ "watering_plants": {
+  "title": "COUNTRIES WATERING THEIR PLANTS",
+  "scene": "park",
+  "name": "Watering Plants",
+  "lines": {
+   "GB": [
+    "A tidy English garden brings immense inner peace.",
+    "calm"
+   ],
+   "NL": [
+    "Drink up, little tulips! Grow tall and bright!",
+    "love"
+   ],
+   "CO": [
+    "My coffee bushes are blooming beautifully today!",
+    "happy"
+   ],
+   "IT": [
+    "Fresh basil needs special love and daily sunshine.",
+    "love"
+   ],
+   "DE": [
+    "Exactly two hundred milliliters per potted plant.",
+    "cool"
+   ],
+   "BR": [
+    "Welcome to my balcony jungle!",
+    "happy"
+   ],
+   "PH": [
+    "Do not forget to sing to the flowers!",
+    "happy"
+   ]
+  }
+ },
+ "on_a_video_call": {
+  "title": "COUNTRIES ON A VIDEO CALL",
+  "scene": "office",
+  "name": "Video Call",
+  "lines": {
+   "US": [
+    "Hey everyone, can you hear me okay?",
+    "happy"
+   ],
+   "GB": [
+    "You are on mute, by the way.",
+    "calm"
+   ],
+   "IT": [
+    "Look, my hand gestures do not fit camera!",
+    "angry"
+   ],
+   "JP": [
+    "Polite nod every three seconds to show engagement.",
+    "cool"
+   ],
+   "FR": [
+    "Why must cameras always catch my bad angle?",
+    "cry"
+   ],
+   "KR": [
+    "Virtual filter makes my skin look so clear!",
+    "love"
+   ],
+   "DE": [
+    "Meeting agenda has seven minutes remaining. Proceed.",
+    "calm"
+   ],
+   "BR": [
+    "Wait, sorry, my pet parrot is singing!",
+    "shock"
+   ]
+  }
+ },
+ "receiving_a_package": {
+  "title": "COUNTRIES RECEIVING A PACKAGE",
+  "scene": "living",
+  "name": "Receiving Package",
+  "lines": {
+   "US": [
+    "Same-day drone delivery is finally here!",
+    "happy"
+   ],
+   "JP": [
+    "Impeccable bubble wrap, not a single scratch.",
+    "calm"
+   ],
+   "GB": [
+    "The postman left it behind the recycling bin.",
+    "calm"
+   ],
+   "IT": [
+    "Fresh pecorino shipped directly from Nonna!",
+    "love"
+   ],
+   "BR": [
+    "Delivery arrived earlier than expected? Miracle!",
+    "shock"
+   ],
+   "FR": [
+    "I love the sound of tearing shipping paper.",
+    "love"
+   ],
+   "CA": [
+    "Thank you so much, friendly delivery driver!",
+    "happy"
+   ]
+  }
+ },
+ "when_autumn_begins": {
+  "title": "COUNTRIES WHEN AUTUMN BEGINS",
+  "scene": "park",
+  "name": "Autumn Begins",
+  "lines": {
+   "CA": [
+    "Maple leaves turning red and gold, pure heaven.",
+    "love"
+   ],
+   "US": [
+    "Pumpkin spice in everything starting right now!",
+    "happy"
+   ],
+   "JP": [
+    "Momijigari leaf viewing walks are so serene.",
+    "calm"
+   ],
+   "FR": [
+    "Crunching fallen leaves under my chic boots.",
+    "cool"
+   ],
+   "SE": [
+    "Cozy knit sweaters are finally making a comeback.",
+    "sleepy"
+   ]
+  }
+ },
+ "hearing_thunder": {
+  "title": "COUNTRIES HEARING THUNDER",
+  "scene": "rain",
+  "name": "Hearing Thunder",
+  "lines": {
+   "GB": [
+    "Splendid! Now I have an excuse to stay in.",
+    "calm"
+   ],
+   "IT": [
+    "Mamma mia, that struck really close by!",
+    "shock"
+   ],
+   "US": [
+    "Quick, count the seconds between flash and boom!",
+    "happy"
+   ],
+   "NO": [
+    "Thor is having a busy day up there.",
+    "cool"
+   ],
+   "PH": [
+    "Time to light candles just in case!",
+    "calm"
+   ],
+   "JP": [
+    "Check the weather radar on the phone immediately.",
+    "cool"
+   ],
+   "MX": [
+    "That sounded like a drum solo in heaven!",
+    "happy"
+   ],
+   "CA": [
+    "Cozy thunderstorm weather, perfect for hot cocoa.",
+    "love"
+   ]
+  }
+ },
+ "going_stargazing": {
+  "title": "COUNTRIES GOING STARGAZING",
+  "scene": "night",
+  "name": "Stargazing",
+  "lines": {
+   "CH": [
+    "High Alpine skies offer crystal clear visibility.",
+    "cool"
+   ],
+   "US": [
+    "Look! A shooting star! Make a huge wish!",
+    "happy"
+   ],
+   "PE": [
+    "Our ancient ancestors mapped every single one.",
+    "calm"
+   ],
+   "FR": [
+    "So romantic under the twinkling celestial canopy.",
+    "love"
+   ],
+   "CA": [
+    "Northern lights are painting emerald across the dark!",
+    "shock"
+   ],
+   "GR": [
+    "I can point out every classical constellation tonight.",
+    "cool"
+   ],
+   "GB": [
+    "Typical, one cloud rolled right over the moon.",
+    "cry"
+   ],
+   "JP": [
+    "A quiet telescope night brings deep harmony.",
+    "calm"
+   ]
+  }
+ },
+ "countries_ice_skating": {
+  "title": "COUNTRIES TRYING ICE SKATING",
+  "scene": "snow",
+  "name": "Ice Skating",
+  "lines": {
+   "CA": [
+    "I was born wearing these blades on my feet!",
+    "cool"
+   ],
+   "FI": [
+    "Gliding smoothly across ice is pure peaceful joy.",
+    "calm"
+   ],
+   "BR": [
+    "Wait, how do I stop without hitting walls?!",
+    "shock"
+   ],
+   "NL": [
+    "Out of my way, speed skating champion coming!",
+    "happy"
+   ],
+   "IT": [
+    "My ankle twists! This is far too cold!",
+    "cry"
+   ],
+   "JP": [
+    "Targeting a perfect triple axle spin right now.",
+    "cool"
+   ],
+   "MX": [
+    "Who put ice on the ground?! Help me!",
+    "shock"
+   ]
+  }
+ },
+ "countries_at_the_bakery": {
+  "title": "COUNTRIES AT THE BAKERY",
+  "scene": "market",
+  "name": "At The Bakery",
+  "lines": {
+   "FR": [
+    "If this croissant is not flaky, I revolt!",
+    "angry"
+   ],
+   "DE": [
+    "Give me three fresh pretzel loaves immediately, please.",
+    "cool"
+   ],
+   "IT": [
+    "Look at these cannoli! Absolute sweet masterpieces!",
+    "love"
+   ],
+   "TR": [
+    "Fresh simit with sesame seeds is the best!",
+    "happy"
+   ],
+   "US": [
+    "I will take two dozen glazed donuts, thanks!",
+    "happy"
+   ],
+   "MX": [
+    "Pan dulce freshly baked for breakfast is perfect!",
+    "happy"
+   ]
+  }
+ },
+ "countries_at_a_concert": {
+  "title": "COUNTRIES AT A CONCERT",
+  "scene": "party",
+  "name": "At A Concert",
+  "lines": {
+   "BR": [
+    "This beat is amazing! Everyone start dancing now!",
+    "happy"
+   ],
+   "KR": [
+    "We have synchronized fan chants for every song!",
+    "love"
+   ],
+   "GB": [
+    "I prefer sitting quietly near the back stage.",
+    "calm"
+   ],
+   "US": [
+    "Turn up the volume! Front row energy baby!",
+    "cool"
+   ],
+   "FI": [
+    "Heavy metal music cleanses my quiet soul completely.",
+    "cool"
+   ],
+   "CO": [
+    "Salsa rhythms make it impossible to stand still!",
+    "happy"
+   ],
+   "DE": [
+    "The bass frequency is calibrated very precisely here.",
+    "calm"
+   ],
+   "ES": [
+    "We will dance all night until dawn comes!",
+    "love"
+   ]
+  }
+ },
+ "countries_receiving_a_pa": {
+  "title": "COUNTRIES RECEIVING A PACKAGE",
+  "scene": "living",
+  "name": "Receiving A Package",
+  "lines": {
+   "JP": [
+    "The cardboard box is folded with supreme elegance.",
+    "calm"
+   ],
+   "US": [
+    "Same day delivery is the greatest invention ever!",
+    "happy"
+   ],
+   "DE": [
+    "Delivered at 10:00 AM sharp as promised.",
+    "cool"
+   ],
+   "BR": [
+    "Wait, what did I order three weeks ago?",
+    "shock"
+   ],
+   "GB": [
+    "Thanking the delivery driver five times is essential.",
+    "calm"
+   ],
+   "NL": [
+    "The bubble wrap popping is the true gift!",
+    "happy"
+   ],
+   "KR": [
+    "Tracking the box every single minute online now!",
+    "shock"
+   ],
+   "MX": [
+    "Entire family gathered to open this mystery parcel!",
+    "love"
+   ]
+  }
+ },
+ "countries_on_a_rollercoa": {
+  "title": "COUNTRIES ON A ROLLERCOASTER",
+  "scene": "park",
+  "name": "On A Rollercoaster",
+  "lines": {
+   "US": [
+    "Put your hands up for the giant loop!",
+    "cool"
+   ],
+   "IT": [
+    "Mamma mia! My stomach is left behind up!",
+    "shock"
+   ],
+   "SE": [
+    "This safety harness seems remarkably well engineered.",
+    "cool"
+   ],
+   "MX": [
+    "Screaming at top of my lungs right now!",
+    "cry"
+   ],
+   "BR": [
+    "Again! Let us ride this ten more times!",
+    "happy"
+   ],
+   "CA": [
+    "Sorry for screaming so loudly behind you, friend!",
+    "shock"
+   ]
+  }
+ },
+ "countries_packing_a_suit": {
+  "title": "COUNTRIES PACKING A SUITCASE",
+  "scene": "living",
+  "name": "Packing A Suitcase",
+  "lines": {
+   "IT": [
+    "I need five outfits per day minimum for style!",
+    "love"
+   ],
+   "US": [
+    "If it does not fit, sit on it!",
+    "angry"
+   ],
+   "JP": [
+    "Every item vacuum sealed in neat labeled pouches.",
+    "calm"
+   ],
+   "FR": [
+    "Only essential chic garments make the final cut.",
+    "cool"
+   ],
+   "BR": [
+    "Packing five minutes before leaving for the airport!",
+    "shock"
+   ],
+   "GB": [
+    "Did I pack an umbrella? Packing three more.",
+    "calm"
+   ],
+   "IN": [
+    "Packing snacks for the whole journey is vital!",
+    "happy"
+   ]
+  }
+ },
+ "countries_at_the_ice_cre": {
+  "title": "COUNTRIES AT THE ICE CREAM SHOP",
+  "scene": "sun",
+  "name": "Ice Cream Shop",
+  "lines": {
+   "IT": [
+    "Authentic gelato must be scooped with deep passion!",
+    "love"
+   ],
+   "US": [
+    "Three scoops with extra sprinkles and hot fudge!",
+    "happy"
+   ],
+   "TR": [
+    "Try to catch the ice cream from my trick!",
+    "cool"
+   ],
+   "MX": [
+    "Mango with chili powder on top is heaven!",
+    "love"
+   ],
+   "DE": [
+    "Spaghettieis with strawberry sauce is pure perfection.",
+    "happy"
+   ],
+   "TH": [
+    "Rolled ice cream prepared right in front of you!",
+    "happy"
+   ],
+   "GB": [
+    "A simple flake in soft serve will do.",
+    "calm"
+   ]
+  }
+ },
+ "countries_at_the_bowling": {
+  "title": "COUNTRIES AT THE BOWLING ALLEY",
+  "scene": "party",
+  "name": "At The Bowling Alley",
+  "lines": {
+   "US": [
+    "Strike! That curve ball strategy always works out!",
+    "happy"
+   ],
+   "DE": [
+    "Calculating exact angle and momentum for center pin.",
+    "calm"
+   ],
+   "IT": [
+    "Gutter ball?! The lane floor must be crooked!",
+    "angry"
+   ],
+   "JP": [
+    "Bowing to the pins before throwing the ball.",
+    "calm"
+   ],
+   "BR": [
+    "Celebration dance for hitting even one single pin!",
+    "happy"
+   ],
+   "CA": [
+    "Sorry pin, did not mean to hit hard!",
+    "shock"
+   ],
+   "KR": [
+    "Specialized bowling shoes boost my score by ten!",
+    "cool"
+   ],
+   "MX": [
+    "High fives for everyone regardless of the score!",
+    "love"
+   ]
+  }
+ },
+ "countries_in_the_subway": {
+  "title": "COUNTRIES IN THE SUBWAY",
+  "scene": "city",
+  "name": "In The Subway",
+  "lines": {
+   "JP": [
+    "Train arriving precisely at zero seconds past schedule.",
+    "calm"
+   ],
+   "GB": [
+    "Mind the gap and please do not stare.",
+    "calm"
+   ],
+   "US": [
+    "Which line goes uptown again? Maps are confusing!",
+    "shock"
+   ],
+   "KR": [
+    "Fast Wi-Fi on train makes commute feel instant!",
+    "happy"
+   ],
+   "DE": [
+    "Please step aside so passengers can exit first.",
+    "angry"
+   ],
+   "ES": [
+    "Taking a peaceful quick nap until my stop.",
+    "sleepy"
+   ]
+  }
  }
 }
