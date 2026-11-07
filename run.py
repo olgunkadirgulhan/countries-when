@@ -102,7 +102,7 @@ def metadata(plan, hist, rnd):
     lines = '\n'.join(f'{balls.NAMES[c].title() if balls.NAMES[c] not in ("USA", "UK") else balls.NAMES[c]}: '
                       f'"{s["lines"][c][0]}"' for c in plan['countries'])
     desc = (f'{t}! Which one is YOUR country? Comment below 👇\n\n{lines}\n\n'
-            'Friendly, funny country stereotypes. New Countries When... Shorts every day 🌍\n\n'
+            'Friendly, funny country stereotypes. New Countries When... Shorts every day 🌍\n\n'            'Want to learn the language of your favorite country? Free, in your own language: https://getfenek.com (our site)\n\n'
             '#shorts #countryballs #countryball #memes #animation')
     tags = ['countryballs', 'countryball', 'countryballs animation', 'countryball memes', 'countries when', 'country stereotypes', 'funny countries', 'countryball animation',
             s['name'].lower(), 'animation', 'shorts'] + [n.lower() for n in names]
