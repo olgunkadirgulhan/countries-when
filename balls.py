@@ -840,6 +840,20 @@ _NEW3 = {
 for _k, _v in _NEW3.items():
     SITUATIONS[_k]['lines'].update(_v)
 
+# 2026-11-07: otomatik üretilen durumlar (tools/gen_situations.py, haftalık gen-situations.yml; Gemini + doğrulama geçişi)
+def _load_auto():
+    import json as _json
+    _p = os.path.join(HERE, 'src', 'bank_auto.json')
+    if not os.path.exists(_p):
+        return
+    for _k, _v in _json.load(open(_p, encoding='utf-8')).items():
+        if _k not in SITUATIONS:
+            SITUATIONS[_k] = dict(title=_v['title'], scene=_v['scene'], name=_v['name'],
+                                  lines={c: tuple(l) for c, l in _v['lines'].items()})
+
+
+_load_auto()
+
 
 # ---------------------------------------------------------------- sahneler (arka planlar kodla çizilir)
 def vgrad(w, h, c1, c2):
