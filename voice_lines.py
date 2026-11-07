@@ -206,6 +206,14 @@ LINES = {
   "sports": [
    "Hockey. Always hockey.",
    "cool"
+  ],
+  "amusement_park": [
+   "Sorry, is this line for the cotton candy?",
+   "calm"
+  ],
+  "scary_movie": [
+   "I hope the monster apologizes at the end.",
+   "happy"
   ]
  },
  "BR": {
@@ -479,6 +487,26 @@ LINES = {
   ],
   "teacher": [
    "Party in class!",
+   "happy"
+  ],
+  "amusement_park": [
+   "Put your hands up and scream louder!",
+   "happy"
+  ],
+  "playing_board_games": [
+   "Can we play music while we take turns?",
+   "happy"
+  ],
+  "washing_dishes": [
+   "Singing samba makes dish soap feel like fun!",
+   "happy"
+  ],
+  "at_the_beach": [
+   "Beach football time, pass the ball to me!",
+   "happy"
+  ],
+  "scary_movie": [
+   "Why is everyone screaming? It is hilarious!",
    "happy"
   ]
  },
@@ -762,6 +790,42 @@ LINES = {
   "teacher": [
    "Fifteen-minute rule. We leave!",
    "happy"
+  ],
+  "building_furniture": [
+   "Where did I put the power drill?",
+   "happy"
+  ],
+  "amusement_park": [
+   "Front row of the giant coaster, let's go!",
+   "happy"
+  ],
+  "playing_board_games": [
+   "I just rolled double sixes again, baby!",
+   "happy"
+  ],
+  "full_elevator": [
+   "So, how is everyone doing today?",
+   "happy"
+  ],
+  "trying_to_sleep": [
+   "Just one more short video, I promise.",
+   "sleepy"
+  ],
+  "flea_market": [
+   "Ten bucks for all of this? Deal!",
+   "happy"
+  ],
+  "washing_dishes": [
+   "Doesn't everything just go in the dishwasher?",
+   "shock"
+  ],
+  "scary_movie": [
+   "Don't go into the basement, you fool!",
+   "angry"
+  ],
+  "group_photo": [
+   "Big smiles, nobody blink on three!",
+   "happy"
   ]
  },
  "TR": {
@@ -1007,6 +1071,10 @@ LINES = {
   ],
   "teacher": [
    "Who is the class president?",
+   "cool"
+  ],
+  "flea_market": [
+   "First price is merely a suggestion, my friend!",
    "cool"
   ]
  },
@@ -1282,6 +1350,34 @@ LINES = {
   "teacher": [
    "We wait. Silent.",
    "calm"
+  ],
+  "building_furniture": [
+   "I organized every piece by size and color.",
+   "calm"
+  ],
+  "amusement_park": [
+   "Safety inspection certificate is up to date. Excellent.",
+   "cool"
+  ],
+  "full_elevator": [
+   "Bow politely and stare straight ahead.",
+   "calm"
+  ],
+  "trying_to_sleep": [
+   "Must sleep exactly six hours and fourteen minutes.",
+   "calm"
+  ],
+  "washing_dishes": [
+   "Clean sink brings peaceful energy to morning.",
+   "calm"
+  ],
+  "scary_movie": [
+   "The ghost had very traditional long hair.",
+   "calm"
+  ],
+  "group_photo": [
+   "Everyone hold up peace signs and say cheese!",
+   "happy"
   ]
  },
  "MX": {
@@ -1512,6 +1608,18 @@ LINES = {
   "teacher": [
    "Ahorita viene. Relax.",
    "sleepy"
+  ],
+  "amusement_park": [
+   "Churros first, roller coasters second!",
+   "love"
+  ],
+  "at_the_beach": [
+   "Fresh mango with chili pepper on the sand!",
+   "love"
+  ],
+  "scary_movie": [
+   "My grandmother's spooky stories were scarier than this.",
+   "cool"
   ]
  },
  "DE": {
@@ -1778,6 +1886,34 @@ LINES = {
   "teacher": [
    "Teacher late? Impossible.",
    "shock"
+  ],
+  "building_furniture": [
+   "Step four clearly required bolt B-12!",
+   "angry"
+  ],
+  "amusement_park": [
+   "The ride timing is precisely ninety seconds.",
+   "calm"
+  ],
+  "playing_board_games": [
+   "Page forty-two of the rulebook explains this!",
+   "angry"
+  ],
+  "full_elevator": [
+   "Maximum capacity is eight hundred kilograms, exactly.",
+   "angry"
+  ],
+  "trying_to_sleep": [
+   "Room temperature must be precisely eighteen degrees.",
+   "calm"
+  ],
+  "washing_dishes": [
+   "Rinse, scrub, sanitize, dry. Perfect sequence.",
+   "cool"
+  ],
+  "group_photo": [
+   "The camera tripod is tilted by two millimeters.",
+   "angry"
   ]
  },
  "IN": {
@@ -2040,6 +2176,10 @@ LINES = {
   "teacher": [
    "Class monitor in charge!",
    "cool"
+  ],
+  "flea_market": [
+   "Give me a discount and I buy three!",
+   "happy"
   ]
  },
  "IT": {
@@ -2286,6 +2426,38 @@ LINES = {
   "teacher": [
    "Gossip time!",
    "happy"
+  ],
+  "building_furniture": [
+   "Why do we have three screws left over?",
+   "shock"
+  ],
+  "playing_board_games": [
+   "You bought my street? Mamma mia, why?!",
+   "cry"
+  ],
+  "trying_to_sleep": [
+   "Did I turn off the espresso machine?!",
+   "shock"
+  ],
+  "flea_market": [
+   "Look at this handmade jacket, pure style!",
+   "love"
+  ],
+  "washing_dishes": [
+   "Never let the pasta pot soak too long!",
+   "angry"
+  ],
+  "at_the_beach": [
+   "Sunglasses on, now the espresso by the sea.",
+   "cool"
+  ],
+  "scary_movie": [
+   "Cover my eyes, I cannot watch this!",
+   "cry"
+  ],
+  "group_photo": [
+   "Stand closer! We must look like family!",
+   "love"
   ]
  },
  "GB": {
@@ -2564,6 +2736,26 @@ LINES = {
   "teacher": [
    "Paper airplanes!",
    "happy"
+  ],
+  "building_furniture": [
+   "Shall we stop for tea and think?",
+   "calm"
+  ],
+  "playing_board_games": [
+   "Good game, chaps. Absolute masterclass in defeat.",
+   "calm"
+  ],
+  "full_elevator": [
+   "Terribly sorry, excuse me, after you!",
+   "calm"
+  ],
+  "at_the_beach": [
+   "I have applied factor fifty sunscreen everywhere.",
+   "shiver"
+  ],
+  "scary_movie": [
+   "Pass the popcorn, frightfully good plot twist.",
+   "cool"
   ]
  },
  "ES": {
@@ -2714,6 +2906,26 @@ LINES = {
   "sports": [
    "Fútbol and tennis!",
    "happy"
+  ],
+  "amusement_park": [
+   "We are staying until the park closes tonight!",
+   "happy"
+  ],
+  "full_elevator": [
+   "Squeeze in, there is room for three more!",
+   "happy"
+  ],
+  "trying_to_sleep": [
+   "Sleep? But the night is just starting!",
+   "happy"
+  ],
+  "at_the_beach": [
+   "Nap under the umbrella after a big swim.",
+   "sleepy"
+  ],
+  "group_photo": [
+   "Hurry up, the sun is going down!",
+   "happy"
   ]
  },
  "NL": {
@@ -2860,6 +3072,14 @@ LINES = {
   "sports": [
    "Speed skating!",
    "cool"
+  ],
+  "flea_market": [
+   "Can you round it down by two euros?",
+   "cool"
+  ],
+  "at_the_beach": [
+   "Time to build the most massive sandcastle!",
+   "happy"
   ]
  },
  "SE": {
@@ -3081,6 +3301,14 @@ LINES = {
   ],
   "teacher": [
    "Teacher? We use first names.",
+   "calm"
+  ],
+  "building_furniture": [
+   "I do not even need the manual!",
+   "cool"
+  ],
+  "washing_dishes": [
+   "Eco-friendly sponge only, please.",
    "calm"
   ]
  },
@@ -3378,6 +3606,10 @@ LINES = {
   "shoes": [
    "Kapcie! Slippers for all!",
    "happy"
+  ],
+  "building_furniture": [
+   "Give me twenty minutes and it is done!",
+   "cool"
   ]
  },
  "CH": {
@@ -3516,6 +3748,14 @@ LINES = {
   "roadtrip": [
    "Tunnel. Tunnel. Tunnel.",
    "calm"
+  ],
+  "playing_board_games": [
+   "I will remain completely neutral this round.",
+   "calm"
+  ],
+  "full_elevator": [
+   "I will gladly take the stairs instead.",
+   "cool"
   ]
  },
  "NG": {
@@ -3946,6 +4186,10 @@ LINES = {
   "museum": [
    "Our statues. Our history.",
    "cool"
+  ],
+  "at_the_beach": [
+   "Floating on the water all day is paradise.",
+   "love"
   ]
  },
  "CO": {
@@ -4246,6 +4490,10 @@ LINES = {
   "teacher": [
    "Merienda break!",
    "happy"
+  ],
+  "washing_dishes": [
+   "Turn on the radio, dishes will fly by!",
+   "happy"
   ]
  },
  "VN": {
@@ -4518,6 +4766,10 @@ LINES = {
   "sports": [
    "Muay Thai!",
    "angry"
+  ],
+  "flea_market": [
+   "Smile first, then the best bargain appears!",
+   "happy"
   ]
  },
  "FR": {
@@ -4707,6 +4959,30 @@ LINES = {
   ],
   "teacher": [
    "Philosophy debate starts.",
+   "cool"
+  ],
+  "building_furniture": [
+   "This table has an artistic wobble now.",
+   "love"
+  ],
+  "playing_board_games": [
+   "I am forming an alliance against everyone.",
+   "cool"
+  ],
+  "full_elevator": [
+   "The dramatic silence here is intolerable.",
+   "shock"
+  ],
+  "flea_market": [
+   "This vintage teapot has remarkable antique soul.",
+   "love"
+  ],
+  "washing_dishes": [
+   "Gently polish the wine glasses with linen.",
+   "love"
+  ],
+  "group_photo": [
+   "Wait, my scarf must drape naturally first.",
    "cool"
   ]
  },
@@ -4996,6 +5272,22 @@ LINES = {
   "teacher": [
    "Self-study. Quietly.",
    "calm"
+  ],
+  "playing_board_games": [
+   "My strategy was planned ten turns ago.",
+   "cool"
+  ],
+  "trying_to_sleep": [
+   "Studying while lying down still counts, right?",
+   "sleepy"
+  ],
+  "scary_movie": [
+   "The special effects makeup is incredible though!",
+   "shock"
+  ],
+  "group_photo": [
+   "Let me check the lighting filter real quick.",
+   "calm"
   ]
  },
  "IE": {
@@ -5038,6 +5330,10 @@ LINES = {
   "sports": [
    "Hurling! Fastest sport!",
    "cool"
+  ],
+  "trying_to_sleep": [
+   "Counting sheep never worked for me anyway.",
+   "sleepy"
   ]
  },
  "BE": {
@@ -5198,6 +5494,18 @@ LINES = {
   "teacher": [
    "No homework. Best schools.",
    "cool"
+  ],
+  "amusement_park": [
+   "The benches over here are very quiet.",
+   "calm"
+  ],
+  "full_elevator": [
+   "Way too close. I need personal space.",
+   "shiver"
+  ],
+  "group_photo": [
+   "Can I stand in the very back row?",
+   "calm"
   ]
  },
  "AT": {

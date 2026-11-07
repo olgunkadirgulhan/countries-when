@@ -1,0 +1,380 @@
+{
+ "building_furniture": {
+  "title": "COUNTRIES BUILDING FLAT-PACK FURNITURE",
+  "scene": "living",
+  "name": "Building Furniture",
+  "lines": {
+   "SE": [
+    "I do not even need the manual!",
+    "cool"
+   ],
+   "DE": [
+    "Step four clearly required bolt B-12!",
+    "angry"
+   ],
+   "IT": [
+    "Why do we have three screws left over?",
+    "shock"
+   ],
+   "JP": [
+    "I organized every piece by size and color.",
+    "calm"
+   ],
+   "US": [
+    "Where did I put the power drill?",
+    "happy"
+   ],
+   "FR": [
+    "This table has an artistic wobble now.",
+    "love"
+   ],
+   "GB": [
+    "Shall we stop for tea and think?",
+    "calm"
+   ],
+   "PL": [
+    "Give me twenty minutes and it is done!",
+    "cool"
+   ]
+  }
+ },
+ "amusement_park": {
+  "title": "COUNTRIES AT THE AMUSEMENT PARK",
+  "scene": "park",
+  "name": "Amusement Park",
+  "lines": {
+   "US": [
+    "Front row of the giant coaster, let's go!",
+    "happy"
+   ],
+   "CA": [
+    "Sorry, is this line for the cotton candy?",
+    "calm"
+   ],
+   "JP": [
+    "Safety inspection certificate is up to date. Excellent.",
+    "cool"
+   ],
+   "BR": [
+    "Put your hands up and scream louder!",
+    "happy"
+   ],
+   "FI": [
+    "The benches over here are very quiet.",
+    "calm"
+   ],
+   "MX": [
+    "Churros first, roller coasters second!",
+    "love"
+   ],
+   "DE": [
+    "The ride timing is precisely ninety seconds.",
+    "calm"
+   ],
+   "ES": [
+    "We are staying until the park closes tonight!",
+    "happy"
+   ]
+  }
+ },
+ "playing_board_games": {
+  "title": "COUNTRIES PLAYING BOARD GAMES",
+  "scene": "living",
+  "name": "Board Games",
+  "lines": {
+   "DE": [
+    "Page forty-two of the rulebook explains this!",
+    "angry"
+   ],
+   "FR": [
+    "I am forming an alliance against everyone.",
+    "cool"
+   ],
+   "IT": [
+    "You bought my street? Mamma mia, why?!",
+    "cry"
+   ],
+   "CH": [
+    "I will remain completely neutral this round.",
+    "calm"
+   ],
+   "KR": [
+    "My strategy was planned ten turns ago.",
+    "cool"
+   ],
+   "US": [
+    "I just rolled double sixes again, baby!",
+    "happy"
+   ],
+   "GB": [
+    "Good game, chaps. Absolute masterclass in defeat.",
+    "calm"
+   ],
+   "BR": [
+    "Can we play music while we take turns?",
+    "happy"
+   ]
+  }
+ },
+ "full_elevator": {
+  "title": "COUNTRIES WHEN THE ELEVATOR IS FULL",
+  "scene": "office",
+  "name": "Full Elevator",
+  "lines": {
+   "FI": [
+    "Way too close. I need personal space.",
+    "shiver"
+   ],
+   "GB": [
+    "Terribly sorry, excuse me, after you!",
+    "calm"
+   ],
+   "JP": [
+    "Bow politely and stare straight ahead.",
+    "calm"
+   ],
+   "ES": [
+    "Squeeze in, there is room for three more!",
+    "happy"
+   ],
+   "DE": [
+    "Maximum capacity is eight hundred kilograms, exactly.",
+    "angry"
+   ],
+   "US": [
+    "So, how is everyone doing today?",
+    "happy"
+   ],
+   "FR": [
+    "The dramatic silence here is intolerable.",
+    "shock"
+   ],
+   "CH": [
+    "I will gladly take the stairs instead.",
+    "cool"
+   ]
+  }
+ },
+ "trying_to_sleep": {
+  "title": "COUNTRIES TRYING TO SLEEP",
+  "scene": "night",
+  "name": "Trying to Sleep",
+  "lines": {
+   "ES": [
+    "Sleep? But the night is just starting!",
+    "happy"
+   ],
+   "JP": [
+    "Must sleep exactly six hours and fourteen minutes.",
+    "calm"
+   ],
+   "IT": [
+    "Did I turn off the espresso machine?!",
+    "shock"
+   ],
+   "DE": [
+    "Room temperature must be precisely eighteen degrees.",
+    "calm"
+   ],
+   "US": [
+    "Just one more short video, I promise.",
+    "sleepy"
+   ],
+   "KR": [
+    "Studying while lying down still counts, right?",
+    "sleepy"
+   ],
+   "IE": [
+    "Counting sheep never worked for me anyway.",
+    "sleepy"
+   ]
+  }
+ },
+ "flea_market": {
+  "title": "COUNTRIES AT A FLEA MARKET",
+  "scene": "market",
+  "name": "Flea Market",
+  "lines": {
+   "TR": [
+    "First price is merely a suggestion, my friend!",
+    "cool"
+   ],
+   "IN": [
+    "Give me a discount and I buy three!",
+    "happy"
+   ],
+   "FR": [
+    "This vintage teapot has remarkable antique soul.",
+    "love"
+   ],
+   "NL": [
+    "Can you round it down by two euros?",
+    "cool"
+   ],
+   "US": [
+    "Ten bucks for all of this? Deal!",
+    "happy"
+   ],
+   "TH": [
+    "Smile first, then the best bargain appears!",
+    "happy"
+   ],
+   "IT": [
+    "Look at this handmade jacket, pure style!",
+    "love"
+   ]
+  }
+ },
+ "washing_dishes": {
+  "title": "COUNTRIES WASHING THE DISHES",
+  "scene": "kitchen",
+  "name": "Washing Dishes",
+  "lines": {
+   "DE": [
+    "Rinse, scrub, sanitize, dry. Perfect sequence.",
+    "cool"
+   ],
+   "IT": [
+    "Never let the pasta pot soak too long!",
+    "angry"
+   ],
+   "JP": [
+    "Clean sink brings peaceful energy to morning.",
+    "calm"
+   ],
+   "US": [
+    "Doesn't everything just go in the dishwasher?",
+    "shock"
+   ],
+   "BR": [
+    "Singing samba makes dish soap feel like fun!",
+    "happy"
+   ],
+   "FR": [
+    "Gently polish the wine glasses with linen.",
+    "love"
+   ],
+   "PH": [
+    "Turn on the radio, dishes will fly by!",
+    "happy"
+   ],
+   "SE": [
+    "Eco-friendly sponge only, please.",
+    "calm"
+   ]
+  }
+ },
+ "at_the_beach": {
+  "title": "COUNTRIES AT THE BEACH",
+  "scene": "sun",
+  "name": "At the Beach",
+  "lines": {
+   "BR": [
+    "Beach football time, pass the ball to me!",
+    "happy"
+   ],
+   "GB": [
+    "I have applied factor fifty sunscreen everywhere.",
+    "shiver"
+   ],
+   "NL": [
+    "Time to build the most massive sandcastle!",
+    "happy"
+   ],
+   "IT": [
+    "Sunglasses on, now the espresso by the sea.",
+    "cool"
+   ],
+   "GR": [
+    "Floating on the water all day is paradise.",
+    "love"
+   ],
+   "ES": [
+    "Nap under the umbrella after a big swim.",
+    "sleepy"
+   ],
+   "MX": [
+    "Fresh mango with chili pepper on the sand!",
+    "love"
+   ]
+  }
+ },
+ "scary_movie": {
+  "title": "COUNTRIES WATCHING A SCARY MOVIE",
+  "scene": "night",
+  "name": "Scary Movie",
+  "lines": {
+   "US": [
+    "Don't go into the basement, you fool!",
+    "angry"
+   ],
+   "JP": [
+    "The ghost had very traditional long hair.",
+    "calm"
+   ],
+   "IT": [
+    "Cover my eyes, I cannot watch this!",
+    "cry"
+   ],
+   "KR": [
+    "The special effects makeup is incredible though!",
+    "shock"
+   ],
+   "GB": [
+    "Pass the popcorn, frightfully good plot twist.",
+    "cool"
+   ],
+   "MX": [
+    "My grandmother's spooky stories were scarier than this.",
+    "cool"
+   ],
+   "CA": [
+    "I hope the monster apologizes at the end.",
+    "happy"
+   ],
+   "BR": [
+    "Why is everyone screaming? It is hilarious!",
+    "happy"
+   ]
+  }
+ },
+ "group_photo": {
+  "title": "COUNTRIES TAKING A GROUP PHOTO",
+  "scene": "park",
+  "name": "Group Photo",
+  "lines": {
+   "JP": [
+    "Everyone hold up peace signs and say cheese!",
+    "happy"
+   ],
+   "FR": [
+    "Wait, my scarf must drape naturally first.",
+    "cool"
+   ],
+   "IT": [
+    "Stand closer! We must look like family!",
+    "love"
+   ],
+   "US": [
+    "Big smiles, nobody blink on three!",
+    "happy"
+   ],
+   "DE": [
+    "The camera tripod is tilted by two millimeters.",
+    "angry"
+   ],
+   "KR": [
+    "Let me check the lighting filter real quick.",
+    "calm"
+   ],
+   "ES": [
+    "Hurry up, the sun is going down!",
+    "happy"
+   ],
+   "FI": [
+    "Can I stand in the very back row?",
+    "calm"
+   ]
+  }
+ }
+}
