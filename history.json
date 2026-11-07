@@ -2742,6 +2742,23 @@
       "kurgu": "crown",
       "seed": 153175,
       "winner": 0
+    },
+    {
+      "id": "2bNRxVivZcE",
+      "date": "2026-11-07 20:38",
+      "kind": "short",
+      "title": "Countries Building Flat-Pack Furniture 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "building_furniture",
+      "countries": [
+        "IT",
+        "GB",
+        "PL",
+        "SE"
+      ],
+      "scene": "living",
+      "kurgu": "classic",
+      "seed": 614835
     }
   ]
 }
