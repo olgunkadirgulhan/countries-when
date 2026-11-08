@@ -2759,6 +2759,23 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 614835
+    },
+    {
+      "id": "JrJ0a3hwLWM",
+      "date": "2026-11-08 16:38",
+      "kind": "short",
+      "title": "Countryballs: Countries When The Teacher Is Late 😂 #countryballs",
+      "privacy": "public",
+      "situation": "teacher",
+      "countries": [
+        "MX",
+        "SE",
+        "FR",
+        "JP"
+      ],
+      "scene": "office",
+      "kurgu": "classic",
+      "seed": 497548
     }
   ]
 }
