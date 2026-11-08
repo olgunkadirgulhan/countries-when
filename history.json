@@ -2812,6 +2812,135 @@
       "scene": "night",
       "kurgu": "five",
       "seed": 349524
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode",
+      "title": "Countryballs: 10 Situations, Every Country Reacts 🌍 | Episode 12",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "cold",
+      "countries": [
+        "IT",
+        "SE",
+        "TR",
+        "MX"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "hello",
+      "countries": [
+        "IT",
+        "GB",
+        "TR",
+        "NL"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "coffee",
+      "countries": [
+        "BR",
+        "PH",
+        "PL",
+        "NG"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "guests",
+      "countries": [
+        "BR",
+        "FR",
+        "JP",
+        "KR"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "lunchbreak",
+      "countries": [
+        "MX",
+        "FR",
+        "TR",
+        "ES"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "moving",
+      "countries": [
+        "DE",
+        "MX",
+        "TR",
+        "IN"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "flightdelay",
+      "countries": [
+        "AR",
+        "DE",
+        "FR",
+        "BR"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "battery",
+      "countries": [
+        "GR",
+        "MX",
+        "US",
+        "SE"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "umbrella",
+      "countries": [
+        "NO",
+        "GB",
+        "PH",
+        "IE"
+      ]
+    },
+    {
+      "id": "uLMgWvtJeUE",
+      "date": "2026-11-08 23:12",
+      "kind": "episode-part",
+      "situation": "wifi",
+      "countries": [
+        "NL",
+        "NG",
+        "PH",
+        "BR"
+      ]
     }
   ]
 }
