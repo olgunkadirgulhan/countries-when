@@ -2941,6 +2941,23 @@
         "PH",
         "BR"
       ]
+    },
+    {
+      "id": "MbPpGl0cpvk",
+      "date": "2026-11-09 16:38",
+      "kind": "short",
+      "title": "Countries Trying Ice Skating (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "countries_ice_skating",
+      "countries": [
+        "BR",
+        "CA",
+        "FI",
+        "NL"
+      ],
+      "scene": "snow",
+      "kurgu": "classic",
+      "seed": 677352
     }
   ]
 }
