@@ -3028,6 +3028,23 @@
       "scene": "kitchen",
       "kurgu": "classic",
       "seed": 611127
+    },
+    {
+      "id": "iTyZgbWwJ54",
+      "date": "2026-11-10 20:37",
+      "kind": "short",
+      "title": "POV: Countries At An All-You-Can-Eat Buffet 😂 #countryballs",
+      "privacy": "public",
+      "situation": "buffet_time",
+      "countries": [
+        "FR",
+        "BR",
+        "IN",
+        "TR"
+      ],
+      "scene": "park",
+      "kurgu": "classic",
+      "seed": 666746
     }
   ]
 }
