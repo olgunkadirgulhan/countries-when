@@ -3011,6 +3011,23 @@
       "kurgu": "crown",
       "seed": 429538,
       "winner": 2
+    },
+    {
+      "id": "T_0zHMhGoec",
+      "date": "2026-11-10 18:38",
+      "kind": "short",
+      "title": "Countryballs: Countries Ordering At A Drive-Thru 😂 #countryballs",
+      "privacy": "public",
+      "situation": "at_a_drive_thru",
+      "countries": [
+        "CA",
+        "DE",
+        "JP",
+        "GB"
+      ],
+      "scene": "kitchen",
+      "kurgu": "classic",
+      "seed": 611127
     }
   ]
 }
