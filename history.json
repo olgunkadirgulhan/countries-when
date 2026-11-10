@@ -2993,6 +2993,24 @@
       "scene": "city",
       "kurgu": "five",
       "seed": 19793
+    },
+    {
+      "id": "gC8bX92HNtg",
+      "date": "2026-11-10 16:38",
+      "kind": "short",
+      "title": "Which Country Did It Best? In The Family Group Chat 🏆 #countryballs",
+      "privacy": "public",
+      "situation": "groupchat",
+      "countries": [
+        "TR",
+        "GB",
+        "US",
+        "HU"
+      ],
+      "scene": "living",
+      "kurgu": "crown",
+      "seed": 429538,
+      "winner": 2
     }
   ]
 }
