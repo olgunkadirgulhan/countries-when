@@ -3210,6 +3210,24 @@
       "kurgu": "crown",
       "seed": 242276,
       "winner": 0
+    },
+    {
+      "id": "o7PsYRomVYo",
+      "date": "2026-11-11 21:43",
+      "kind": "short",
+      "title": "POV: 5 Countries Packing A Suitcase 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "countries_packing_a_suit",
+      "countries": [
+        "JP",
+        "BR",
+        "GB",
+        "IN",
+        "IT"
+      ],
+      "scene": "market",
+      "kurgu": "five",
+      "seed": 524307
     }
   ]
 }
