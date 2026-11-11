@@ -3192,6 +3192,24 @@
       "scene": "sun",
       "kurgu": "five",
       "seed": 157965
+    },
+    {
+      "id": "MJFEOC61emo",
+      "date": "2026-11-11 18:38",
+      "kind": "short",
+      "title": "Which Country Did It Best? On A First Date 🏆 #countryballs",
+      "privacy": "public",
+      "situation": "firstdate",
+      "countries": [
+        "SE",
+        "FR",
+        "DE",
+        "IN"
+      ],
+      "scene": "living",
+      "kurgu": "crown",
+      "seed": 242276,
+      "winner": 0
     }
   ]
 }
