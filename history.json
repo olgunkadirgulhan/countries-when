@@ -3264,6 +3264,24 @@
       "scene": "night",
       "kurgu": "five",
       "seed": 566087
+    },
+    {
+      "id": "GPLrV7Tsc5w",
+      "date": "2026-11-12 20:38",
+      "kind": "short",
+      "title": "Countries Washing The Dishes: 5 Countries React 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "washing_dishes",
+      "countries": [
+        "JP",
+        "PH",
+        "IT",
+        "SE",
+        "FR"
+      ],
+      "scene": "party",
+      "kurgu": "five",
+      "seed": 432529
     }
   ]
 }
