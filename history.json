@@ -3228,6 +3228,24 @@
       "scene": "market",
       "kurgu": "five",
       "seed": 524307
+    },
+    {
+      "id": "adhDtOzPWv8",
+      "date": "2026-11-12 16:38",
+      "kind": "short",
+      "title": "Countries When Autumn Begins (Best Answer?) 👑 #countryballs",
+      "privacy": "public",
+      "situation": "when_autumn_begins",
+      "countries": [
+        "JP",
+        "FR",
+        "SE",
+        "CA"
+      ],
+      "scene": "office",
+      "kurgu": "crown",
+      "seed": 80955,
+      "winner": 3
     }
   ]
 }
