@@ -3246,6 +3246,24 @@
       "kurgu": "crown",
       "seed": 80955,
       "winner": 3
+    },
+    {
+      "id": "hWW0K-gtl5s",
+      "date": "2026-11-12 18:38",
+      "kind": "short",
+      "title": "Countries Playing Board Games: 5 Countries React 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "playing_board_games",
+      "countries": [
+        "IT",
+        "BR",
+        "DE",
+        "FR",
+        "GB"
+      ],
+      "scene": "night",
+      "kurgu": "five",
+      "seed": 566087
     }
   ]
 }
