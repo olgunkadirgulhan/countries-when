@@ -3282,6 +3282,135 @@
       "scene": "party",
       "kurgu": "five",
       "seed": 432529
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 14: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "learning_to_ice_skate",
+      "countries": [
+        "NO",
+        "NL",
+        "CA",
+        "IT"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "at_a_drive_thru",
+      "countries": [
+        "US",
+        "JP",
+        "CA",
+        "IT"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "birthday",
+      "countries": [
+        "BR",
+        "DE",
+        "ES",
+        "MX"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "tea",
+      "countries": [
+        "IN",
+        "JP",
+        "TH",
+        "BR"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "watering_plants",
+      "countries": [
+        "CO",
+        "NL",
+        "GB",
+        "BR"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "coffee",
+      "countries": [
+        "NG",
+        "IN",
+        "NO",
+        "FR"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "bus",
+      "countries": [
+        "SE",
+        "CH",
+        "TR",
+        "IT"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "momcalls",
+      "countries": [
+        "JP",
+        "KR",
+        "NG",
+        "TH"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "compliment",
+      "countries": [
+        "ES",
+        "IT",
+        "DK",
+        "IE"
+      ]
+    },
+    {
+      "id": "EDnc8qM5J08",
+      "date": "2026-11-13 00:45",
+      "kind": "episode-part",
+      "situation": "bored",
+      "countries": [
+        "NO",
+        "RO",
+        "SE",
+        "TR"
+      ]
     }
   ]
 }
