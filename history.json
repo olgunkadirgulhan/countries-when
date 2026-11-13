@@ -3411,6 +3411,23 @@
         "SE",
         "TR"
       ]
+    },
+    {
+      "id": "Gb9gZeoEpUk",
+      "date": "2026-11-13 16:38",
+      "kind": "short",
+      "title": "Countries Forgetting Someone's Name (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "forgetting_a_name",
+      "countries": [
+        "GB",
+        "JP",
+        "FR",
+        "IT"
+      ],
+      "scene": "office",
+      "kurgu": "classic",
+      "seed": 666855
     }
   ]
 }
