@@ -3445,6 +3445,24 @@
       "scene": "park",
       "kurgu": "classic",
       "seed": 225334
+    },
+    {
+      "id": "poKURdUvS9Q",
+      "date": "2026-11-13 20:38",
+      "kind": "short",
+      "title": "POV: 5 Countries Riding A Bicycle 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "riding_a_bicycle",
+      "countries": [
+        "DK",
+        "IT",
+        "US",
+        "JP",
+        "FR"
+      ],
+      "scene": "night",
+      "kurgu": "five",
+      "seed": 950043
     }
   ]
 }
