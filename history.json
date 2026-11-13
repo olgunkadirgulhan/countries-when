@@ -3428,6 +3428,23 @@
       "scene": "office",
       "kurgu": "classic",
       "seed": 666855
+    },
+    {
+      "id": "SV24taM40WE",
+      "date": "2026-11-13 18:38",
+      "kind": "short",
+      "title": "Countries On A Video Call (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "on_a_video_call",
+      "countries": [
+        "DE",
+        "JP",
+        "BR",
+        "GB"
+      ],
+      "scene": "park",
+      "kurgu": "classic",
+      "seed": 225334
     }
   ]
 }
