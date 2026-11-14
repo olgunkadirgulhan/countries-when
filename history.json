@@ -3498,6 +3498,24 @@
       "scene": "night",
       "kurgu": "classic",
       "seed": 793537
+    },
+    {
+      "id": "HuPIL2r6jSo",
+      "date": "2026-11-14 20:38",
+      "kind": "short",
+      "title": "Countryballs Watching A Scary Movie: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "scary_movie",
+      "countries": [
+        "US",
+        "CA",
+        "MX",
+        "GB"
+      ],
+      "scene": "night",
+      "kurgu": "crown",
+      "seed": 389256,
+      "winner": 1
     }
   ]
 }
