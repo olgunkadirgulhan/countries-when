@@ -3481,6 +3481,23 @@
       "scene": "stadium",
       "kurgu": "five",
       "seed": 525033
+    },
+    {
+      "id": "WD4Q8qlL1Ko",
+      "date": "2026-11-14 18:38",
+      "kind": "short",
+      "title": "Countryballs: Countries Watching Fireworks 😂 #countryballs",
+      "privacy": "public",
+      "situation": "watching_fireworks",
+      "countries": [
+        "CA",
+        "FR",
+        "GB",
+        "DE"
+      ],
+      "scene": "night",
+      "kurgu": "classic",
+      "seed": 793537
     }
   ]
 }
