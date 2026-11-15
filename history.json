@@ -3516,6 +3516,23 @@
       "kurgu": "crown",
       "seed": 389256,
       "winner": 1
+    },
+    {
+      "id": "JGmay_X9glc",
+      "date": "2026-11-15 16:38",
+      "kind": "short",
+      "title": "Countryballs: Countries Receiving A Package 😂 #countryballs",
+      "privacy": "public",
+      "situation": "countries_receiving_a_pa",
+      "countries": [
+        "MX",
+        "GB",
+        "BR",
+        "DE"
+      ],
+      "scene": "park",
+      "kurgu": "classic",
+      "seed": 22649
     }
   ]
 }
