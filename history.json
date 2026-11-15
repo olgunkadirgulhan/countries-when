@@ -3568,6 +3568,135 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 464473
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 15: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "internet",
+      "countries": [
+        "TH",
+        "JP",
+        "CH",
+        "FR"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "building_furniture",
+      "countries": [
+        "FR",
+        "US",
+        "IT",
+        "PL"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "SE",
+        "CA",
+        "NL",
+        "ID"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "cooking",
+      "countries": [
+        "HU",
+        "BR",
+        "US",
+        "TR"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "payday",
+      "countries": [
+        "IN",
+        "MX",
+        "TH",
+        "JP"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "roadtrip",
+      "countries": [
+        "NL",
+        "MX",
+        "CA",
+        "DE"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "office",
+      "countries": [
+        "NO",
+        "NL",
+        "GB",
+        "JP"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "countries_packing_a_suit",
+      "countries": [
+        "GB",
+        "IT",
+        "BR",
+        "FR"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "at_a_drive_thru",
+      "countries": [
+        "IT",
+        "CA",
+        "MX",
+        "US"
+      ]
+    },
+    {
+      "id": "igeitjbcxfE",
+      "date": "2026-11-15 23:37",
+      "kind": "episode-part",
+      "situation": "airport",
+      "countries": [
+        "KR",
+        "IN",
+        "PH",
+        "CA"
+      ]
     }
   ]
 }
