@@ -3533,6 +3533,24 @@
       "scene": "park",
       "kurgu": "classic",
       "seed": 22649
+    },
+    {
+      "id": "gh2IWyX5Jo4",
+      "date": "2026-11-15 18:38",
+      "kind": "short",
+      "title": "Countryballs Tasting Street Food: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "tasting_street_food",
+      "countries": [
+        "VN",
+        "MX",
+        "US",
+        "TH"
+      ],
+      "scene": "market",
+      "kurgu": "crown",
+      "seed": 572460,
+      "winner": 2
     }
   ]
 }
