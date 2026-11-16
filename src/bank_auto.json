@@ -1776,5 +1776,1067 @@
     "sleepy"
    ]
   }
+ },
+ "tv_remote": {
+  "title": "COUNTRIES LOSING THE TV REMOTE",
+  "scene": "living",
+  "name": "TV Remote",
+  "lines": {
+   "US": [
+    "Check under the sofa cushions right now!",
+    "angry"
+   ],
+   "JP": [
+    "I will create an app to find it.",
+    "cool"
+   ],
+   "IT": [
+    "It was right next to the pizza tray!",
+    "shock"
+   ],
+   "GB": [
+    "How am I supposed to watch my show?",
+    "cry"
+   ],
+   "BR": [
+    "Did someone sit on it again?",
+    "happy"
+   ],
+   "DE": [
+    "This is an unacceptable lapse in organization.",
+    "angry"
+   ],
+   "MX": [
+    "Maybe we should just enjoy the silence?",
+    "calm"
+   ],
+   "CA": [
+    "Sorry, I think I dropped it behind here.",
+    "calm"
+   ]
+  }
+ },
+ "smoothie_time": {
+  "title": "COUNTRIES MAKING A SMOOTHIE",
+  "scene": "kitchen",
+  "name": "Smoothie Time",
+  "lines": {
+   "IT": [
+    "Why is there kale in my fruit bowl?",
+    "shock"
+   ],
+   "BR": [
+    "Add ten more bananas and some acai!",
+    "happy"
+   ],
+   "CA": [
+    "Can we pour maple syrup into the blender?",
+    "love"
+   ],
+   "FR": [
+    "Blend it slowly to respect the ingredients.",
+    "cool"
+   ],
+   "JP": [
+    "The color matches our matcha aesthetics perfectly.",
+    "calm"
+   ],
+   "US": [
+    "Throw in extra ice and make it huge!",
+    "happy"
+   ],
+   "MX": [
+    "A little chili powder makes it amazing!",
+    "cool"
+   ],
+   "NL": [
+    "Did anyone remember to put the lid on?",
+    "shock"
+   ]
+  }
+ },
+ "car_wash": {
+  "title": "COUNTRIES AT A CAR WASH",
+  "scene": "city",
+  "name": "Car Wash",
+  "lines": {
+   "US": [
+    "Look at all these giant rainbow soap bubbles!",
+    "happy"
+   ],
+   "FI": [
+    "It feels like an icy summer shower outside.",
+    "shiver"
+   ],
+   "GB": [
+    "I hope the machine does not scratch my polish.",
+    "shock"
+   ],
+   "DE": [
+    "The water spray cycle is precisely on time.",
+    "cool"
+   ],
+   "ES": [
+    "I could take a quick nap in here.",
+    "sleepy"
+   ],
+   "TR": [
+    "Our car is going to shine so bright!",
+    "love"
+   ],
+   "KR": [
+    "Quick, record the soapy brushes for video!",
+    "cool"
+   ]
+  }
+ },
+ "hot_soup": {
+  "title": "COUNTRIES WHEN THE SOUP IS TOO HOT",
+  "scene": "kitchen",
+  "name": "Hot Soup",
+  "lines": {
+   "MX": [
+    "Blow on it three times before taking a sip!",
+    "cool"
+   ],
+   "JP": [
+    "Slurping it brings cool air into your mouth.",
+    "calm"
+   ],
+   "IT": [
+    "My tongue is completely burnt right now!",
+    "cry"
+   ],
+   "GB": [
+    "A little cold milk will fix this immediately.",
+    "cool"
+   ],
+   "DE": [
+    "The temperature exceeds safe consumption parameters.",
+    "angry"
+   ],
+   "TH": [
+    "Add extra chili, heat does not bother me!",
+    "happy"
+   ],
+   "SE": [
+    "I will wait patiently until it cools down.",
+    "calm"
+   ],
+   "IN": [
+    "The hot spices make it totally worth it!",
+    "love"
+   ]
+  }
+ },
+ "flying_kite": {
+  "title": "COUNTRIES FLYING A KITE",
+  "scene": "park",
+  "name": "Flying A Kite",
+  "lines": {
+   "NL": [
+    "The wind is absolutely perfect today!",
+    "happy"
+   ],
+   "CA": [
+    "Oh no, it got stuck in the tree!",
+    "cry"
+   ],
+   "JP": [
+    "Look how smoothly it glides in the breeze.",
+    "calm"
+   ],
+   "BR": [
+    "Higher! Mine is going straight to the clouds!",
+    "happy"
+   ],
+   "GB": [
+    "Hold the string tight or it flies away!",
+    "shock"
+   ],
+   "US": [
+    "Mine has giant wings and cool bright lights!",
+    "cool"
+   ],
+   "VN": [
+    "This is such a peaceful afternoon activity.",
+    "love"
+   ],
+   "DE": [
+    "Aerodynamically, this tail design is optimal.",
+    "cool"
+   ]
+  }
+ },
+ "night_noise": {
+  "title": "COUNTRIES HEARING A WEIRD NOISE AT NIGHT",
+  "scene": "night",
+  "name": "Night Noise",
+  "lines": {
+   "JP": [
+    "Is that a harmless little alley cat outside?",
+    "calm"
+   ],
+   "US": [
+    "Who is out there? I have a flashlight!",
+    "angry"
+   ],
+   "MX": [
+    "It is just the house settling, stay calm.",
+    "sleepy"
+   ],
+   "GB": [
+    "Perhaps I should make a quick cup of tea.",
+    "cool"
+   ],
+   "CA": [
+    "I am sure it is just a friendly raccoon.",
+    "happy"
+   ],
+   "IT": [
+    "Mamma mia, what was that creepy thumping sound?",
+    "shock"
+   ],
+   "SE": [
+    "I am hiding under the blanket forever.",
+    "shiver"
+   ],
+   "KR": [
+    "Let me check the security camera monitor fast.",
+    "cool"
+   ]
+  }
+ },
+ "baking_cookies": {
+  "title": "COUNTRIES BAKING COOKIES",
+  "scene": "kitchen",
+  "name": "Baking Cookies",
+  "lines": {
+   "FR": [
+    "The sweet vanilla aroma is pure perfection.",
+    "love"
+   ],
+   "US": [
+    "Double the chocolate chips in every single batch!",
+    "happy"
+   ],
+   "DE": [
+    "Set timer for twelve minutes at 180 degrees.",
+    "cool"
+   ],
+   "AR": [
+    "Do not forget to put caramel inside them!",
+    "happy"
+   ],
+   "GB": [
+    "Save a couple for our afternoon tea break.",
+    "calm"
+   ],
+   "NL": [
+    "Oh dear, the edges are burning slightly!",
+    "shock"
+   ],
+   "FI": [
+    "I am eating the raw cookie dough now.",
+    "happy"
+   ],
+   "PL": [
+    "These smell just like my grandma used to bake!",
+    "love"
+   ]
+  }
+ },
+ "mini_golf": {
+  "title": "COUNTRIES PLAYING MINI GOLF",
+  "scene": "park",
+  "name": "Mini Golf",
+  "lines": {
+   "US": [
+    "Hole in one! Did everyone see that shot?",
+    "happy"
+   ],
+   "GB": [
+    "The windmill obstacle is terribly unfair today.",
+    "angry"
+   ],
+   "JP": [
+    "I must calculate the exact bounce angle.",
+    "cool"
+   ],
+   "MX": [
+    "My golf ball just bounced into the pond!",
+    "cry"
+   ],
+   "CA": [
+    "Great hit! You did awesome on that hole!",
+    "love"
+   ],
+   "DE": [
+    "The carpet slope is angled at five degrees.",
+    "calm"
+   ],
+   "BR": [
+    "Who cares about points? This is super fun!",
+    "happy"
+   ],
+   "IT": [
+    "Watch my stylish trick shot off the wall!",
+    "cool"
+   ]
+  }
+ },
+ "tasting_lemon": {
+  "title": "COUNTRIES TASTING A LEMON",
+  "scene": "kitchen",
+  "name": "Tasting A Lemon",
+  "lines": {
+   "MX": [
+    "Just needs salt and chili powder now!",
+    "happy"
+   ],
+   "IT": [
+    "Woah! That is way too sour for me!",
+    "shock"
+   ],
+   "ES": [
+    "I think my face is frozen like this.",
+    "cry"
+   ],
+   "IN": [
+    "We can turn this into delicious tangy pickle!",
+    "love"
+   ],
+   "GB": [
+    "Bit sour, but goes nicely in my tea.",
+    "calm"
+   ],
+   "TH": [
+    "This tastes fantastic with some crushed pepper!",
+    "happy"
+   ],
+   "FR": [
+    "Unacceptable level of tartness for my palate.",
+    "angry"
+   ],
+   "KR": [
+    "My eyes are watering so much right now!",
+    "cry"
+   ]
+  }
+ },
+ "wrapping_present": {
+  "title": "COUNTRIES WRAPPING A PRESENT",
+  "scene": "living",
+  "name": "Wrapping Present",
+  "lines": {
+   "JP": [
+    "Every fold must align with geometric perfection.",
+    "cool"
+   ],
+   "US": [
+    "Needs a bigger shiny bow on top!",
+    "happy"
+   ],
+   "GB": [
+    "Where did the end of the tape go?",
+    "angry"
+   ],
+   "MX": [
+    "Use colorful ribbons and lots of glitter!",
+    "happy"
+   ],
+   "CA": [
+    "I accidentally wrapped the scissors inside again!",
+    "shock"
+   ],
+   "IT": [
+    "This wrapping paper design is absolute art!",
+    "love"
+   ],
+   "SE": [
+    "Minimalist brown paper looks very classy today.",
+    "cool"
+   ]
+  }
+ },
+ "hot_chocolate": {
+  "title": "COUNTRIES DRINKING HOT CHOCOLATE",
+  "scene": "snow",
+  "name": "Hot Chocolate",
+  "lines": {
+   "CH": [
+    "Only rich Swiss cocoa is good enough.",
+    "cool"
+   ],
+   "US": [
+    "Add whipped cream and a candy cane stir!",
+    "happy"
+   ],
+   "GB": [
+    "Mind the temperature, it is scalding hot.",
+    "shock"
+   ],
+   "MX": [
+    "A pinch of cinnamon adds amazing flavor!",
+    "love"
+   ],
+   "AT": [
+    "This is the ultimate winter comfort drink.",
+    "happy"
+   ]
+  }
+ },
+ "lucky_coin": {
+  "title": "COUNTRIES FINDING A LUCKY COIN",
+  "scene": "city",
+  "name": "Lucky Coin",
+  "lines": {
+   "IE": [
+    "Finding shiny metal on the sidewalk! Lucky day!",
+    "happy"
+   ],
+   "DE": [
+    "Someone dropped exactly fifty cents right here.",
+    "cool"
+   ],
+   "JP": [
+    "I shall place it safely in my piggy bank.",
+    "calm"
+   ],
+   "US": [
+    "Flip it to make our big decision!",
+    "cool"
+   ],
+   "IT": [
+    "Maybe this coin brings good fortune today!",
+    "love"
+   ],
+   "GB": [
+    "Oh look, a shiny penny on the pavement!",
+    "happy"
+   ],
+   "MX": [
+    "Make a quick wish before picking it up!",
+    "happy"
+   ],
+   "GR": [
+    "I will keep it in my pocket forever.",
+    "calm"
+   ]
+  }
+ },
+ "making_a_smoothie": {
+  "title": "COUNTRIES MAKING A SMOOTHIE",
+  "scene": "kitchen",
+  "name": "Smoothie Time",
+  "lines": {
+   "US": [
+    "Needs extra protein powder and strawberry swirl!",
+    "happy"
+   ],
+   "BR": [
+    "Add acai and fresh banana slices please!",
+    "love"
+   ],
+   "DE": [
+    "Precision blending requires exactly forty-five seconds.",
+    "cool"
+   ],
+   "MX": [
+    "Can I add a sprinkle of chili powder?",
+    "shock"
+   ],
+   "JP": [
+    "Perfectly balanced matcha smoothie is ready.",
+    "calm"
+   ],
+   "IT": [
+    "Wait, where is the espresso shot?",
+    "angry"
+   ],
+   "CA": [
+    "A splash of maple syrup makes it amazing!",
+    "happy"
+   ]
+  }
+ },
+ "trying_surfing": {
+  "title": "COUNTRIES TRYING SURFING",
+  "scene": "sun",
+  "name": "Surfing Lesson",
+  "lines": {
+   "BR": [
+    "Riding this massive wave is pure joy!",
+    "happy"
+   ],
+   "US": [
+    "Catching waves like a pro surfer today!",
+    "cool"
+   ],
+   "CA": [
+    "The water is surprisingly chilly today, eh?",
+    "shiver"
+   ],
+   "JP": [
+    "Bow to the ocean before catching waves.",
+    "calm"
+   ],
+   "MX": [
+    "I balance easily on this giant board!",
+    "cool"
+   ],
+   "NL": [
+    "Is there a bicycle lane on this beach?",
+    "shock"
+   ],
+   "FI": [
+    "I fell into the ocean again...",
+    "cry"
+   ]
+  }
+ },
+ "at_a_car_wash": {
+  "title": "COUNTRIES AT A CAR WASH",
+  "scene": "city",
+  "name": "Car Wash",
+  "lines": {
+   "DE": [
+    "Every single speck of dust must be removed.",
+    "cool"
+   ],
+   "IT": [
+    "My beautiful red sportscar shines like diamond!",
+    "love"
+   ],
+   "US": [
+    "Get the super premium wax package please!",
+    "happy"
+   ],
+   "JP": [
+    "The automatic brushes move in perfect harmony.",
+    "calm"
+   ],
+   "GB": [
+    "It started raining inside the car wash?",
+    "shock"
+   ],
+   "BR": [
+    "Turn up the music while we wash!",
+    "happy"
+   ],
+   "SE": [
+    "Eco-friendly soap is very important here.",
+    "calm"
+   ]
+  }
+ },
+ "losing_their_keys": {
+  "title": "COUNTRIES LOSING THEIR KEYS",
+  "scene": "living",
+  "name": "Lost Keys",
+  "lines": {
+   "DE": [
+    "I always put them in key holder slot B.",
+    "angry"
+   ],
+   "JP": [
+    "I checked every pocket methodically three times.",
+    "calm"
+   ],
+   "BR": [
+    "Don't panic, we will find them eventually!",
+    "happy"
+   ],
+   "ES": [
+    "I will look after my short afternoon nap.",
+    "sleepy"
+   ],
+   "CA": [
+    "Sorry to bother, has anyone seen my keys?",
+    "cry"
+   ],
+   "US": [
+    "Time to use the smart key finder app!",
+    "cool"
+   ]
+  }
+ },
+ "assembling_a_kite": {
+  "title": "COUNTRIES FLYING A KITE",
+  "scene": "park",
+  "name": "Kite Flying",
+  "lines": {
+   "IN": [
+    "Let us fly this high into the sky!",
+    "happy"
+   ],
+   "MX": [
+    "Bright colors make the kite look wonderful!",
+    "love"
+   ],
+   "NL": [
+    "The wind today is absolutely ideal for flying!",
+    "cool"
+   ],
+   "JP": [
+    "Crafted with bamboo and traditional paper precision.",
+    "calm"
+   ],
+   "GB": [
+    "It instantly got stuck in a tall tree...",
+    "cry"
+   ],
+   "US": [
+    "Needs a bigger tail for stunt tricks!",
+    "cool"
+   ],
+   "DE": [
+    "Aerodynamic stability requires balanced string tension.",
+    "calm"
+   ]
+  }
+ },
+ "in_an_escape_room": {
+  "title": "COUNTRIES IN AN ESCAPE ROOM",
+  "scene": "party",
+  "name": "Escape Room",
+  "lines": {
+   "DE": [
+    "I solved three logic puzzles in two minutes!",
+    "cool"
+   ],
+   "JP": [
+    "I found a hidden key behind the painting.",
+    "happy"
+   ],
+   "US": [
+    "Smash that lock, we need to break record time!",
+    "angry"
+   ],
+   "FR": [
+    "The dramatic lighting here is so atmospheric!",
+    "love"
+   ],
+   "CA": [
+    "Sorry room, did I pull this handle too hard?",
+    "shock"
+   ],
+   "BR": [
+    "This puzzle dance unlocks the secret door!",
+    "happy"
+   ],
+   "FI": [
+    "Can I just sit in the dark corner?",
+    "sleepy"
+   ]
+  }
+ },
+ "soup_is_too_hot": {
+  "title": "COUNTRIES WHEN THE SOUP IS TOO HOT",
+  "scene": "kitchen",
+  "name": "Hot Soup",
+  "lines": {
+   "MX": [
+    "Just blow on it and add hot sauce!",
+    "cool"
+   ],
+   "JP": [
+    "Slurping cools down the noodles very effectively!",
+    "calm"
+   ],
+   "IT": [
+    "My tongue is completely burnt right now!",
+    "cry"
+   ],
+   "DE": [
+    "Temperature exceeds maximum safe consumption threshold.",
+    "shock"
+   ],
+   "VN": [
+    "Patience makes the herbal broth taste much better.",
+    "calm"
+   ],
+   "US": [
+    "Drop an ice cube directly into the bowl!",
+    "happy"
+   ],
+   "KR": [
+    "Spicy soup is best served piping hot!",
+    "love"
+   ]
+  }
+ },
+ "tasting_hot_chocolate": {
+  "title": "COUNTRIES DRINKING HOT CHOCOLATE",
+  "scene": "snow",
+  "name": "Hot Chocolate",
+  "lines": {
+   "CH": [
+    "Only premium quality cocoa yields this perfection.",
+    "love"
+   ],
+   "US": [
+    "Pile on extra marshmallows and whipped cream!",
+    "happy"
+   ],
+   "MX": [
+    "A touch of cinnamon gives it true magic!",
+    "love"
+   ],
+   "IT": [
+    "It must be thick like melted chocolate bars.",
+    "cool"
+   ],
+   "GB": [
+    "Perfect drink for a cold foggy afternoon.",
+    "calm"
+   ]
+  }
+ },
+ "finding_money": {
+  "title": "COUNTRIES FINDING A TEN DOLLAR BILL",
+  "scene": "city",
+  "name": "Lucky Find",
+  "lines": {
+   "US": [
+    "Awesome! Free lunch cash found on the sidewalk!",
+    "happy"
+   ],
+   "DE": [
+    "I must submit this to the lost property office.",
+    "calm"
+   ],
+   "JP": [
+    "Who dropped this? I will hand it to police.",
+    "shock"
+   ],
+   "BR": [
+    "Lucky day! Ice cream treats for everyone now!",
+    "happy"
+   ],
+   "CA": [
+    "Is this yours? I found it by the bench!",
+    "calm"
+   ],
+   "IT": [
+    "Financially, today is looking extremely promising!",
+    "cool"
+   ],
+   "GB": [
+    "Oh dear, I stepped on it by mistake.",
+    "cry"
+   ]
+  }
+ },
+ "choosing_sunglasses": {
+  "title": "COUNTRIES CHOOSING SUNGLASSES",
+  "scene": "market",
+  "name": "Sunglasses",
+  "lines": {
+   "IT": [
+    "Designer frames only, style is everything!",
+    "cool"
+   ],
+   "US": [
+    "Polarized lenses for maximum aviator cool factor!",
+    "cool"
+   ],
+   "FR": [
+    "Very elegant vintage frames match my outfit.",
+    "love"
+   ],
+   "BR": [
+    "Bright tropical neon shades are the best!",
+    "happy"
+   ],
+   "DE": [
+    "UV four-hundred protection rating is verified.",
+    "calm"
+   ],
+   "JP": [
+    "Does this mirror reflection look balanced?",
+    "shock"
+   ],
+   "ES": [
+    "Essential equipment for sunny afternoon strolling!",
+    "happy"
+   ]
+  }
+ },
+ "strange_sound_at_night": {
+  "title": "COUNTRIES HEARING A SOUND AT NIGHT",
+  "scene": "night",
+  "name": "Night Sound",
+  "lines": {
+   "US": [
+    "Who is there? I have my flashlight ready!",
+    "angry"
+   ],
+   "JP": [
+    "It was just a small stray cat outside.",
+    "calm"
+   ],
+   "MX": [
+    "Did someone drop a pot in the kitchen?",
+    "shock"
+   ],
+   "CA": [
+    "Is that a friendly raccoon on the porch?",
+    "happy"
+   ],
+   "GB": [
+    "I shall investigate with a sturdy umbrella.",
+    "cool"
+   ],
+   "DE": [
+    "Checking security cameras to identify source.",
+    "calm"
+   ],
+   "FI": [
+    "I am staying under my cozy blanket forever.",
+    "shiver"
+   ]
+  }
+ },
+ "watching_tennis_match": {
+  "title": "COUNTRIES WATCHING A TENNIS MATCH",
+  "scene": "stadium",
+  "name": "Tennis Match",
+  "lines": {
+   "GB": [
+    "Quiet please, quiet during the serve!",
+    "angry"
+   ],
+   "ES": [
+    "What an incredible topspin forehand winner!",
+    "happy"
+   ],
+   "US": [
+    "That ball was definitely inside the line!",
+    "shock"
+   ],
+   "FR": [
+    "So gracious and beautiful clay court rallies!",
+    "love"
+   ],
+   "JP": [
+    "Turning head left and right continuously...",
+    "sleepy"
+   ],
+   "CH": [
+    "Flawless technical execution on every single point.",
+    "cool"
+   ],
+   "BR": [
+    "Cheering loudly for every amazing rally!",
+    "happy"
+   ]
+  }
+ },
+ "hotel_checkin": {
+  "title": "COUNTRIES CHECKING INTO A HOTEL",
+  "scene": "city",
+  "name": "Hotel Check-in",
+  "lines": {
+   "US": [
+    "Does my room have thirty pillows and free waffles?",
+    "happy"
+   ],
+   "GB": [
+    "Splendid! Now, where is the kettle stationed?",
+    "happy"
+   ],
+   "DE": [
+    "Checkout is at 11:00 sharp, not 11:01.",
+    "cool"
+   ],
+   "FR": [
+    "I hope the view overlooks something romantic and chic.",
+    "love"
+   ],
+   "IT": [
+    "Excuse me, where is the espresso maker located?",
+    "shock"
+   ],
+   "ES": [
+    "Can I request the late afternoon checkout, please?",
+    "sleepy"
+   ],
+   "CA": [
+    "Thank you so much! Sorry to bother you!",
+    "happy"
+   ]
+  }
+ },
+ "last_pizza_slice": {
+  "title": "COUNTRIES SHARING THE LAST PIZZA SLICE",
+  "scene": "party",
+  "name": "Last Pizza Slice",
+  "lines": {
+   "IT": [
+    "Whoever cuts it in half must cut it evenly!",
+    "angry"
+   ],
+   "US": [
+    "Too late! It is officially in my belly!",
+    "happy"
+   ],
+   "CA": [
+    "Oh no, you take it! I insist, buddy!",
+    "calm"
+   ],
+   "BR": [
+    "Add extra cheese and we dance for it!",
+    "happy"
+   ],
+   "DE": [
+    "I brought a ruler for an exact geometric division.",
+    "cool"
+   ],
+   "ES": [
+    "Wait, we have not decided yet! Do not eat!",
+    "shock"
+   ],
+   "FR": [
+    "At least tell me it has quality cheese atop.",
+    "love"
+   ]
+  }
+ },
+ "jigsaw_puzzle": {
+  "title": "COUNTRIES DOING A JIGSAW PUZZLE",
+  "scene": "living",
+  "name": "Jigsaw Puzzle",
+  "lines": {
+   "DE": [
+    "I sorted all edge pieces by exact shade, wunderbar!",
+    "happy"
+   ],
+   "US": [
+    "If this corner piece doesn't fit, I'll smash it!",
+    "angry"
+   ],
+   "JP": [
+    "A thousand pieces completed in total tranquil silence.",
+    "calm"
+   ],
+   "GB": [
+    "A lovely picture of a stormy castle, how splendid!",
+    "love"
+   ],
+   "FI": [
+    "Peaceful solitude at its finest. Do not speak.",
+    "cool"
+   ],
+   "BR": [
+    "Where is the music? Puzzles need a samba beat!",
+    "happy"
+   ],
+   "IT": [
+    "Mamma mia, one corner piece is missing forever!",
+    "cry"
+   ]
+  }
+ },
+ "cash_in_jeans": {
+  "title": "COUNTRIES FINDING CASH IN OLD JEANS",
+  "scene": "living",
+  "name": "Found Cash",
+  "lines": {
+   "US": [
+    "Twenty bucks! Extra fries for everybody on me!",
+    "happy"
+   ],
+   "JP": [
+    "I must return this to my personal savings envelope.",
+    "calm"
+   ],
+   "GB": [
+    "Brilliant! Past me bought future me a hot tea.",
+    "love"
+   ],
+   "IT": [
+    "A crisp banknote! Gelato time has officially begun!",
+    "happy"
+   ],
+   "MX": [
+    "Tacos for lunch! The universe has smiled today!",
+    "happy"
+   ],
+   "DE": [
+    "Did I declare this sudden income on my taxes?",
+    "shock"
+   ],
+   "IE": [
+    "The luck is back in my trousers today!",
+    "cool"
+   ],
+   "CA": [
+    "I found five dollars! It survived the wash nicely!",
+    "happy"
+   ]
+  }
+ },
+ "untangling_headphones": {
+  "title": "COUNTRIES UNTANGLING THEIR WIRED HEADPHONES",
+  "scene": "office",
+  "name": "Tangled Headphones",
+  "lines": {
+   "JP": [
+    "Careful geometry will untie this knot with grace.",
+    "calm"
+   ],
+   "US": [
+    "Why did I shove these in my pocket again?!",
+    "angry"
+   ],
+   "DE": [
+    "This knot defies all known rules of modern physics.",
+    "shock"
+   ],
+   "GB": [
+    "Right, gently pull the left cord through the loop.",
+    "calm"
+   ],
+   "BR": [
+    "Just yank it! Ah, now only one ear works.",
+    "cry"
+   ],
+   "CA": [
+    "I am so sorry I pulled too hard, wires!",
+    "cry"
+   ]
+  }
+ },
+ "accidental_nap": {
+  "title": "COUNTRIES WAKING UP FROM AN ACCIDENTAL NAP",
+  "scene": "living",
+  "name": "Accidental Nap",
+  "lines": {
+   "ES": [
+    "Ah, the siesta worked its magic once again!",
+    "happy"
+   ],
+   "US": [
+    "What year is it?! Did I miss the football?!",
+    "shock"
+   ],
+   "IT": [
+    "I fell asleep reading and the book hit me.",
+    "cry"
+   ],
+   "GR": [
+    "Best afternoon snooze ever. Time for some iced coffee.",
+    "calm"
+   ],
+   "MX": [
+    "Five more minutes, the couch is so comfy!",
+    "sleepy"
+   ],
+   "FI": [
+    "I am awake, but nobody make eye contact yet.",
+    "cool"
+   ]
+  }
  }
 }
