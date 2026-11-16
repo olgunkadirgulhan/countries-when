@@ -3714,6 +3714,24 @@
       "scene": "night",
       "kurgu": "classic",
       "seed": 100152
+    },
+    {
+      "id": "qdnHF18PWM0",
+      "date": "2026-11-16 18:38",
+      "kind": "short",
+      "title": "Countries When The Ac Breaks: 5 Countries React 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "heatwave",
+      "countries": [
+        "FI",
+        "TH",
+        "TR",
+        "GR",
+        "US"
+      ],
+      "scene": "sun",
+      "kurgu": "five",
+      "seed": 777896
     }
   ]
 }
