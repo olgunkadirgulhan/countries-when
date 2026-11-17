@@ -3784,6 +3784,24 @@
       "kurgu": "crown",
       "seed": 141361,
       "winner": 1
+    },
+    {
+      "id": "OXk8WoIDnSw",
+      "date": "2026-11-17 20:39",
+      "kind": "short",
+      "title": "POV: 5 Countries At The Buffet 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "at_the_buffet",
+      "countries": [
+        "IT",
+        "BR",
+        "US",
+        "IN",
+        "JP"
+      ],
+      "scene": "park",
+      "kurgu": "five",
+      "seed": 482630
     }
   ]
 }
