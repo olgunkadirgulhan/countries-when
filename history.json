@@ -3766,6 +3766,24 @@
       "scene": "sun",
       "kurgu": "classic",
       "seed": 702485
+    },
+    {
+      "id": "phEbAQKDC6Y",
+      "date": "2026-11-17 18:38",
+      "kind": "short",
+      "title": "Countries Tasting A Lemon (Best Answer?) 👑 #countryballs",
+      "privacy": "public",
+      "situation": "tasting_lemon",
+      "countries": [
+        "GB",
+        "TH",
+        "ES",
+        "IT"
+      ],
+      "scene": "kitchen",
+      "kurgu": "crown",
+      "seed": 141361,
+      "winner": 1
     }
   ]
 }
