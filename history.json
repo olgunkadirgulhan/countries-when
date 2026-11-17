@@ -3749,6 +3749,23 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 871718
+    },
+    {
+      "id": "VsDq41CF4DA",
+      "date": "2026-11-17 16:39",
+      "kind": "short",
+      "title": "Countryballs At The Beach 💀",
+      "privacy": "public",
+      "situation": "at_the_beach",
+      "countries": [
+        "BR",
+        "MX",
+        "GB",
+        "ES"
+      ],
+      "scene": "sun",
+      "kurgu": "classic",
+      "seed": 702485
     }
   ]
 }
