@@ -3802,6 +3802,135 @@
       "scene": "park",
       "kurgu": "five",
       "seed": 482630
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode",
+      "title": "Countryballs: 10 Situations, Every Country Reacts 🌍 | Episode 16",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "fresh_bread",
+      "countries": [
+        "DE",
+        "US",
+        "IT",
+        "IN"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "countries_packing_a_suit",
+      "countries": [
+        "JP",
+        "FR",
+        "IT",
+        "GB"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "pets",
+      "countries": [
+        "US",
+        "JP",
+        "GB",
+        "DE"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "blackout",
+      "countries": [
+        "GB",
+        "DE",
+        "IT",
+        "JP"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "cooking",
+      "countries": [
+        "BR",
+        "JP",
+        "GB",
+        "MX"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "sneeze",
+      "countries": [
+        "PH",
+        "CH",
+        "US",
+        "ID"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "internet",
+      "countries": [
+        "NO",
+        "US",
+        "FR",
+        "IT"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "when_autumn_begins",
+      "countries": [
+        "FR",
+        "US",
+        "CA",
+        "JP"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "building_furniture",
+      "countries": [
+        "DE",
+        "JP",
+        "FR",
+        "IT"
+      ]
+    },
+    {
+      "id": "8kDYBiEiXrI",
+      "date": "2026-11-18 01:57",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "TR",
+        "FR",
+        "TH",
+        "CA"
+      ]
     }
   ]
 }
