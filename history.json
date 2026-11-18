@@ -3966,6 +3966,24 @@
       "kurgu": "crown",
       "seed": 43208,
       "winner": 3
+    },
+    {
+      "id": "O38t3nEsdag",
+      "date": "2026-11-18 20:38",
+      "kind": "short",
+      "title": "Countryballs At An Ice Skating Rink: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "ice_skating",
+      "countries": [
+        "JP",
+        "NO",
+        "AT",
+        "BR"
+      ],
+      "scene": "snow",
+      "kurgu": "crown",
+      "seed": 943311,
+      "winner": 1
     }
   ]
 }
