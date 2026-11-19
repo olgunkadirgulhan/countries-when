@@ -3984,6 +3984,24 @@
       "kurgu": "crown",
       "seed": 943311,
       "winner": 1
+    },
+    {
+      "id": "CO3WgMgrTNo",
+      "date": "2026-11-19 16:38",
+      "kind": "short",
+      "title": "5 Countryballs At A Car Wash 😂",
+      "privacy": "public",
+      "situation": "car_wash",
+      "countries": [
+        "ES",
+        "FI",
+        "TR",
+        "GB",
+        "DE"
+      ],
+      "scene": "park",
+      "kurgu": "five",
+      "seed": 434160
     }
   ]
 }
