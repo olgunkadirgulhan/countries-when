@@ -4201,6 +4201,23 @@
       "scene": "office",
       "kurgu": "five",
       "seed": 550553
+    },
+    {
+      "id": "ujTDDGuQdWs",
+      "date": "2026-11-20 20:39",
+      "kind": "short",
+      "title": "Countries Going Stargazing (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "going_stargazing",
+      "countries": [
+        "PE",
+        "GB",
+        "GR",
+        "JP"
+      ],
+      "scene": "night",
+      "kurgu": "classic",
+      "seed": 568643
     }
   ]
 }
