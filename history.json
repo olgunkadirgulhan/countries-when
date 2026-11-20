@@ -4037,6 +4037,135 @@
       "scene": "market",
       "kurgu": "five",
       "seed": 25279
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode",
+      "title": "Countryball Chaos Episode 17: How Countries React to 10 Situations 🌍",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "office",
+      "countries": [
+        "KR",
+        "IT",
+        "JP",
+        "IN"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "rain",
+      "countries": [
+        "NL",
+        "BR",
+        "SE",
+        "PL"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "supermarket",
+      "countries": [
+        "FR",
+        "DE",
+        "IT",
+        "BR"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "traffic",
+      "countries": [
+        "IN",
+        "DE",
+        "CO",
+        "SE"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "shoes",
+      "countries": [
+        "SE",
+        "GB",
+        "FR",
+        "AT"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "tea",
+      "countries": [
+        "GB",
+        "PH",
+        "US",
+        "ID"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "picnic",
+      "countries": [
+        "AR",
+        "BR",
+        "US",
+        "GR"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "meeting",
+      "countries": [
+        "BR",
+        "US",
+        "GB",
+        "MX"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "compliment",
+      "countries": [
+        "CA",
+        "GB",
+        "FI",
+        "US"
+      ]
+    },
+    {
+      "id": "uTEUOkXdKS4",
+      "date": "2026-11-20 01:32",
+      "kind": "episode-part",
+      "situation": "playing_board_games",
+      "countries": [
+        "CH",
+        "IT",
+        "US",
+        "BR"
+      ]
     }
   ]
 }
