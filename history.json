@@ -4166,6 +4166,23 @@
         "US",
         "BR"
       ]
+    },
+    {
+      "id": "PR2Yx-i2oNk",
+      "date": "2026-11-20 16:38",
+      "kind": "short",
+      "title": "Countries When The Soup Is Too Hot (Which One Are You?) #countryballs",
+      "privacy": "public",
+      "situation": "hot_soup",
+      "countries": [
+        "DE",
+        "GB",
+        "JP",
+        "TH"
+      ],
+      "scene": "airport",
+      "kurgu": "classic",
+      "seed": 79998
     }
   ]
 }
