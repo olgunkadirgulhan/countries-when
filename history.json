@@ -4235,6 +4235,24 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 941757
+    },
+    {
+      "id": "d-nKtimFscU",
+      "date": "2026-11-21 18:38",
+      "kind": "short",
+      "title": "5 Countryballs Losing Their Keys 😂",
+      "privacy": "public",
+      "situation": "losing_their_keys",
+      "countries": [
+        "CA",
+        "BR",
+        "DE",
+        "JP",
+        "ES"
+      ],
+      "scene": "market",
+      "kurgu": "five",
+      "seed": 371129
     }
   ]
 }
