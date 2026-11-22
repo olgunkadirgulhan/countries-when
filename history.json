@@ -4288,6 +4288,24 @@
       "scene": "snow",
       "kurgu": "five",
       "seed": 132307
+    },
+    {
+      "id": "v-iGgU-_Y0s",
+      "date": "2026-11-22 18:38",
+      "kind": "short",
+      "title": "Countryballs Taking A Group Photo: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "group_photo",
+      "countries": [
+        "JP",
+        "IT",
+        "FR",
+        "DE"
+      ],
+      "scene": "park",
+      "kurgu": "crown",
+      "seed": 373340,
+      "winner": 3
     }
   ]
 }
