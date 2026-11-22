@@ -4306,6 +4306,24 @@
       "kurgu": "crown",
       "seed": 373340,
       "winner": 3
+    },
+    {
+      "id": "LrPgAHWQxw4",
+      "date": "2026-11-22 20:38",
+      "kind": "short",
+      "title": "Countries When They Drop Their Phone: 5 Countries React 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "phonedrop",
+      "countries": [
+        "IN",
+        "GB",
+        "JP",
+        "FI",
+        "HU"
+      ],
+      "scene": "city",
+      "kurgu": "five",
+      "seed": 270392
     }
   ]
 }
