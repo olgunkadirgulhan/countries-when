@@ -4270,6 +4270,24 @@
       "scene": "sun",
       "kurgu": "classic",
       "seed": 715340
+    },
+    {
+      "id": "CuT57lMTG3A",
+      "date": "2026-11-22 16:38",
+      "kind": "short",
+      "title": "POV: 5 Countries Building A Snowman 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "building_snowman",
+      "countries": [
+        "CA",
+        "BR",
+        "FI",
+        "MX",
+        "NO"
+      ],
+      "scene": "snow",
+      "kurgu": "five",
+      "seed": 132307
     }
   ]
 }
