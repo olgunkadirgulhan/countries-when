@@ -350,6 +350,54 @@ LINES = {
   "untangling_headphones": [
    "I am so sorry I pulled too hard, wires!",
    "cry"
+  ],
+  "asking_for_sauce": [
+   "Is maple syrup an option for this?",
+   "happy"
+  ],
+  "plugging_charger_dark": [
+   "Sorry wall, missed the socket again.",
+   "cry"
+  ],
+  "blowing_a_bubble": [
+   "The wind carried mine so high!",
+   "happy"
+  ],
+  "talent_show": [
+   "I can juggle hockey pucks easily!",
+   "shock"
+  ],
+  "watching_sunset": [
+   "So peaceful and calm out here.",
+   "calm"
+  ],
+  "bus_is_early": [
+   "Thank you driver for waiting a second!",
+   "love"
+  ],
+  "burning_toast": [
+   "I am so sorry, toaster! My bad!",
+   "cry"
+  ],
+  "very_windy": [
+   "This breeze is actually quite refreshing, eh?",
+   "calm"
+  ],
+  "feeding_ducks": [
+   "Hello little ducks, please share politely!",
+   "love"
+  ],
+  "missing_train": [
+   "Sorry to the doors for closing on me!",
+   "cry"
+  ],
+  "countries_trying_sour_ca": [
+   "Is it supposed to sting like this?",
+   "shock"
+  ],
+  "countries_dropping_ice_c": [
+   "Oh sorry, ground, for dropping ice cream on you!",
+   "calm"
   ]
  },
  "BR": {
@@ -788,6 +836,70 @@ LINES = {
   "untangling_headphones": [
    "Just yank it! Ah, now only one ear works.",
    "cry"
+  ],
+  "opening_a_jar": [
+   "Pass it to me, I got this!",
+   "happy"
+  ],
+  "choosing_wallpaper": [
+   "We need bright tropical palm leaves everywhere!",
+   "happy"
+  ],
+  "accidental_flash": [
+   "Smile everyone! We look fantastic!",
+   "happy"
+  ],
+  "plugging_charger_dark": [
+   "I got it on the fifth try!",
+   "happy"
+  ],
+  "remembering_a_song": [
+   "It goes la la la dance beat!",
+   "happy"
+  ],
+  "talent_show": [
+   "Samba dance performance starting right now!",
+   "happy"
+  ],
+  "watching_sunset": [
+   "The colors are bright and amazing!",
+   "happy"
+  ],
+  "bus_is_early": [
+   "Hey, saving five minutes is great!",
+   "cool"
+  ],
+  "spotting_rainbow": [
+   "Look at those bright colors! Beautiful!",
+   "love"
+  ],
+  "water_slide": [
+   "Woohoo! Faster! That was so much fun!",
+   "happy"
+  ],
+  "decorating_cake": [
+   "Cover the entire cake with delicious brigadeiro!",
+   "happy"
+  ],
+  "loud_whistle": [
+   "Is that the referee? Game on, let's play!",
+   "happy"
+  ],
+  "four_leaf_clover": [
+   "This brings super good vibes for everyone!",
+   "happy"
+  ],
+  "countries_burning_the_to": [
+   "Add butter, it will taste fine!",
+   "happy"
+  ],
+  "countries_spilling_bubbl": [
+   "Don't cry, let us get smoothies instead!",
+   "cool"
+  ],
+  "countries_at_a_garage_sa": [
+   "I found a bargain! Look at this!",
+   "shock"
   ]
  },
  "US": {
@@ -1354,6 +1466,114 @@ LINES = {
   "accidental_nap": [
    "What year is it?! Did I miss the football?!",
    "shock"
+  ],
+  "asking_for_sauce": [
+   "Can I get extra ranch with that?",
+   "cool"
+  ],
+  "opening_a_jar": [
+   "I will use maximum muscle power!",
+   "angry"
+  ],
+  "farmers_market": [
+   "I will buy three whole crates!",
+   "cool"
+  ],
+  "accidental_flash": [
+   "Strike a pose just in case!",
+   "cool"
+  ],
+  "plugging_charger_dark": [
+   "Why does USB never fit first try?!",
+   "angry"
+  ],
+  "blowing_a_bubble": [
+   "I will make the biggest one ever!",
+   "cool"
+  ],
+  "remembering_a_song": [
+   "I know the chorus! Sing it loud!",
+   "cool"
+  ],
+  "talent_show": [
+   "Watch this extreme guitar solo, everyone!",
+   "cool"
+  ],
+  "heating_frozen_pizza": [
+   "Extra cheese added before baking, nice!",
+   "happy"
+  ],
+  "watching_sunset": [
+   "Quick, take a photo for everyone!",
+   "cool"
+  ],
+  "bus_is_early": [
+   "Wait for me! I am running!",
+   "cry"
+  ],
+  "burning_toast": [
+   "Just scrape it off and add bacon!",
+   "happy"
+  ],
+  "spotting_rainbow": [
+   "Quick, take a photo for my story!",
+   "happy"
+  ],
+  "packing_lunchbox": [
+   "Peanut butter and jelly sandwich, classic and fast!",
+   "happy"
+  ],
+  "feeding_ducks": [
+   "Look at them go! Quarterback throw with popcorn!",
+   "happy"
+  ],
+  "water_slide": [
+   "Cannonball into the splash zone at the end!",
+   "happy"
+  ],
+  "decorating_cake": [
+   "Add three more layers of rainbow frosting!",
+   "happy"
+  ],
+  "missing_train": [
+   "Can I hail a ride share app instead?",
+   "happy"
+  ],
+  "bubble_tea": [
+   "Can I get the extra large mega size?",
+   "happy"
+  ],
+  "spicy_chips": [
+   "Whoa! That has a real kick to it!",
+   "shock"
+  ],
+  "loud_whistle": [
+   "Time out! Who called that penalty?",
+   "angry"
+  ],
+  "four_leaf_clover": [
+   "I am going to buy a lottery ticket!",
+   "happy"
+  ],
+  "countries_trying_sour_ca": [
+   "My eyes are watering, but I love this!",
+   "love"
+  ],
+  "countries_burning_the_to": [
+   "Quick, wave a towel at the smoke detector!",
+   "shock"
+  ],
+  "countries_spilling_bubbl": [
+   "That was a large size too!",
+   "angry"
+  ],
+  "countries_dropping_ice_c": [
+   "Five second rule! Should I pick it up?",
+   "shock"
+  ],
+  "countries_at_a_garage_sa": [
+   "I will take this retro lamp for two dollars!",
+   "happy"
   ]
  },
  "TR": {
@@ -1632,6 +1852,22 @@ LINES = {
   "car_wash": [
    "Our car is going to shine so bright!",
    "love"
+  ],
+  "asking_for_sauce": [
+   "Garlic sauce is mandatory here!",
+   "angry"
+  ],
+  "spotting_rainbow": [
+   "Let's drink Turkish tea and admire it!",
+   "happy"
+  ],
+  "feeding_ducks": [
+   "Have some simit, my feathered little friends!",
+   "happy"
+  ],
+  "countries_dropping_ice_c": [
+   "Ha! That is why I hold it tight!",
+   "cool"
   ]
  },
  "JP": {
@@ -2114,6 +2350,106 @@ LINES = {
   "untangling_headphones": [
    "Careful geometry will untie this knot with grace.",
    "calm"
+  ],
+  "asking_for_sauce": [
+   "Soy sauce makes every bowl complete.",
+   "happy"
+  ],
+  "farmers_market": [
+   "Everything is displayed so neatly!",
+   "cool"
+  ],
+  "choosing_wallpaper": [
+   "Clean white walls bring peace to room.",
+   "cool"
+  ],
+  "accidental_flash": [
+   "Oh! Did someone just take my photo?",
+   "shock"
+  ],
+  "plugging_charger_dark": [
+   "Feeling for the outlet carefully now.",
+   "calm"
+  ],
+  "remembering_a_song": [
+   "Search app by humming into mic!",
+   "shock"
+  ],
+  "talent_show": [
+   "Observe my fast origami folding trick.",
+   "calm"
+  ],
+  "heating_frozen_pizza": [
+   "Timer set, waiting patiently now.",
+   "happy"
+  ],
+  "watching_sunset": [
+   "Quiet moment of pure quiet beauty.",
+   "love"
+  ],
+  "bus_is_early": [
+   "The bus came early?! Incredible shock!",
+   "shock"
+  ],
+  "burning_toast": [
+   "I accept this crispiness with graceful dignity.",
+   "sleepy"
+  ],
+  "spotting_rainbow": [
+   "Ah, nature is showing its magical art.",
+   "love"
+  ],
+  "very_windy": [
+   "Please hold onto your hats everyone!",
+   "shock"
+  ],
+  "packing_lunchbox": [
+   "I made a cute bento shaped like pandas!",
+   "love"
+  ],
+  "water_slide": [
+   "Whoa! That turn was unexpectedly thrilling!",
+   "shock"
+  ],
+  "missing_train": [
+   "The train was two seconds early! Impossible!",
+   "shock"
+  ],
+  "bubble_tea": [
+   "Matcha flavor with soft tapioca pearls, wonderful!",
+   "love"
+  ],
+  "spicy_chips": [
+   "Very spicy, but surprisingly addicting crisp!",
+   "happy"
+  ],
+  "loud_whistle": [
+   "I will bow respectfully and step back.",
+   "calm"
+  ],
+  "four_leaf_clover": [
+   "I shall press it inside my notebook safely.",
+   "love"
+  ],
+  "countries_trying_sour_ca": [
+   "This is surprisingly intense, very sour!",
+   "shock"
+  ],
+  "countries_burning_the_to": [
+   "I apologize to the toast deeply.",
+   "calm"
+  ],
+  "countries_spilling_bubbl": [
+   "Oh no, my fresh tapioca balls!",
+   "cry"
+  ],
+  "countries_dropping_ice_c": [
+   "At least the grass got a sweet treat.",
+   "happy"
+  ],
+  "countries_at_a_garage_sa": [
+   "Everything here is kept in such neat condition!",
+   "calm"
   ]
  },
  "MX": {
@@ -2476,6 +2812,66 @@ LINES = {
   "accidental_nap": [
    "Five more minutes, the couch is so comfy!",
    "sleepy"
+  ],
+  "asking_for_sauce": [
+   "More hot salsa on everything, please!",
+   "happy"
+  ],
+  "farmers_market": [
+   "These peppers look wonderfully spicy!",
+   "happy"
+  ],
+  "choosing_wallpaper": [
+   "Colorful tiles will make it shine!",
+   "happy"
+  ],
+  "blowing_a_bubble": [
+   "Look how big this bubble got!",
+   "happy"
+  ],
+  "heating_frozen_pizza": [
+   "Needs hot sauce on top immediately!",
+   "cool"
+  ],
+  "burning_toast": [
+   "Throw some salsa on it, it's fine!",
+   "happy"
+  ],
+  "very_windy": [
+   "Who turned on the giant fan outside?",
+   "shock"
+  ],
+  "water_slide": [
+   "Again! Again! Let's go down together!",
+   "happy"
+  ],
+  "decorating_cake": [
+   "Make it three milks! Tres leches time!",
+   "happy"
+  ],
+  "bubble_tea": [
+   "Can you add a tamarind straw to this?",
+   "happy"
+  ],
+  "spicy_chips": [
+   "Needs more hot sauce! This is super mild!",
+   "cool"
+  ],
+  "four_leaf_clover": [
+   "I will frame it for good fortune!",
+   "happy"
+  ],
+  "countries_trying_sour_ca": [
+   "Pfft, this needs more chili powder!",
+   "cool"
+  ],
+  "countries_chopping_an_on": [
+   "Put on swim goggles, it works every time!",
+   "cool"
+  ],
+  "countries_at_a_garage_sa": [
+   "Look at all these amazing hidden treasures!",
+   "love"
   ]
  },
  "DE": {
@@ -2942,6 +3338,86 @@ LINES = {
   "untangling_headphones": [
    "This knot defies all known rules of modern physics.",
    "shock"
+  ],
+  "asking_for_sauce": [
+   "Mustard must be precisely measured.",
+   "calm"
+  ],
+  "opening_a_jar": [
+   "Tap the lid gently with a spoon!",
+   "calm"
+  ],
+  "choosing_wallpaper": [
+   "Patterns must line up with absolute precision.",
+   "angry"
+  ],
+  "accidental_flash": [
+   "Flash photography without permission is unauthorized!",
+   "angry"
+  ],
+  "plugging_charger_dark": [
+   "Flipping plug to correct orientation now.",
+   "cool"
+  ],
+  "blowing_a_bubble": [
+   "Bubble diameter is exactly ten centimeters.",
+   "calm"
+  ],
+  "talent_show": [
+   "My entry is assembling a chair blindfolded.",
+   "cool"
+  ],
+  "heating_frozen_pizza": [
+   "Preheat oven to precisely 200 degrees.",
+   "calm"
+  ],
+  "bus_is_early": [
+   "Early is not on schedule! Unacceptable!",
+   "angry"
+  ],
+  "burning_toast": [
+   "The toaster settings were calibrated incorrectly.",
+   "cool"
+  ],
+  "very_windy": [
+   "Wind turbines are operating at peak efficiency today.",
+   "cool"
+  ],
+  "water_slide": [
+   "Hydrodynamic design allows maximum velocity here.",
+   "cool"
+  ],
+  "decorating_cake": [
+   "The geometric symmetry of this cake is optimal.",
+   "cool"
+  ],
+  "missing_train": [
+   "This delay messes up my entire weekly schedule!",
+   "angry"
+  ],
+  "bubble_tea": [
+   "Calculating percentage of sweet syrup in liquid volume.",
+   "cool"
+  ],
+  "spicy_chips": [
+   "My eyes are watering against my free will.",
+   "shock"
+  ],
+  "four_leaf_clover": [
+   "A rare genetic mutation of clover plant.",
+   "cool"
+  ],
+  "countries_trying_sour_ca": [
+   "Sourness rating: ten out of ten!",
+   "happy"
+  ],
+  "countries_burning_the_to": [
+   "Timer malfunction! We must investigate the toaster.",
+   "angry"
+  ],
+  "countries_chopping_an_on": [
+   "Precision cuts make the crying worth it.",
+   "calm"
   ]
  },
  "IN": {
@@ -3243,6 +3719,14 @@ LINES = {
   ],
   "assembling_a_kite": [
    "Let us fly this high into the sky!",
+   "happy"
+  ],
+  "spicy_chips": [
+   "A pleasant little kick, but very sweet!",
+   "happy"
+  ],
+  "countries_chopping_an_on": [
+   "Keep chopping! The curry demands more onions!",
    "happy"
   ]
  },
@@ -3705,6 +4189,74 @@ LINES = {
   ],
   "accidental_nap": [
    "I fell asleep reading and the book hit me.",
+   "cry"
+  ],
+  "asking_for_sauce": [
+   "Just a drizzle of olive oil, perfect!",
+   "love"
+  ],
+  "farmers_market": [
+   "The tomatoes smell like absolute heaven!",
+   "love"
+  ],
+  "accidental_flash": [
+   "Make sure my hair looks good!",
+   "love"
+  ],
+  "remembering_a_song": [
+   "The melody goes high then drops low!",
+   "love"
+  ],
+  "talent_show": [
+   "I shall sing opera at top volume!",
+   "love"
+  ],
+  "heating_frozen_pizza": [
+   "This is acceptable... only in emergency!",
+   "cry"
+  ],
+  "very_windy": [
+   "My hair! Hours of styling, totally destroyed!",
+   "shock"
+  ],
+  "packing_lunchbox": [
+   "Leftover pasta tastes even better the next day!",
+   "love"
+  ],
+  "feeding_ducks": [
+   "They are singing while they eat! So sweet!",
+   "love"
+  ],
+  "water_slide": [
+   "My swimsuit was not built for this speed!",
+   "cry"
+  ],
+  "decorating_cake": [
+   "Needs a touch of espresso powder on top!",
+   "love"
+  ],
+  "missing_train": [
+   "No problem, I will drink coffee until next!",
+   "happy"
+  ],
+  "spicy_chips": [
+   "Mama mia! Call the fire department immediately!",
+   "shock"
+  ],
+  "loud_whistle": [
+   "That referee needs glasses and new whistle!",
+   "angry"
+  ],
+  "countries_trying_sour_ca": [
+   "Mamma mia, my tongue has fainted!",
+   "cry"
+  ],
+  "countries_burning_the_to": [
+   "How can anyone eat charcoal for breakfast?",
+   "shock"
+  ],
+  "countries_dropping_ice_c": [
+   "My triple scoop gelato, gone forever!",
    "cry"
   ]
  },
@@ -4172,6 +4724,90 @@ LINES = {
   "untangling_headphones": [
    "Right, gently pull the left cord through the loop.",
    "calm"
+  ],
+  "opening_a_jar": [
+   "Maybe polite encouragement will loosen the lid?",
+   "love"
+  ],
+  "choosing_wallpaper": [
+   "A floral pattern feels cozy and polite.",
+   "love"
+  ],
+  "accidental_flash": [
+   "Pardon me, was that a lightning strike?",
+   "calm"
+  ],
+  "blowing_a_bubble": [
+   "Oh dear, it popped on my nose.",
+   "shock"
+  ],
+  "remembering_a_song": [
+   "It was a hummable tune, I think.",
+   "calm"
+  ],
+  "heating_frozen_pizza": [
+   "Ten minutes left according to the box.",
+   "cool"
+  ],
+  "bus_is_early": [
+   "Splendid! I shall board right away.",
+   "happy"
+  ],
+  "burning_toast": [
+   "Oh dear, extra butter will fix this nicely.",
+   "calm"
+  ],
+  "spotting_rainbow": [
+   "Well, at least the rain stopped briefly.",
+   "calm"
+  ],
+  "very_windy": [
+   "My umbrella has turned inside out again.",
+   "cry"
+  ],
+  "feeding_ducks": [
+   "Do ducks enjoy a scone crumb, perhaps?",
+   "calm"
+  ],
+  "water_slide": [
+   "I believe I swallowed half the pool water.",
+   "shock"
+  ],
+  "decorating_cake": [
+   "A nice thick layer of jam in middle!",
+   "happy"
+  ],
+  "missing_train": [
+   "Ah well, time to stand quietly and wait.",
+   "calm"
+  ],
+  "spicy_chips": [
+   "Water! Quick! My tongue is on fire!",
+   "cry"
+  ],
+  "loud_whistle": [
+   "Good heavens! My ears are ringing now!",
+   "shock"
+  ],
+  "four_leaf_clover": [
+   "Fancy that! What a lovely little botanical anomaly.",
+   "calm"
+  ],
+  "countries_trying_sour_ca": [
+   "Oh dear, my face is completely stuck!",
+   "cry"
+  ],
+  "countries_burning_the_to": [
+   "It is just a little extra crispy!",
+   "calm"
+  ],
+  "countries_dropping_ice_c": [
+   "A tragedy of the highest order.",
+   "calm"
+  ],
+  "countries_at_a_garage_sa": [
+   "What a charming collection of old tea cups!",
+   "happy"
   ]
  },
  "ES": {
@@ -4418,6 +5054,30 @@ LINES = {
   "accidental_nap": [
    "Ah, the siesta worked its magic once again!",
    "happy"
+  ],
+  "plugging_charger_dark": [
+   "I am too tired for this!",
+   "sleepy"
+  ],
+  "talent_show": [
+   "Flamenco rhythm is unmatched!",
+   "happy"
+  ],
+  "watching_sunset": [
+   "Golden hour is the best time!",
+   "happy"
+  ],
+  "very_windy": [
+   "I am flying away like a kite!",
+   "happy"
+  ],
+  "missing_train": [
+   "More time to enjoy the sunny morning weather!",
+   "happy"
+  ],
+  "countries_burning_the_to": [
+   "No problem, just scrape off the black part!",
+   "cool"
   ]
  },
  "NL": {
@@ -4635,6 +5295,22 @@ LINES = {
   ],
   "assembling_a_kite": [
    "The wind today is absolutely ideal for flying!",
+   "cool"
+  ],
+  "farmers_market": [
+   "Fresh flowers and cheese everywhere!",
+   "happy"
+  ],
+  "spotting_rainbow": [
+   "Can I cycle through it on my bike?",
+   "cool"
+  ],
+  "very_windy": [
+   "Perfect day for a nice bike ride!",
+   "happy"
+  ],
+  "countries_at_a_garage_sa": [
+   "Can I get a discount if I buy both?",
    "cool"
   ]
  },
@@ -4906,6 +5582,30 @@ LINES = {
   "at_a_car_wash": [
    "Eco-friendly soap is very important here.",
    "calm"
+  ],
+  "opening_a_jar": [
+   "Use a rubber grip towel, works fast!",
+   "happy"
+  ],
+  "choosing_wallpaper": [
+   "Minimalist beige is clearly the best choice.",
+   "calm"
+  ],
+  "watching_sunset": [
+   "Sun is setting so early today.",
+   "shiver"
+  ],
+  "bus_is_early": [
+   "I had to sprint down the street!",
+   "shiver"
+  ],
+  "feeding_ducks": [
+   "One duck gave me a very stern look.",
+   "shock"
+  ],
+  "countries_chopping_an_on": [
+   "My eyes are burning so much!",
+   "cry"
   ]
  },
  "NO": {
@@ -5242,6 +5942,10 @@ LINES = {
   "baking_cookies": [
    "These smell just like my grandma used to bake!",
    "love"
+  ],
+  "countries_chopping_an_on": [
+   "This onion is very strong today!",
+   "shock"
   ]
  },
  "CH": {
@@ -5404,6 +6108,10 @@ LINES = {
   "watching_tennis_match": [
    "Flawless technical execution on every single point.",
    "cool"
+  ],
+  "farmers_market": [
+   "The prices are calculated very precisely.",
+   "calm"
   ]
  },
  "NG": {
@@ -5854,6 +6562,14 @@ LINES = {
   "accidental_nap": [
    "Best afternoon snooze ever. Time for some iced coffee.",
    "calm"
+  ],
+  "watching_sunset": [
+   "The sky looks beautiful over the water!",
+   "love"
+  ],
+  "countries_chopping_an_on": [
+   "Squeeze a lemon on the board quickly!",
+   "calm"
   ]
  },
  "CO": {
@@ -6178,6 +6894,10 @@ LINES = {
   "hearing_thunder": [
    "Time to light candles just in case!",
    "calm"
+  ],
+  "countries_spilling_bubbl": [
+   "Quick! Save the straw at least!",
+   "shock"
   ]
  },
  "VN": {
@@ -6316,6 +7036,10 @@ LINES = {
   "soup_is_too_hot": [
    "Patience makes the herbal broth taste much better.",
    "calm"
+  ],
+  "countries_spilling_bubbl": [
+   "It is okay, I will buy another cup!",
+   "happy"
   ]
  },
  "TH": {
@@ -6482,6 +7206,18 @@ LINES = {
   "tasting_lemon": [
    "This tastes fantastic with some crushed pepper!",
    "happy"
+  ],
+  "bubble_tea": [
+   "Half sugar, double boba, extra ice please!",
+   "happy"
+  ],
+  "countries_spilling_bubbl": [
+   "My sweet tea! The pavement is drinking it!",
+   "shock"
+  ],
+  "countries_chopping_an_on": [
+   "I cry, but the soup will be amazing!",
+   "love"
   ]
  },
  "FR": {
@@ -6796,6 +7532,62 @@ LINES = {
   "last_pizza_slice": [
    "At least tell me it has quality cheese atop.",
    "love"
+  ],
+  "farmers_market": [
+   "Look at these magnificent fresh cheeses!",
+   "love"
+  ],
+  "blowing_a_bubble": [
+   "Floating bubbles are pure art.",
+   "love"
+  ],
+  "remembering_a_song": [
+   "What was that classic synth hook?",
+   "cool"
+  ],
+  "heating_frozen_pizza": [
+   "At least add fresh basil leaves!",
+   "angry"
+  ],
+  "burning_toast": [
+   "Sacré bleu! My sacred brioche is ruined!",
+   "shock"
+  ],
+  "packing_lunchbox": [
+   "A small baguette with fresh brie, perfection.",
+   "cool"
+  ],
+  "feeding_ducks": [
+   "Only the finest baguette crumbs for monsieur duck.",
+   "cool"
+  ],
+  "decorating_cake": [
+   "Precision icing! It must look like high art!",
+   "cool"
+  ],
+  "missing_train": [
+   "I will write a dramatic poem about waiting.",
+   "cool"
+  ],
+  "bubble_tea": [
+   "Tapioca pearls? A very peculiar culinary texture.",
+   "cool"
+  ],
+  "loud_whistle": [
+   "Such dramatic noise interrupting our match!",
+   "cool"
+  ],
+  "four_leaf_clover": [
+   "It is pretty, but is it edible?",
+   "cool"
+  ],
+  "countries_burning_the_to": [
+   "Sacré-bleu, my lovely baguette is ruined!",
+   "cry"
+  ],
+  "countries_chopping_an_on": [
+   "I am not crying, it is tears of joy!",
+   "cry"
   ]
  },
  "AR": {
@@ -6846,6 +7638,14 @@ LINES = {
   "baking_cookies": [
    "Do not forget to put caramel inside them!",
    "happy"
+  ],
+  "loud_whistle": [
+   "Penalty! Give us a penalty kick right now!",
+   "happy"
+  ],
+  "countries_dropping_ice_c": [
+   "My dulce de leche scoop! Why me?!",
+   "cry"
   ]
  },
  "KR": {
@@ -7164,6 +7964,50 @@ LINES = {
   "soup_is_too_hot": [
    "Spicy soup is best served piping hot!",
    "love"
+  ],
+  "opening_a_jar": [
+   "Why is this lid glued shut?!",
+   "shock"
+  ],
+  "accidental_flash": [
+   "Wait, my peace sign was not ready!",
+   "cry"
+  ],
+  "plugging_charger_dark": [
+   "Light of screen guides the way!",
+   "shock"
+  ],
+  "blowing_a_bubble": [
+   "No! It popped right away!",
+   "cry"
+  ],
+  "remembering_a_song": [
+   "I have had it stuck all day!",
+   "cry"
+  ],
+  "heating_frozen_pizza": [
+   "Is it melted yet?! I am hungry!",
+   "shock"
+  ],
+  "packing_lunchbox": [
+   "Must add rice and plenty of kimchi!",
+   "happy"
+  ],
+  "bubble_tea": [
+   "Taro milk tea with extra cheese foam, perfection!",
+   "love"
+  ],
+  "spicy_chips": [
+   "Mmm, spicy and crunchy! Give me the bag!",
+   "happy"
+  ],
+  "countries_trying_sour_ca": [
+   "Pass me another one right now!",
+   "happy"
+  ],
+  "countries_spilling_bubbl": [
+   "No! My boba pearls are rolling away!",
+   "cry"
   ]
  },
  "IE": {
@@ -7218,6 +8062,18 @@ LINES = {
   "cash_in_jeans": [
    "The luck is back in my trousers today!",
    "cool"
+  ],
+  "farmers_market": [
+   "These fresh potatoes look glorious!",
+   "happy"
+  ],
+  "spotting_rainbow": [
+   "Follow it! The pot of gold is mine!",
+   "happy"
+  ],
+  "four_leaf_clover": [
+   "Aha! Extra luck for all my friends today!",
+   "happy"
   ]
  },
  "BE": {
@@ -7256,6 +8112,10 @@ LINES = {
   "sports": [
    "Cycling in the mud!",
    "happy"
+  ],
+  "countries_dropping_ice_c": [
+   "My waffle cone is ruined!",
+   "angry"
   ]
  },
  "PE": {
@@ -7470,6 +8330,22 @@ LINES = {
   "accidental_nap": [
    "I am awake, but nobody make eye contact yet.",
    "cool"
+  ],
+  "asking_for_sauce": [
+   "No sauce needed, plain is best.",
+   "cool"
+  ],
+  "choosing_wallpaper": [
+   "Grey is fine. Plain grey.",
+   "sleepy"
+  ],
+  "spotting_rainbow": [
+   "Too many colors. Give me back gray.",
+   "cool"
+  ],
+  "countries_at_a_garage_sa": [
+   "I am just browsing quietly in the back.",
+   "sleepy"
   ]
  },
  "AT": {
