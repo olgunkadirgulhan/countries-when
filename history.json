@@ -4470,6 +4470,23 @@
       "scene": "sun",
       "kurgu": "classic",
       "seed": 157572
+    },
+    {
+      "id": "NbJMSKLYmiM",
+      "date": "2026-11-23 18:39",
+      "kind": "short",
+      "title": "Countryballs At The Bakery 💀",
+      "privacy": "public",
+      "situation": "countries_at_the_bakery",
+      "countries": [
+        "TR",
+        "MX",
+        "DE",
+        "IT"
+      ],
+      "scene": "night",
+      "kurgu": "classic",
+      "seed": 605098
     }
   ]
 }
