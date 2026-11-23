@@ -4487,6 +4487,24 @@
       "scene": "night",
       "kurgu": "classic",
       "seed": 605098
+    },
+    {
+      "id": "DQ6oRnkQS8I",
+      "date": "2026-11-23 20:39",
+      "kind": "short",
+      "title": "POV: 5 Countries Playing Mini Golf 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "mini_golf",
+      "countries": [
+        "IT",
+        "DE",
+        "CA",
+        "MX",
+        "JP"
+      ],
+      "scene": "park",
+      "kurgu": "five",
+      "seed": 799998
     }
   ]
 }
