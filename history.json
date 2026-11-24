@@ -4539,6 +4539,24 @@
       "scene": "office",
       "kurgu": "classic",
       "seed": 551279
+    },
+    {
+      "id": "17HAQL04l_E",
+      "date": "2026-11-24 20:38",
+      "kind": "short",
+      "title": "POV: 5 Countries When It Is Very Windy 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "very_windy",
+      "countries": [
+        "GB",
+        "MX",
+        "NL",
+        "CA",
+        "IT"
+      ],
+      "scene": "party",
+      "kurgu": "five",
+      "seed": 981865
     }
   ]
 }
