@@ -4557,6 +4557,135 @@
       "scene": "party",
       "kurgu": "five",
       "seed": 981865
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode",
+      "title": "Countryballs: 10 Situations, Every Country Reacts 🌍 | Episode 19",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "vacation",
+      "countries": [
+        "BR",
+        "ID",
+        "TH",
+        "US"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "heat",
+      "countries": [
+        "GB",
+        "MX",
+        "ES",
+        "DE"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "shoes",
+      "countries": [
+        "US",
+        "NO",
+        "CA",
+        "FI"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "airport",
+      "countries": [
+        "TR",
+        "MX",
+        "JP",
+        "BR"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "teacher",
+      "countries": [
+        "PH",
+        "IN",
+        "SE",
+        "US"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "tasting_street_food",
+      "countries": [
+        "VN",
+        "IT",
+        "TR",
+        "MX"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "buffet_time",
+      "countries": [
+        "FR",
+        "TR",
+        "IT",
+        "US"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "souvenir",
+      "countries": [
+        "GB",
+        "KR",
+        "GR",
+        "CH"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "riding_a_bicycle",
+      "countries": [
+        "FR",
+        "CA",
+        "DK",
+        "NL"
+      ]
+    },
+    {
+      "id": "mY6vAzkiW4o",
+      "date": "2026-11-25 03:16",
+      "kind": "episode-part",
+      "situation": "dinner",
+      "countries": [
+        "ES",
+        "NO",
+        "IT",
+        "KR"
+      ]
     }
   ]
 }
