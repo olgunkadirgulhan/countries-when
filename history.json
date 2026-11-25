@@ -4704,6 +4704,23 @@
       "scene": "night",
       "kurgu": "five",
       "seed": 814633
+    },
+    {
+      "id": "D0iH7TvmXdU",
+      "date": "2026-11-25 19:38",
+      "kind": "short",
+      "title": "Countryball Memes: Countries Choosing A New Wallpaper 🤣",
+      "privacy": "public",
+      "situation": "choosing_wallpaper",
+      "countries": [
+        "DE",
+        "MX",
+        "GB",
+        "SE"
+      ],
+      "scene": "living",
+      "kurgu": "classic",
+      "seed": 594085
     }
   ]
 }
