@@ -4721,6 +4721,23 @@
       "scene": "living",
       "kurgu": "classic",
       "seed": 594085
+    },
+    {
+      "id": "Z39tZ2Q3en4",
+      "date": "2026-11-25 20:38",
+      "kind": "short",
+      "title": "Countries Trying To Sleep 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "trying_to_sleep",
+      "countries": [
+        "IT",
+        "IE",
+        "ES",
+        "US"
+      ],
+      "scene": "night",
+      "kurgu": "classic",
+      "seed": 181143
     }
   ]
 }
