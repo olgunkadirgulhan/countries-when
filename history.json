@@ -4774,6 +4774,23 @@
       "scene": "airport",
       "kurgu": "five",
       "seed": 818496
+    },
+    {
+      "id": "BOqf23DGlp0",
+      "date": "2026-11-26 20:38",
+      "kind": "short",
+      "title": "Countryballs: Countries Decorating A Cake 😂 #countryballs",
+      "privacy": "public",
+      "situation": "decorating_cake",
+      "countries": [
+        "IT",
+        "GB",
+        "MX",
+        "FR"
+      ],
+      "scene": "kitchen",
+      "kurgu": "classic",
+      "seed": 973873
     }
   ]
 }
