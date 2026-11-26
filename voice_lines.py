@@ -398,6 +398,42 @@ LINES = {
   "countries_dropping_ice_c": [
    "Oh sorry, ground, for dropping ice cream on you!",
    "calm"
+  ],
+  "countries_polishing_shoe": [
+   "Mine still have mud from hiking.",
+   "sleepy"
+  ],
+  "countries_emptying_the_d": [
+   "Oops, this mug is still wet.",
+   "shock"
+  ],
+  "countries_sorting_mail": [
+   "Oh look, a handwritten postcard!",
+   "love"
+  ],
+  "countries_at_the_self_ch": [
+   "Sorry machine, I am placing it gently.",
+   "calm"
+  ],
+  "countries_watering_the_l": [
+   "Giving the friendly neighborhood squirrel a shower.",
+   "love"
+  ],
+  "countries_putting_on_soc": [
+   "Ready for the snow boots now.",
+   "cool"
+  ],
+  "countries_checking_the_w": [
+   "Pack a jacket, a swimsuit, and snowshoes.",
+   "sleepy"
+  ],
+  "building_a_sandcastle": [
+   "Oh sorry, my bucket tipped over!",
+   "cry"
+  ],
+  "wearing_new_shoes": [
+   "So comfortable! Ready for a long walk!",
+   "happy"
   ]
  },
  "BR": {
@@ -900,6 +936,50 @@ LINES = {
   "countries_at_a_garage_sa": [
    "I found a bargain! Look at this!",
    "shock"
+  ],
+  "countries_ironing_clothe": [
+   "Needs more water spray for sure!",
+   "happy"
+  ],
+  "countries_organizing_the": [
+   "So much delicious fruit to fit!",
+   "happy"
+  ],
+  "countries_testing_a_new_": [
+   "Scribbles frantic loops until ink flows.",
+   "shock"
+  ],
+  "countries_brushing_their": [
+   "Singing along with the foam in my mouth.",
+   "happy"
+  ],
+  "countries_putting_on_soc": [
+   "Putting them on while hopping on one foot.",
+   "shock"
+  ],
+  "countries_charging_their": [
+   "Plugged in while tangled in three blankets.",
+   "sleepy"
+  ],
+  "countries_looking_for_gl": [
+   "Asking everyone in the room to look.",
+   "shock"
+  ],
+  "countries_cleaning_the_k": [
+   "Blows on it and hopes for the best.",
+   "happy"
+  ],
+  "countries_checking_the_w": [
+   "Sunglasses ready for the bright afternoon sun.",
+   "happy"
+  ],
+  "building_a_sandcastle": [
+   "I am adding a tiny palm tree on top!",
+   "happy"
+  ],
+  "wearing_new_shoes": [
+   "Time to test if I can dance in these!",
+   "happy"
   ]
  },
  "US": {
@@ -1574,6 +1654,78 @@ LINES = {
   "countries_at_a_garage_sa": [
    "I will take this retro lamp for two dollars!",
    "happy"
+  ],
+  "countries_folding_laundr": [
+   "I just shove them in drawers.",
+   "shock"
+  ],
+  "countries_making_grocery": [
+   "I always forget the milk anyway.",
+   "shock"
+  ],
+  "countries_organizing_the": [
+   "Leftover pizza goes on the top.",
+   "love"
+  ],
+  "countries_charging_all_d": [
+   "My phone battery is at one percent!",
+   "shock"
+  ],
+  "countries_packing_lunch_": [
+   "Sandwich and an apple will do.",
+   "calm"
+  ],
+  "countries_testing_a_new_": [
+   "Always gotta write my name first.",
+   "cool"
+  ],
+  "countries_watering_the_l": [
+   "My grass will be the greenest!",
+   "happy"
+  ],
+  "countries_brushing_their": [
+   "Electric toothbrush set to turbo mode!",
+   "happy"
+  ],
+  "countries_putting_on_soc": [
+   "Mismatched socks show my creative side.",
+   "happy"
+  ],
+  "countries_charging_their": [
+   "Living life on five percent battery anxiety.",
+   "shock"
+  ],
+  "countries_looking_for_gl": [
+   "They were on my head the whole time!",
+   "shock"
+  ],
+  "countries_waiting_for_th": [
+   "Is the microwave faster? Just kidding!",
+   "cool"
+  ],
+  "countries_assembling_a_s": [
+   "Needs three layers of different cheeses.",
+   "happy"
+  ],
+  "countries_cleaning_the_k": [
+   "Turning it upside down and shaking vigorously.",
+   "shock"
+  ],
+  "countries_checking_the_w": [
+   "Checking the radar map like a meteorologist.",
+   "cool"
+  ],
+  "building_a_sandcastle": [
+   "Behold, the mega sand fortress of destiny!",
+   "cool"
+  ],
+  "carving_a_pumpkin": [
+   "This pumpkin face is gonna be epic!",
+   "happy"
+  ],
+  "trying_chopsticks": [
+   "I dropped another dumpling into the soup!",
+   "cry"
   ]
  },
  "TR": {
@@ -1868,6 +2020,14 @@ LINES = {
   "countries_dropping_ice_c": [
    "Ha! That is why I hold it tight!",
    "cool"
+  ],
+  "countries_waiting_for_th": [
+   "The double teapot is the only true way.",
+   "love"
+  ],
+  "carving_a_pumpkin": [
+   "I made a tiny lantern inside!",
+   "happy"
   ]
  },
  "JP": {
@@ -2450,6 +2610,70 @@ LINES = {
   "countries_at_a_garage_sa": [
    "Everything here is kept in such neat condition!",
    "calm"
+  ],
+  "countries_ironing_clothe": [
+   "Why is this crease so stubborn!",
+   "angry"
+  ],
+  "countries_folding_laundr": [
+   "Every corner must match perfectly square.",
+   "happy"
+  ],
+  "countries_making_grocery": [
+   "Check off items as we walk.",
+   "cool"
+  ],
+  "countries_charging_all_d": [
+   "All cables must be neatly coiled.",
+   "happy"
+  ],
+  "countries_packing_lunch_": [
+   "Bento boxes must look like artwork.",
+   "love"
+  ],
+  "countries_testing_a_new_": [
+   "Draws a flawless geometric cat face.",
+   "happy"
+  ],
+  "countries_at_the_self_ch": [
+   "Scans everything with robotic precision.",
+   "cool"
+  ],
+  "countries_brushing_their": [
+   "Three minutes of absolute mindfulness.",
+   "calm"
+  ],
+  "countries_putting_on_soc": [
+   "Folded neatly by color in the drawer.",
+   "calm"
+  ],
+  "countries_charging_their": [
+   "Always stays above eighty percent.",
+   "cool"
+  ],
+  "countries_looking_for_gl": [
+   "Polishing them with a special microfiber cloth.",
+   "cool"
+  ],
+  "countries_waiting_for_th": [
+   "Green tea time requires precise temperature.",
+   "calm"
+  ],
+  "countries_cleaning_the_k": [
+   "Using tiny cotton swabs for every single key.",
+   "calm"
+  ],
+  "building_a_sandcastle": [
+   "This structural precision is truly satisfying.",
+   "love"
+  ],
+  "wearing_new_shoes": [
+   "Please do not step on my clean soles!",
+   "shock"
+  ],
+  "trying_chopsticks": [
+   "Just relax your grip, it comes naturally!",
+   "calm"
   ]
  },
  "MX": {
@@ -2871,6 +3095,22 @@ LINES = {
   ],
   "countries_at_a_garage_sa": [
    "Look at all these amazing hidden treasures!",
+   "love"
+  ],
+  "countries_polishing_shoe": [
+   "Look at that mirror finish now!",
+   "happy"
+  ],
+  "countries_packing_lunch_": [
+   "Add some fresh lime wedges inside.",
+   "happy"
+  ],
+  "building_a_sandcastle": [
+   "Wait, a wave is coming right at us!",
+   "shock"
+  ],
+  "carving_a_pumpkin": [
+   "Look at mine, it smiles so brightly!",
    "love"
   ]
  },
@@ -3418,6 +3658,46 @@ LINES = {
   "countries_chopping_an_on": [
    "Precision cuts make the crying worth it.",
    "calm"
+  ],
+  "countries_polishing_shoe": [
+   "Brushing in circular motions works best.",
+   "calm"
+  ],
+  "countries_emptying_the_d": [
+   "The cutlery goes in upright sorting!",
+   "angry"
+  ],
+  "countries_making_grocery": [
+   "Categorize items by supermarket aisle order.",
+   "happy"
+  ],
+  "countries_at_the_self_ch": [
+   "The weight sensor is extremely sensitive!",
+   "angry"
+  ],
+  "countries_watering_the_l": [
+   "Only allowed on Tuesdays between 4 and 6.",
+   "angry"
+  ],
+  "countries_brushing_their": [
+   "Precise circular motions as recommended.",
+   "calm"
+  ],
+  "countries_charging_their": [
+   "Using the original certified adapter only.",
+   "cool"
+  ],
+  "countries_looking_for_gl": [
+   "Systematic room search starting from the left.",
+   "cool"
+  ],
+  "countries_cleaning_the_k": [
+   "Compressed air can at maximum pressure!",
+   "cool"
+  ],
+  "trying_chopsticks": [
+   "I calculated the angle, yet it still slipped.",
+   "angry"
   ]
  },
  "IN": {
@@ -3727,6 +4007,22 @@ LINES = {
   ],
   "countries_chopping_an_on": [
    "Keep chopping! The curry demands more onions!",
+   "happy"
+  ],
+  "countries_charging_all_d": [
+   "So many adapters plugged in here.",
+   "angry"
+  ],
+  "countries_testing_a_new_": [
+   "Writes a whole mathematical equation.",
+   "cool"
+  ],
+  "countries_charging_their": [
+   "Wrapped the cord with a spring for safety.",
+   "happy"
+  ],
+  "countries_waiting_for_th": [
+   "Adding cardamom and ginger right now.",
    "happy"
   ]
  },
@@ -4258,6 +4554,34 @@ LINES = {
   "countries_dropping_ice_c": [
    "My triple scoop gelato, gone forever!",
    "cry"
+  ],
+  "countries_ironing_clothe": [
+   "My shirt must look immaculate today.",
+   "cool"
+  ],
+  "countries_folding_laundr": [
+   "Fresh laundry smells like sunshine.",
+   "love"
+  ],
+  "countries_making_grocery": [
+   "Write down extra olive oil too.",
+   "calm"
+  ],
+  "countries_testing_a_new_": [
+   "Expressive hand gestures on paper.",
+   "happy"
+  ],
+  "countries_brushing_their": [
+   "Forgot the toothpaste on the first try.",
+   "shock"
+  ],
+  "countries_looking_for_gl": [
+   "Using hand gestures to find where I left them.",
+   "happy"
+  ],
+  "wearing_new_shoes": [
+   "Absolute perfection! Pure leather perfection!",
+   "love"
   ]
  },
  "GB": {
@@ -4808,6 +5132,70 @@ LINES = {
   "countries_at_a_garage_sa": [
    "What a charming collection of old tea cups!",
    "happy"
+  ],
+  "countries_ironing_clothe": [
+   "Careful, don't burn the silk collar!",
+   "shock"
+  ],
+  "countries_sweeping_the_f": [
+   "Where did this random crumb come from?",
+   "shock"
+  ],
+  "countries_sorting_mail": [
+   "Straight into the paper bin it goes.",
+   "cool"
+  ],
+  "countries_packing_lunch_": [
+   "Don't forget the afternoon biscuit snack.",
+   "shock"
+  ],
+  "countries_testing_a_new_": [
+   "Just a simple 'testing, one two'.",
+   "calm"
+  ],
+  "countries_watering_the_l": [
+   "It's already raining, why am I doing this?",
+   "shock"
+  ],
+  "countries_brushing_their": [
+   "Mornings are too loud, let me be.",
+   "sleepy"
+  ],
+  "countries_putting_on_soc": [
+   "Fighting a losing battle with the washing machine.",
+   "angry"
+  ],
+  "countries_charging_their": [
+   "The cable has to be angled just right.",
+   "calm"
+  ],
+  "countries_looking_for_gl": [
+   "Squinting at everything like a detective.",
+   "calm"
+  ],
+  "countries_waiting_for_th": [
+   "Staring intensely until the first bubble appears.",
+   "shock"
+  ],
+  "countries_assembling_a_s": [
+   "Crisps inside the sandwich are essential.",
+   "shock"
+  ],
+  "countries_cleaning_the_k": [
+   "Just ignoring the crumbs under the spacebar.",
+   "sleepy"
+  ],
+  "countries_checking_the_w": [
+   "It might rain, or snow, or shine in five minutes.",
+   "shock"
+  ],
+  "building_a_sandcastle": [
+   "Do make sure the moat is perfectly symmetrical.",
+   "calm"
+  ],
+  "wearing_new_shoes": [
+   "Splendid, though they feel rather stiff initially.",
+   "calm"
   ]
  },
  "ES": {
@@ -5078,6 +5466,30 @@ LINES = {
   "countries_burning_the_to": [
    "No problem, just scrape off the black part!",
    "cool"
+  ],
+  "countries_polishing_shoe": [
+   "Just a little more buffing left.",
+   "cool"
+  ],
+  "countries_sweeping_the_f": [
+   "Get every last speck of dust!",
+   "angry"
+  ],
+  "countries_at_the_self_ch": [
+   "Greeting the machine like a friend.",
+   "happy"
+  ],
+  "countries_watering_the_l": [
+   "Watering the plants while chatting to neighbors.",
+   "happy"
+  ],
+  "countries_assembling_a_s": [
+   "Rubbing fresh garlic and olive oil on the crust.",
+   "happy"
+  ],
+  "wearing_new_shoes": [
+   "Ouch, I think I got a blister already!",
+   "cry"
   ]
  },
  "NL": {
@@ -5311,6 +5723,30 @@ LINES = {
   ],
   "countries_at_a_garage_sa": [
    "Can I get a discount if I buy both?",
+   "cool"
+  ],
+  "countries_folding_laundr": [
+   "That takes up way too space!",
+   "angry"
+  ],
+  "countries_organizing_the": [
+   "Everything needs a clear label tag.",
+   "cool"
+  ],
+  "countries_at_the_self_ch": [
+   "Skipped the bag to save five cents.",
+   "cool"
+  ],
+  "countries_watering_the_l": [
+   "Must capture every drop in a barrel.",
+   "cool"
+  ],
+  "countries_assembling_a_s": [
+   "Cheese slices placed with geometric precision.",
+   "cool"
+  ],
+  "building_a_sandcastle": [
+   "My sea wall will protect everything!",
    "cool"
   ]
  },
@@ -5606,6 +6042,42 @@ LINES = {
   "countries_chopping_an_on": [
    "My eyes are burning so much!",
    "cry"
+  ],
+  "countries_ironing_clothe": [
+   "Just use the steam function gently.",
+   "calm"
+  ],
+  "countries_folding_laundr": [
+   "Stack them by color families please.",
+   "calm"
+  ],
+  "countries_sweeping_the_f": [
+   "The broom angle is crucial here.",
+   "calm"
+  ],
+  "countries_charging_all_d": [
+   "Unplug chargers when not in use.",
+   "calm"
+  ],
+  "countries_at_the_self_ch": [
+   "Contactless tap and I am gone.",
+   "happy"
+  ],
+  "countries_putting_on_soc": [
+   "Cozy winter morning essentials.",
+   "shiver"
+  ],
+  "countries_looking_for_gl": [
+   "Found them! Time to enjoy the view.",
+   "happy"
+  ],
+  "countries_assembling_a_s": [
+   "Open-faced shrimp sandwich loaded with dill.",
+   "calm"
+  ],
+  "countries_checking_the_w": [
+   "Enjoying the five minutes of summer sunlight.",
+   "shiver"
   ]
  },
  "NO": {
@@ -5788,6 +6260,22 @@ LINES = {
   "hearing_thunder": [
    "Thor is having a busy day up there.",
    "cool"
+  ],
+  "countries_charging_all_d": [
+   "Ready for tomorrow's digital tasks.",
+   "cool"
+  ],
+  "countries_putting_on_soc": [
+   "Wool socks are my best friends.",
+   "love"
+  ],
+  "countries_checking_the_w": [
+   "There is no bad weather, only bad clothing.",
+   "happy"
+  ],
+  "carving_a_pumpkin": [
+   "The scoop fell into my hot cocoa!",
+   "cry"
   ]
  },
  "PL": {
@@ -6111,6 +6599,18 @@ LINES = {
   ],
   "farmers_market": [
    "The prices are calculated very precisely.",
+   "calm"
+  ],
+  "countries_emptying_the_d": [
+   "Every plate has its exact slot.",
+   "calm"
+  ],
+  "countries_organizing_the": [
+   "Condiments belong in the door shelves.",
+   "calm"
+  ],
+  "countries_sorting_mail": [
+   "Recycle the flyers immediately.",
    "calm"
   ]
  },
@@ -6570,6 +7070,14 @@ LINES = {
   "countries_chopping_an_on": [
    "Squeeze a lemon on the board quickly!",
    "calm"
+  ],
+  "countries_sweeping_the_f": [
+   "A clean porch brings good luck.",
+   "happy"
+  ],
+  "countries_checking_the_w": [
+   "Sunshine status: absolutely glorious today.",
+   "love"
   ]
  },
  "CO": {
@@ -6898,6 +7406,10 @@ LINES = {
   "countries_spilling_bubbl": [
    "Quick! Save the straw at least!",
    "shock"
+  ],
+  "countries_sweeping_the_f": [
+   "Dancing while sweeping makes it fun.",
+   "love"
   ]
  },
  "VN": {
@@ -7039,6 +7551,18 @@ LINES = {
   ],
   "countries_spilling_bubbl": [
    "It is okay, I will buy another cup!",
+   "happy"
+  ],
+  "countries_packing_lunch_": [
+   "Fresh herbs make every bite better.",
+   "cool"
+  ],
+  "countries_assembling_a_s": [
+   "Adding crunchy pickles and fresh herbs.",
+   "cool"
+  ],
+  "trying_chopsticks": [
+   "Practice makes perfect, keep trying!",
    "happy"
   ]
  },
@@ -7218,6 +7742,10 @@ LINES = {
   "countries_chopping_an_on": [
    "I cry, but the soup will be amazing!",
    "love"
+  ],
+  "trying_chopsticks": [
+   "Yay! I finally caught a single rice grain!",
+   "happy"
   ]
  },
  "FR": {
@@ -7588,6 +8116,50 @@ LINES = {
   "countries_chopping_an_on": [
    "I am not crying, it is tears of joy!",
    "cry"
+  ],
+  "countries_polishing_shoe": [
+   "A good shine is an art form.",
+   "love"
+  ],
+  "countries_emptying_the_d": [
+   "Such a boring daily chore.",
+   "sleepy"
+  ],
+  "countries_making_grocery": [
+   "Put fresh baguettes at the top!",
+   "love"
+  ],
+  "countries_sorting_mail": [
+   "Always open letters with style.",
+   "happy"
+  ],
+  "countries_testing_a_new_": [
+   "Draws a tiny, elegant little flower.",
+   "love"
+  ],
+  "countries_brushing_their": [
+   "Checking posture in the mirror first.",
+   "cool"
+  ],
+  "countries_charging_their": [
+   "Charging next to a lovely espresso cup.",
+   "love"
+  ],
+  "countries_assembling_a_s": [
+   "Just a fresh baguette, butter, and ham.",
+   "love"
+  ],
+  "countries_cleaning_the_k": [
+   "Wiping it down while listening to jazz.",
+   "love"
+  ],
+  "carving_a_pumpkin": [
+   "Non! Mine must display elegant artistic despair!",
+   "angry"
+  ],
+  "trying_chopsticks": [
+   "This requires supreme finger dexterity!",
+   "shock"
   ]
  },
  "AR": {
@@ -8008,6 +8580,22 @@ LINES = {
   "countries_spilling_bubbl": [
    "No! My boba pearls are rolling away!",
    "cry"
+  ],
+  "countries_organizing_the": [
+   "Kimchi container must be sealed tight!",
+   "shock"
+  ],
+  "countries_cleaning_the_k": [
+   "Gel slime to pick up every speck of dust.",
+   "happy"
+  ],
+  "carving_a_pumpkin": [
+   "Wait, did I carve the eyes upside down?",
+   "shock"
+  ],
+  "trying_chopsticks": [
+   "Metal chopsticks give you maximum control!",
+   "cool"
   ]
  },
  "IE": {
@@ -8074,6 +8662,10 @@ LINES = {
   "four_leaf_clover": [
    "Aha! Extra luck for all my friends today!",
    "happy"
+  ],
+  "carving_a_pumpkin": [
+   "Mind the seeds, we can roast them later!",
+   "cool"
   ]
  },
  "BE": {
@@ -8180,6 +8772,10 @@ LINES = {
   "riding_a_bicycle": [
    "Clear the dedicated cycle superhighway, please!",
    "cool"
+  ],
+  "countries_emptying_the_d": [
+   "Everything is sparkling and dry.",
+   "happy"
   ]
  },
  "FI": {
@@ -8346,6 +8942,14 @@ LINES = {
   "countries_at_a_garage_sa": [
    "I am just browsing quietly in the back.",
    "sleepy"
+  ],
+  "countries_sorting_mail": [
+   "Just junk mail and bills again.",
+   "sleepy"
+  ],
+  "wearing_new_shoes": [
+   "Why must shoes be so brightly colored?",
+   "angry"
   ]
  },
  "AT": {

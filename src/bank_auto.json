@@ -3924,5 +3924,784 @@
     "sleepy"
    ]
   }
+ },
+ "countries_ironing_clothe": {
+  "title": "COUNTRIES IRONING CLOTHES",
+  "scene": "kitchen",
+  "name": "Ironing Clothes",
+  "lines": {
+   "JP": [
+    "Why is this crease so stubborn!",
+    "angry"
+   ],
+   "SE": [
+    "Just use the steam function gently.",
+    "calm"
+   ],
+   "BR": [
+    "Needs more water spray for sure!",
+    "happy"
+   ],
+   "IT": [
+    "My shirt must look immaculate today.",
+    "cool"
+   ],
+   "GB": [
+    "Careful, don't burn the silk collar!",
+    "shock"
+   ]
+  }
+ },
+ "countries_polishing_shoe": {
+  "title": "COUNTRIES POLISHING SHOES",
+  "scene": "living",
+  "name": "Polishing Shoes",
+  "lines": {
+   "FR": [
+    "A good shine is an art form.",
+    "love"
+   ],
+   "DE": [
+    "Brushing in circular motions works best.",
+    "calm"
+   ],
+   "MX": [
+    "Look at that mirror finish now!",
+    "happy"
+   ],
+   "CA": [
+    "Mine still have mud from hiking.",
+    "sleepy"
+   ],
+   "ES": [
+    "Just a little more buffing left.",
+    "cool"
+   ]
+  }
+ },
+ "countries_folding_laundr": {
+  "title": "COUNTRIES FOLDING LAUNDRY",
+  "scene": "living",
+  "name": "Folding Laundry",
+  "lines": {
+   "JP": [
+    "Every corner must match perfectly square.",
+    "happy"
+   ],
+   "SE": [
+    "Stack them by color families please.",
+    "calm"
+   ],
+   "US": [
+    "I just shove them in drawers.",
+    "shock"
+   ],
+   "NL": [
+    "That takes up way too space!",
+    "angry"
+   ],
+   "IT": [
+    "Fresh laundry smells like sunshine.",
+    "love"
+   ]
+  }
+ },
+ "countries_emptying_the_d": {
+  "title": "COUNTRIES EMPTYING THE DISHWASHER",
+  "scene": "kitchen",
+  "name": "Emptying The Dishwasher",
+  "lines": {
+   "DE": [
+    "The cutlery goes in upright sorting!",
+    "angry"
+   ],
+   "DK": [
+    "Everything is sparkling and dry.",
+    "happy"
+   ],
+   "CA": [
+    "Oops, this mug is still wet.",
+    "shock"
+   ],
+   "FR": [
+    "Such a boring daily chore.",
+    "sleepy"
+   ],
+   "CH": [
+    "Every plate has its exact slot.",
+    "calm"
+   ]
+  }
+ },
+ "countries_sweeping_the_f": {
+  "title": "COUNTRIES SWEEPING THE FLOOR",
+  "scene": "living",
+  "name": "Sweeping The Floor",
+  "lines": {
+   "ES": [
+    "Get every last speck of dust!",
+    "angry"
+   ],
+   "GR": [
+    "A clean porch brings good luck.",
+    "happy"
+   ],
+   "SE": [
+    "The broom angle is crucial here.",
+    "calm"
+   ],
+   "PH": [
+    "Dancing while sweeping makes it fun.",
+    "love"
+   ],
+   "GB": [
+    "Where did this random crumb come from?",
+    "shock"
+   ]
+  }
+ },
+ "countries_making_grocery": {
+  "title": "COUNTRIES MAKING A GROCERY LIST",
+  "scene": "office",
+  "name": "Making A Grocery List",
+  "lines": {
+   "DE": [
+    "Categorize items by supermarket aisle order.",
+    "happy"
+   ],
+   "FR": [
+    "Put fresh baguettes at the top!",
+    "love"
+   ],
+   "US": [
+    "I always forget the milk anyway.",
+    "shock"
+   ],
+   "IT": [
+    "Write down extra olive oil too.",
+    "calm"
+   ],
+   "JP": [
+    "Check off items as we walk.",
+    "cool"
+   ]
+  }
+ },
+ "countries_organizing_the": {
+  "title": "COUNTRIES ORGANIZING THE FRIDGE",
+  "scene": "kitchen",
+  "name": "Organizing The Fridge",
+  "lines": {
+   "CH": [
+    "Condiments belong in the door shelves.",
+    "calm"
+   ],
+   "BR": [
+    "So much delicious fruit to fit!",
+    "happy"
+   ],
+   "NL": [
+    "Everything needs a clear label tag.",
+    "cool"
+   ],
+   "US": [
+    "Leftover pizza goes on the top.",
+    "love"
+   ],
+   "KR": [
+    "Kimchi container must be sealed tight!",
+    "shock"
+   ]
+  }
+ },
+ "countries_charging_all_d": {
+  "title": "COUNTRIES CHARGING ALL DEVICES",
+  "scene": "living",
+  "name": "Charging All Devices",
+  "lines": {
+   "JP": [
+    "All cables must be neatly coiled.",
+    "happy"
+   ],
+   "US": [
+    "My phone battery is at one percent!",
+    "shock"
+   ],
+   "SE": [
+    "Unplug chargers when not in use.",
+    "calm"
+   ],
+   "IN": [
+    "So many adapters plugged in here.",
+    "angry"
+   ],
+   "NO": [
+    "Ready for tomorrow's digital tasks.",
+    "cool"
+   ]
+  }
+ },
+ "countries_sorting_mail": {
+  "title": "COUNTRIES SORTING MAIL",
+  "scene": "office",
+  "name": "Sorting Mail",
+  "lines": {
+   "FI": [
+    "Just junk mail and bills again.",
+    "sleepy"
+   ],
+   "CA": [
+    "Oh look, a handwritten postcard!",
+    "love"
+   ],
+   "CH": [
+    "Recycle the flyers immediately.",
+    "calm"
+   ],
+   "GB": [
+    "Straight into the paper bin it goes.",
+    "cool"
+   ],
+   "FR": [
+    "Always open letters with style.",
+    "happy"
+   ]
+  }
+ },
+ "countries_packing_lunch_": {
+  "title": "COUNTRIES PACKING LUNCH BOXES",
+  "scene": "kitchen",
+  "name": "Packing Lunch Boxes",
+  "lines": {
+   "JP": [
+    "Bento boxes must look like artwork.",
+    "love"
+   ],
+   "MX": [
+    "Add some fresh lime wedges inside.",
+    "happy"
+   ],
+   "US": [
+    "Sandwich and an apple will do.",
+    "calm"
+   ],
+   "VN": [
+    "Fresh herbs make every bite better.",
+    "cool"
+   ],
+   "GB": [
+    "Don't forget the afternoon biscuit snack.",
+    "shock"
+   ]
+  }
+ },
+ "countries_testing_a_new_": {
+  "title": "COUNTRIES TESTING A NEW PEN",
+  "scene": "office",
+  "name": "Testing a Pen",
+  "lines": {
+   "US": [
+    "Always gotta write my name first.",
+    "cool"
+   ],
+   "FR": [
+    "Draws a tiny, elegant little flower.",
+    "love"
+   ],
+   "JP": [
+    "Draws a flawless geometric cat face.",
+    "happy"
+   ],
+   "GB": [
+    "Just a simple 'testing, one two'.",
+    "calm"
+   ],
+   "BR": [
+    "Scribbles frantic loops until ink flows.",
+    "shock"
+   ],
+   "IN": [
+    "Writes a whole mathematical equation.",
+    "cool"
+   ],
+   "IT": [
+    "Expressive hand gestures on paper.",
+    "happy"
+   ]
+  }
+ },
+ "countries_at_the_self_ch": {
+  "title": "COUNTRIES AT THE SELF CHECKOUT",
+  "scene": "market",
+  "name": "Self Checkout",
+  "lines": {
+   "JP": [
+    "Scans everything with robotic precision.",
+    "cool"
+   ],
+   "CA": [
+    "Sorry machine, I am placing it gently.",
+    "calm"
+   ],
+   "DE": [
+    "The weight sensor is extremely sensitive!",
+    "angry"
+   ],
+   "SE": [
+    "Contactless tap and I am gone.",
+    "happy"
+   ],
+   "ES": [
+    "Greeting the machine like a friend.",
+    "happy"
+   ],
+   "NL": [
+    "Skipped the bag to save five cents.",
+    "cool"
+   ]
+  }
+ },
+ "countries_watering_the_l": {
+  "title": "COUNTRIES WATERING THE LAWN",
+  "scene": "park",
+  "name": "Watering Lawn",
+  "lines": {
+   "US": [
+    "My grass will be the greenest!",
+    "happy"
+   ],
+   "GB": [
+    "It's already raining, why am I doing this?",
+    "shock"
+   ],
+   "NL": [
+    "Must capture every drop in a barrel.",
+    "cool"
+   ],
+   "ES": [
+    "Watering the plants while chatting to neighbors.",
+    "happy"
+   ],
+   "CA": [
+    "Giving the friendly neighborhood squirrel a shower.",
+    "love"
+   ],
+   "DE": [
+    "Only allowed on Tuesdays between 4 and 6.",
+    "angry"
+   ]
+  }
+ },
+ "countries_brushing_their": {
+  "title": "COUNTRIES BRUSHING THEIR TEETH",
+  "scene": "kitchen",
+  "name": "Brushing Teeth",
+  "lines": {
+   "US": [
+    "Electric toothbrush set to turbo mode!",
+    "happy"
+   ],
+   "JP": [
+    "Three minutes of absolute mindfulness.",
+    "calm"
+   ],
+   "GB": [
+    "Mornings are too loud, let me be.",
+    "sleepy"
+   ],
+   "BR": [
+    "Singing along with the foam in my mouth.",
+    "happy"
+   ],
+   "FR": [
+    "Checking posture in the mirror first.",
+    "cool"
+   ],
+   "DE": [
+    "Precise circular motions as recommended.",
+    "calm"
+   ],
+   "IT": [
+    "Forgot the toothpaste on the first try.",
+    "shock"
+   ]
+  }
+ },
+ "countries_putting_on_soc": {
+  "title": "COUNTRIES PUTTING ON SOCKS",
+  "scene": "living",
+  "name": "Putting on Socks",
+  "lines": {
+   "NO": [
+    "Wool socks are my best friends.",
+    "love"
+   ],
+   "US": [
+    "Mismatched socks show my creative side.",
+    "happy"
+   ],
+   "JP": [
+    "Folded neatly by color in the drawer.",
+    "calm"
+   ],
+   "GB": [
+    "Fighting a losing battle with the washing machine.",
+    "angry"
+   ],
+   "BR": [
+    "Putting them on while hopping on one foot.",
+    "shock"
+   ],
+   "SE": [
+    "Cozy winter morning essentials.",
+    "shiver"
+   ],
+   "CA": [
+    "Ready for the snow boots now.",
+    "cool"
+   ]
+  }
+ },
+ "countries_charging_their": {
+  "title": "COUNTRIES CHARGING THEIR PHONE",
+  "scene": "living",
+  "name": "Phone Charging",
+  "lines": {
+   "JP": [
+    "Always stays above eighty percent.",
+    "cool"
+   ],
+   "US": [
+    "Living life on five percent battery anxiety.",
+    "shock"
+   ],
+   "GB": [
+    "The cable has to be angled just right.",
+    "calm"
+   ],
+   "BR": [
+    "Plugged in while tangled in three blankets.",
+    "sleepy"
+   ],
+   "DE": [
+    "Using the original certified adapter only.",
+    "cool"
+   ],
+   "FR": [
+    "Charging next to a lovely espresso cup.",
+    "love"
+   ],
+   "IN": [
+    "Wrapped the cord with a spring for safety.",
+    "happy"
+   ]
+  }
+ },
+ "countries_looking_for_gl": {
+  "title": "COUNTRIES LOOKING FOR GLASSES",
+  "scene": "office",
+  "name": "Finding Glasses",
+  "lines": {
+   "US": [
+    "They were on my head the whole time!",
+    "shock"
+   ],
+   "GB": [
+    "Squinting at everything like a detective.",
+    "calm"
+   ],
+   "JP": [
+    "Polishing them with a special microfiber cloth.",
+    "cool"
+   ],
+   "IT": [
+    "Using hand gestures to find where I left them.",
+    "happy"
+   ],
+   "DE": [
+    "Systematic room search starting from the left.",
+    "cool"
+   ],
+   "BR": [
+    "Asking everyone in the room to look.",
+    "shock"
+   ],
+   "SE": [
+    "Found them! Time to enjoy the view.",
+    "happy"
+   ]
+  }
+ },
+ "countries_waiting_for_th": {
+  "title": "COUNTRIES WAITING FOR THE KETTLE",
+  "scene": "kitchen",
+  "name": "Boiling Kettle",
+  "lines": {
+   "GB": [
+    "Staring intensely until the first bubble appears.",
+    "shock"
+   ],
+   "JP": [
+    "Green tea time requires precise temperature.",
+    "calm"
+   ],
+   "TR": [
+    "The double teapot is the only true way.",
+    "love"
+   ],
+   "IN": [
+    "Adding cardamom and ginger right now.",
+    "happy"
+   ],
+   "US": [
+    "Is the microwave faster? Just kidding!",
+    "cool"
+   ]
+  }
+ },
+ "countries_assembling_a_s": {
+  "title": "COUNTRIES ASSEMBLING A SANDWICH",
+  "scene": "kitchen",
+  "name": "Making Sandwich",
+  "lines": {
+   "US": [
+    "Needs three layers of different cheeses.",
+    "happy"
+   ],
+   "FR": [
+    "Just a fresh baguette, butter, and ham.",
+    "love"
+   ],
+   "NL": [
+    "Cheese slices placed with geometric precision.",
+    "cool"
+   ],
+   "ES": [
+    "Rubbing fresh garlic and olive oil on the crust.",
+    "happy"
+   ],
+   "VN": [
+    "Adding crunchy pickles and fresh herbs.",
+    "cool"
+   ],
+   "GB": [
+    "Crisps inside the sandwich are essential.",
+    "shock"
+   ],
+   "SE": [
+    "Open-faced shrimp sandwich loaded with dill.",
+    "calm"
+   ]
+  }
+ },
+ "countries_cleaning_the_k": {
+  "title": "COUNTRIES CLEANING THE KEYBOARD",
+  "scene": "office",
+  "name": "Cleaning Keyboard",
+  "lines": {
+   "JP": [
+    "Using tiny cotton swabs for every single key.",
+    "calm"
+   ],
+   "US": [
+    "Turning it upside down and shaking vigorously.",
+    "shock"
+   ],
+   "DE": [
+    "Compressed air can at maximum pressure!",
+    "cool"
+   ],
+   "KR": [
+    "Gel slime to pick up every speck of dust.",
+    "happy"
+   ],
+   "GB": [
+    "Just ignoring the crumbs under the spacebar.",
+    "sleepy"
+   ],
+   "FR": [
+    "Wiping it down while listening to jazz.",
+    "love"
+   ],
+   "BR": [
+    "Blows on it and hopes for the best.",
+    "happy"
+   ]
+  }
+ },
+ "countries_checking_the_w": {
+  "title": "COUNTRIES CHECKING WEATHER",
+  "scene": "sun",
+  "name": "Checking Weather",
+  "lines": {
+   "GB": [
+    "It might rain, or snow, or shine in five minutes.",
+    "shock"
+   ],
+   "US": [
+    "Checking the radar map like a meteorologist.",
+    "cool"
+   ],
+   "GR": [
+    "Sunshine status: absolutely glorious today.",
+    "love"
+   ],
+   "NO": [
+    "There is no bad weather, only bad clothing.",
+    "happy"
+   ],
+   "BR": [
+    "Sunglasses ready for the bright afternoon sun.",
+    "happy"
+   ],
+   "SE": [
+    "Enjoying the five minutes of summer sunlight.",
+    "shiver"
+   ],
+   "CA": [
+    "Pack a jacket, a swimsuit, and snowshoes.",
+    "sleepy"
+   ]
+  }
+ },
+ "building_a_sandcastle": {
+  "title": "COUNTRIES BUILDING A SANDCASTLE",
+  "scene": "park",
+  "name": "Sandcastle",
+  "lines": {
+   "US": [
+    "Behold, the mega sand fortress of destiny!",
+    "cool"
+   ],
+   "GB": [
+    "Do make sure the moat is perfectly symmetrical.",
+    "calm"
+   ],
+   "BR": [
+    "I am adding a tiny palm tree on top!",
+    "happy"
+   ],
+   "JP": [
+    "This structural precision is truly satisfying.",
+    "love"
+   ],
+   "MX": [
+    "Wait, a wave is coming right at us!",
+    "shock"
+   ],
+   "CA": [
+    "Oh sorry, my bucket tipped over!",
+    "cry"
+   ],
+   "NL": [
+    "My sea wall will protect everything!",
+    "cool"
+   ]
+  }
+ },
+ "carving_a_pumpkin": {
+  "title": "COUNTRIES CARVING A PUMPKIN",
+  "scene": "kitchen",
+  "name": "Pumpkin Carving",
+  "lines": {
+   "US": [
+    "This pumpkin face is gonna be epic!",
+    "happy"
+   ],
+   "IE": [
+    "Mind the seeds, we can roast them later!",
+    "cool"
+   ],
+   "MX": [
+    "Look at mine, it smiles so brightly!",
+    "love"
+   ],
+   "FR": [
+    "Non! Mine must display elegant artistic despair!",
+    "angry"
+   ],
+   "KR": [
+    "Wait, did I carve the eyes upside down?",
+    "shock"
+   ],
+   "NO": [
+    "The scoop fell into my hot cocoa!",
+    "cry"
+   ],
+   "TR": [
+    "I made a tiny lantern inside!",
+    "happy"
+   ]
+  }
+ },
+ "wearing_new_shoes": {
+  "title": "COUNTRIES WEARING NEW SHOES",
+  "scene": "city",
+  "name": "New Shoes",
+  "lines": {
+   "IT": [
+    "Absolute perfection! Pure leather perfection!",
+    "love"
+   ],
+   "GB": [
+    "Splendid, though they feel rather stiff initially.",
+    "calm"
+   ],
+   "JP": [
+    "Please do not step on my clean soles!",
+    "shock"
+   ],
+   "BR": [
+    "Time to test if I can dance in these!",
+    "happy"
+   ],
+   "FI": [
+    "Why must shoes be so brightly colored?",
+    "angry"
+   ],
+   "ES": [
+    "Ouch, I think I got a blister already!",
+    "cry"
+   ],
+   "CA": [
+    "So comfortable! Ready for a long walk!",
+    "happy"
+   ]
+  }
+ },
+ "trying_chopsticks": {
+  "title": "COUNTRIES TRYING TO USE CHOPSTICKS",
+  "scene": "kitchen",
+  "name": "Chopsticks",
+  "lines": {
+   "JP": [
+    "Just relax your grip, it comes naturally!",
+    "calm"
+   ],
+   "US": [
+    "I dropped another dumpling into the soup!",
+    "cry"
+   ],
+   "FR": [
+    "This requires supreme finger dexterity!",
+    "shock"
+   ],
+   "VN": [
+    "Practice makes perfect, keep trying!",
+    "happy"
+   ],
+   "KR": [
+    "Metal chopsticks give you maximum control!",
+    "cool"
+   ],
+   "DE": [
+    "I calculated the angle, yet it still slipped.",
+    "angry"
+   ],
+   "TH": [
+    "Yay! I finally caught a single rice grain!",
+    "happy"
+   ]
+  }
  }
 }
