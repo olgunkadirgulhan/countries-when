@@ -4738,6 +4738,24 @@
       "scene": "night",
       "kurgu": "classic",
       "seed": 181143
+    },
+    {
+      "id": "NAMSP7YZHow",
+      "date": "2026-11-26 16:38",
+      "kind": "short",
+      "title": "Countries Finding A Lucky Coin: 5 Countries React 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "lucky_coin",
+      "countries": [
+        "IT",
+        "JP",
+        "GR",
+        "MX",
+        "GB"
+      ],
+      "scene": "city",
+      "kurgu": "five",
+      "seed": 673621
     }
   ]
 }
