@@ -4791,6 +4791,135 @@
       "scene": "kitchen",
       "kurgu": "classic",
       "seed": 973873
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode",
+      "title": "Countries When... Ice Skating Rink, Pets, Traffic Jam & More 😂 Countryball Episode 20",
+      "privacy": "public",
+      "situation": "episode",
+      "countries": []
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "ice_skating",
+      "countries": [
+        "JP",
+        "CA",
+        "BR",
+        "AT"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "pets",
+      "countries": [
+        "SE",
+        "TH",
+        "GB",
+        "KR"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "traffic",
+      "countries": [
+        "ID",
+        "VN",
+        "NL",
+        "JP"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "bus",
+      "countries": [
+        "DE",
+        "KR",
+        "IN",
+        "TR"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "losing_their_keys",
+      "countries": [
+        "ES",
+        "CA",
+        "JP",
+        "BR"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "packing_suitcase",
+      "countries": [
+        "IT",
+        "BR",
+        "JP",
+        "DE"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "cold",
+      "countries": [
+        "US",
+        "PL",
+        "BR",
+        "PH"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "first_day_spring",
+      "countries": [
+        "GB",
+        "SE",
+        "KR",
+        "ES"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "swimming_pool",
+      "countries": [
+        "ES",
+        "FI",
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "id": "j5fNzFWTePs",
+      "date": "2026-11-27 02:29",
+      "kind": "episode-part",
+      "situation": "office",
+      "countries": [
+        "IN",
+        "JP",
+        "IT",
+        "NO"
+      ]
     }
   ]
 }
