@@ -4955,6 +4955,24 @@
       "scene": "night",
       "kurgu": "classic",
       "seed": 773830
+    },
+    {
+      "id": "ejjM7yPMD2w",
+      "date": "2026-11-27 20:38",
+      "kind": "short",
+      "title": "Countryballs Hearing Thunder: Who Wins? 👑",
+      "privacy": "public",
+      "situation": "hearing_thunder",
+      "countries": [
+        "JP",
+        "CA",
+        "US",
+        "IT"
+      ],
+      "scene": "rain",
+      "kurgu": "crown",
+      "seed": 200733,
+      "winner": 0
     }
   ]
 }
