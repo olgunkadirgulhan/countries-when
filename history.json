@@ -4973,6 +4973,24 @@
       "kurgu": "crown",
       "seed": 200733,
       "winner": 0
+    },
+    {
+      "id": "uLt4mrG2bKY",
+      "date": "2026-11-28 16:38",
+      "kind": "short",
+      "title": "POV: 5 Countries Checking Into A Hotel 🌍 #countryballs",
+      "privacy": "public",
+      "situation": "hotel_checkin",
+      "countries": [
+        "DE",
+        "ES",
+        "CA",
+        "IT",
+        "GB"
+      ],
+      "scene": "city",
+      "kurgu": "five",
+      "seed": 11372
     }
   ]
 }
